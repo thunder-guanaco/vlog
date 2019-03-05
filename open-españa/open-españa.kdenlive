@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="de_DE.UTF-8" root="/opt/vlog/open-españa" title="Anonymous Submission" version="6.0.0" producer="main bin">
- <profile display_aspect_den="9" sample_aspect_num="1" progressive="1" width="1920" height="1080" sample_aspect_den="1" frame_rate_num="30" frame_rate_den="1" description="HD 1080p 30 fps" display_aspect_num="16" colorspace="709"/>
- <producer out="1423" in="0" id="1" title="Anonymous Submission">
+<mlt title="Anonymous Submission" producer="main bin" LC_NUMERIC="de_DE.UTF-8" version="6.0.0" root="/home/federico">
+ <profile frame_rate_num="30" colorspace="709" sample_aspect_den="1" sample_aspect_num="1" display_aspect_num="16" progressive="1" height="1080" display_aspect_den="9" width="1920" frame_rate_den="1" description="HD 1080p 30 fps"/>
+ <producer out="1423" title="Anonymous Submission" id="1" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:47:14</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_105045.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_105045.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -61,11 +61,11 @@
   <property name="kdenlive:file_hash">c1c34938510289c4ae09e40d0c470090</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="2099" in="0" id="2" title="Anonymous Submission">
+ <producer out="2099" title="Anonymous Submission" id="2" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:10:00</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_105249.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_105249.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -121,11 +121,11 @@
   <property name="kdenlive:file_hash">483f2ec50a72780a360962018d3cbcf7</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="4311" in="0" id="3" title="Anonymous Submission">
+ <producer out="4311" title="Anonymous Submission" id="3" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:02:23:22</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_154519.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_154519.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -181,11 +181,11 @@
   <property name="kdenlive:file_hash">210a7f7d82ebace713443126c8ebc4a8</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="156" in="0" id="4" title="Anonymous Submission">
+ <producer out="156" title="Anonymous Submission" id="4" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:05:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_155255.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_155255.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -241,11 +241,11 @@
   <property name="kdenlive:file_hash">66ab5e9dfed60eb046737e4c6add0c17</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="304" in="0" id="5" title="Anonymous Submission">
+ <producer out="304" title="Anonymous Submission" id="5" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:10:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_200812.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_200812.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -301,11 +301,11 @@
   <property name="kdenlive:file_hash">ae660a9d37ccd1523debd38c96256428</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="234" in="0" id="6" title="Anonymous Submission">
+ <producer out="234" title="Anonymous Submission" id="6" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:07:25</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_201657.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_201657.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -361,11 +361,11 @@
   <property name="kdenlive:file_hash">3d41cbe95e1e778e6fc44826c0e5c870</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="4936" in="0" id="7" title="Anonymous Submission">
+ <producer out="4936" title="Anonymous Submission" id="7" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:02:44:17</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_202251.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_202251.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -421,11 +421,11 @@
   <property name="kdenlive:file_hash">2da72216f3716ea60eea706ae32c60a9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="154" in="0" id="8" title="Anonymous Submission">
+ <producer out="154" title="Anonymous Submission" id="8" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:05:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_205639.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_205639.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -481,11 +481,11 @@
   <property name="kdenlive:file_hash">13b59d2ffc2d605e541e7f1c0578d7b9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="412" in="0" id="9" title="Anonymous Submission">
+ <producer out="412" title="Anonymous Submission" id="9" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:13:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_205715.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_205715.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -541,11 +541,11 @@
   <property name="kdenlive:file_hash">fb1a30617337a38f5b41f6b9db081c30</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="2824" in="0" id="10" title="Anonymous Submission">
+ <producer out="2824" title="Anonymous Submission" id="10" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:34:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_210006.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_210006.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -601,11 +601,11 @@
   <property name="kdenlive:file_hash">9488ca51e618c282c1850eac00f718c8</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="374" in="0" id="11" title="Anonymous Submission">
+ <producer out="374" title="Anonymous Submission" id="11" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:12:15</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_210049.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_210049.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -661,11 +661,11 @@
   <property name="kdenlive:file_hash">9d6adacec2dcfaa0b7dc7b2956c8eeb5</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="832" in="0" id="12" title="Anonymous Submission">
+ <producer out="832" title="Anonymous Submission" id="12" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:27:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_095618.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_095618.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -721,11 +721,11 @@
   <property name="kdenlive:file_hash">6e99a2d6f9e4b4e893c131d906f9fe7a</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1296" in="0" id="13" title="Anonymous Submission">
+ <producer out="1296" title="Anonymous Submission" id="13" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:43:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_095708.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_095708.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -781,11 +781,11 @@
   <property name="kdenlive:file_hash">356ad01535986997b21ae9ad9576cf42</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1732" in="0" id="14" title="Anonymous Submission">
+ <producer out="1732" title="Anonymous Submission" id="14" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:57:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_095909.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_095909.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -841,11 +841,11 @@
   <property name="kdenlive:file_hash">8174aceb3aa84644c1d356bcae9fe93c</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="246" in="0" id="15" title="Anonymous Submission">
+ <producer out="246" title="Anonymous Submission" id="15" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:08:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_101618.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_101618.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -901,11 +901,11 @@
   <property name="kdenlive:file_hash">171e802df4ef6a84335a5868e9a9ffb6</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="708" in="0" id="16" title="Anonymous Submission">
+ <producer out="708" title="Anonymous Submission" id="16" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:23:19</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_104853.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_104853.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -961,11 +961,11 @@
   <property name="kdenlive:file_hash">c38bfeaef599c2e30ee3dba6c46310dd</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1080" in="0" id="17" title="Anonymous Submission">
+ <producer out="1080" title="Anonymous Submission" id="17" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:36:01</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105047.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105047.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1021,11 +1021,11 @@
   <property name="kdenlive:file_hash">cd8d99e8a9e191dbab466d67955bee81</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="242" in="0" id="18" title="Anonymous Submission">
+ <producer out="242" title="Anonymous Submission" id="18" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:08:03</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105441.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105441.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1081,11 +1081,11 @@
   <property name="kdenlive:file_hash">7a519cdf2baa86dd5f4e73d252785ede</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="609" in="0" id="19" title="Anonymous Submission">
+ <producer out="609" title="Anonymous Submission" id="19" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:20:10</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105706.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105706.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1141,11 +1141,11 @@
   <property name="kdenlive:file_hash">4ac4c2a6d39be5b75b7629ff07a0eea5</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="757" in="0" id="20" title="Anonymous Submission">
+ <producer out="757" title="Anonymous Submission" id="20" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:25:08</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105903.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105903.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1201,11 +1201,11 @@
   <property name="kdenlive:file_hash">015b61de3e8d9b80c0d59c53ec98cacc</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="687" in="0" id="21" title="Anonymous Submission">
+ <producer out="687" title="Anonymous Submission" id="21" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:22:28</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_110141.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_110141.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1261,11 +1261,11 @@
   <property name="kdenlive:file_hash">fbf5a9257be8fd1e4c514ba2c3210970</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="622" in="0" id="22" title="Anonymous Submission">
+ <producer out="622" title="Anonymous Submission" id="22" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:20:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_140723.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_140723.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1321,11 +1321,11 @@
   <property name="kdenlive:file_hash">78a597279ab60d2763e87827d853b47c</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="340" in="0" id="23" title="Anonymous Submission">
+ <producer out="340" title="Anonymous Submission" id="23" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:11:11</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141336.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141336.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1381,11 +1381,11 @@
   <property name="kdenlive:file_hash">66bda13863338790c58400296a00d71f</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="399" in="0" id="24" title="Anonymous Submission">
+ <producer out="399" title="Anonymous Submission" id="24" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:13:10</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141621.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141621.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1441,11 +1441,11 @@
   <property name="kdenlive:file_hash">8a0fcf8bb1665f097dff801617cb2c11</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="641" in="0" id="25" title="Anonymous Submission">
+ <producer out="641" title="Anonymous Submission" id="25" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:21:12</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141807.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141807.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1501,11 +1501,11 @@
   <property name="kdenlive:file_hash">07e543e7973aa2305e6a7f7fc2c69192</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="6724" in="0" id="26" title="Anonymous Submission">
+ <producer out="6724" title="Anonymous Submission" id="26" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:03:44:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_153640.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_153640.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1561,11 +1561,11 @@
   <property name="kdenlive:file_hash">bc9170395587674f1d9e8b871e924aee</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="3691" in="0" id="27" title="Anonymous Submission">
+ <producer out="3691" title="Anonymous Submission" id="27" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:02:03:02</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_003541.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_003541.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1621,11 +1621,11 @@
   <property name="kdenlive:file_hash">60b2de2a8b7816a0e8f4fbf41c1029ac</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="3146" in="0" id="28" title="Anonymous Submission">
+ <producer out="3146" title="Anonymous Submission" id="28" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:44:27</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_093027.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_093027.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1681,11 +1681,11 @@
   <property name="kdenlive:file_hash">aa8d1a7caffc56f770049f7f4afa1c41</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1540" in="0" id="29" title="Anonymous Submission">
+ <producer out="1540" title="Anonymous Submission" id="29" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:51:11</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_093215.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_093215.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1741,11 +1741,11 @@
   <property name="kdenlive:file_hash">7ba3ce2b4d03310152a0deb4c3a97895</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1414" in="0" id="30" title="Anonymous Submission">
+ <producer out="1414" title="Anonymous Submission" id="30" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:47:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_103209.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_103209.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1801,11 +1801,11 @@
   <property name="kdenlive:file_hash">ead7cedd7e9cda7ed78a8ffc7dd4949f</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="252" in="0" id="31" title="Anonymous Submission">
+ <producer out="252" title="Anonymous Submission" id="31" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:08:13</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_132005.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_132005.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1861,11 +1861,11 @@
   <property name="kdenlive:file_hash">dfccbf0eed312f559b54dde57b3e3e49</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="327" in="0" id="32" title="Anonymous Submission">
+ <producer out="327" title="Anonymous Submission" id="32" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:10:28</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_132055.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_132055.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1921,11 +1921,11 @@
   <property name="kdenlive:file_hash">47e26b98516c0d1e3b1d3db482cd6b18</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="3235" in="0" id="33" title="Anonymous Submission">
+ <producer out="3235" title="Anonymous Submission" id="33" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:47:26</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_142114.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_142114.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -1981,11 +1981,11 @@
   <property name="kdenlive:file_hash">227dd7b2b4a8ff865a9c135707359286</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1217" in="0" id="34" title="Anonymous Submission">
+ <producer out="1217" title="Anonymous Submission" id="34" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:40:18</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_144015.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_144015.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2041,11 +2041,11 @@
   <property name="kdenlive:file_hash">4403495c447de894c8bd56c5aa251dc4</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="896" in="0" id="35" title="Anonymous Submission">
+ <producer out="896" title="Anonymous Submission" id="35" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:29:27</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_220454.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_220454.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2101,11 +2101,11 @@
   <property name="kdenlive:file_hash">065f9cf975b15169969bc02d2c7fffbd</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1033" in="0" id="36" title="Anonymous Submission">
+ <producer out="1033" title="Anonymous Submission" id="36" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:34:14</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_220819.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_220819.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2161,11 +2161,11 @@
   <property name="kdenlive:file_hash">2341ace045baa2bb9f9f36388553ea69</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="4763" in="0" id="37" title="Anonymous Submission">
+ <producer out="4763" title="Anonymous Submission" id="37" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:02:38:24</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_095018.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_095018.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2221,11 +2221,11 @@
   <property name="kdenlive:file_hash">c05e89aee71b35a64d30777581f1c00c</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="1770" in="0" id="38" title="Anonymous Submission">
+ <producer out="1770" title="Anonymous Submission" id="38" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:59:01</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_095402.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_095402.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2281,11 +2281,11 @@
   <property name="kdenlive:file_hash">acfe0a69acaf2a2db10a690138aef580</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="294" in="0" id="39" title="Anonymous Submission">
+ <producer out="294" title="Anonymous Submission" id="39" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:09:25</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_101730.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_101730.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2341,11 +2341,11 @@
   <property name="kdenlive:file_hash">1cb225693f2bba4a668c7c2ff4455e94</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="7065" in="0" id="40" title="Anonymous Submission">
+ <producer out="7065" title="Anonymous Submission" id="40" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:03:55:16</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_164501.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_164501.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2401,11 +2401,11 @@
   <property name="kdenlive:file_hash">55015b6181dd507502b9c677667a90a0</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="613" in="0" id="41" title="Anonymous Submission">
+ <producer out="613" title="Anonymous Submission" id="41" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:20:14</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_182631.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_182631.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2461,11 +2461,11 @@
   <property name="kdenlive:file_hash">48387f6aeb38d81220abfcb5dcb2c4d4</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="416" in="0" id="42" title="Anonymous Submission">
+ <producer out="416" title="Anonymous Submission" id="42" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:13:27</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_182708.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_182708.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2521,11 +2521,11 @@
   <property name="kdenlive:file_hash">09e2542f9dcb615f7f2184cbf6c0a7ef</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="791" in="0" id="43" title="Anonymous Submission">
+ <producer out="791" title="Anonymous Submission" id="43" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:26:12</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_183030.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_183030.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2581,11 +2581,11 @@
   <property name="kdenlive:file_hash">598c023fc7eda1212348a94442989e81</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="2234" in="0" id="44" title="Anonymous Submission">
+ <producer out="2234" title="Anonymous Submission" id="44" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:14:15</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_183427.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_183427.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2641,11 +2641,11 @@
   <property name="kdenlive:file_hash">2f89bb694090b93d190aedd73b13b5ad</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="4865" in="0" id="45" title="Anonymous Submission">
+ <producer out="4865" title="Anonymous Submission" id="45" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:02:42:06</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_184214.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_184214.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2701,7 +2701,7 @@
   <property name="kdenlive:file_hash">23cc4a150772d0ec4469e4f0fedac10f</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="149" in="0" id="52" title="Anonymous Submission">
+ <producer out="149" title="Anonymous Submission" id="52" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:00:05:00</property>
   <property name="eof">pause</property>
@@ -2733,11 +2733,11 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:file_hash">2d0758bc28e9d9ee7a25f0cc40063dbd</property>
   <property name="global_feed">1</property>
  </producer>
- <producer out="3115" in="0" id="53" title="Anonymous Submission">
+ <producer out="3115" title="Anonymous Submission" id="53" in="0">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:01:43:26</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/Crónica en el Telediario de TVE del IV Open de España de Disc Golf-69agRFOpeV4.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/Crónica en el Telediario de TVE del IV Open de España de Disc Golf-69agRFOpeV4.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -2788,7 +2788,7 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:file_hash">15ed076d12f8b3ba1683706d74418f9e</property>
   <property name="global_feed">1</property>
  </producer>
- <playlist id="main bin" kdenlive:customeffects="&lt;customeffects/>&#xa;">
+ <playlist kdenlive:customeffects="&lt;customeffects/>&#xa;" id="main bin">
   <property name="kdenlive:customeffects">&lt;customeffects/>
 </property>
   <property name="kdenlive:folder.-1.1">videos</property>
@@ -2797,9 +2797,9 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">15.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">38486</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
-  <property name="kdenlive:docproperties.projectfolder">/home/federico/kdenlive</property>
+  <property name="kdenlive:docproperties.projectfolder">kdenlive</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
@@ -2808,7 +2808,7 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">12</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups/>
 </property>
@@ -2830,67 +2830,67 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/federico/kdenlive/untitled.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">kdenlive/untitled.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
-  <entry out="1423" in="0" producer="1"/>
-  <entry out="2099" in="0" producer="2"/>
-  <entry out="4311" in="0" producer="3"/>
-  <entry out="156" in="0" producer="4"/>
-  <entry out="304" in="0" producer="5"/>
-  <entry out="234" in="0" producer="6"/>
-  <entry out="4936" in="0" producer="7"/>
-  <entry out="154" in="0" producer="8"/>
-  <entry out="412" in="0" producer="9"/>
-  <entry out="2824" in="0" producer="10"/>
-  <entry out="374" in="0" producer="11"/>
-  <entry out="832" in="0" producer="12"/>
-  <entry out="1296" in="0" producer="13"/>
-  <entry out="1732" in="0" producer="14"/>
-  <entry out="246" in="0" producer="15"/>
-  <entry out="708" in="0" producer="16"/>
-  <entry out="1080" in="0" producer="17"/>
-  <entry out="242" in="0" producer="18"/>
-  <entry out="609" in="0" producer="19"/>
-  <entry out="757" in="0" producer="20"/>
-  <entry out="687" in="0" producer="21"/>
-  <entry out="622" in="0" producer="22"/>
-  <entry out="340" in="0" producer="23"/>
-  <entry out="399" in="0" producer="24"/>
-  <entry out="641" in="0" producer="25"/>
-  <entry out="6724" in="0" producer="26"/>
-  <entry out="3691" in="0" producer="27"/>
-  <entry out="3146" in="0" producer="28"/>
-  <entry out="1540" in="0" producer="29"/>
-  <entry out="1414" in="0" producer="30"/>
-  <entry out="252" in="0" producer="31"/>
-  <entry out="327" in="0" producer="32"/>
-  <entry out="3235" in="0" producer="33"/>
-  <entry out="1217" in="0" producer="34"/>
-  <entry out="896" in="0" producer="35"/>
-  <entry out="1033" in="0" producer="36"/>
-  <entry out="4763" in="0" producer="37"/>
-  <entry out="1770" in="0" producer="38"/>
-  <entry out="294" in="0" producer="39"/>
-  <entry out="7065" in="0" producer="40"/>
-  <entry out="613" in="0" producer="41"/>
-  <entry out="416" in="0" producer="42"/>
-  <entry out="791" in="0" producer="43"/>
-  <entry out="2234" in="0" producer="44"/>
-  <entry out="4865" in="0" producer="45"/>
-  <entry out="149" in="0" producer="52"/>
-  <entry out="3115" in="0" producer="53"/>
+  <entry out="1423" producer="1" in="0"/>
+  <entry out="2099" producer="2" in="0"/>
+  <entry out="4311" producer="3" in="0"/>
+  <entry out="156" producer="4" in="0"/>
+  <entry out="304" producer="5" in="0"/>
+  <entry out="234" producer="6" in="0"/>
+  <entry out="4936" producer="7" in="0"/>
+  <entry out="154" producer="8" in="0"/>
+  <entry out="412" producer="9" in="0"/>
+  <entry out="2824" producer="10" in="0"/>
+  <entry out="374" producer="11" in="0"/>
+  <entry out="832" producer="12" in="0"/>
+  <entry out="1296" producer="13" in="0"/>
+  <entry out="1732" producer="14" in="0"/>
+  <entry out="246" producer="15" in="0"/>
+  <entry out="708" producer="16" in="0"/>
+  <entry out="1080" producer="17" in="0"/>
+  <entry out="242" producer="18" in="0"/>
+  <entry out="609" producer="19" in="0"/>
+  <entry out="757" producer="20" in="0"/>
+  <entry out="687" producer="21" in="0"/>
+  <entry out="622" producer="22" in="0"/>
+  <entry out="340" producer="23" in="0"/>
+  <entry out="399" producer="24" in="0"/>
+  <entry out="641" producer="25" in="0"/>
+  <entry out="6724" producer="26" in="0"/>
+  <entry out="3691" producer="27" in="0"/>
+  <entry out="3146" producer="28" in="0"/>
+  <entry out="1540" producer="29" in="0"/>
+  <entry out="1414" producer="30" in="0"/>
+  <entry out="252" producer="31" in="0"/>
+  <entry out="327" producer="32" in="0"/>
+  <entry out="3235" producer="33" in="0"/>
+  <entry out="1217" producer="34" in="0"/>
+  <entry out="896" producer="35" in="0"/>
+  <entry out="1033" producer="36" in="0"/>
+  <entry out="4763" producer="37" in="0"/>
+  <entry out="1770" producer="38" in="0"/>
+  <entry out="294" producer="39" in="0"/>
+  <entry out="7065" producer="40" in="0"/>
+  <entry out="613" producer="41" in="0"/>
+  <entry out="416" producer="42" in="0"/>
+  <entry out="791" producer="43" in="0"/>
+  <entry out="2234" producer="44" in="0"/>
+  <entry out="4865" producer="45" in="0"/>
+  <entry out="149" producer="52" in="0"/>
+  <entry out="3115" producer="53" in="0"/>
  </playlist>
- <producer out="66342" in="0" id="black">
+ <producer out="66342" id="black" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">66343</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/federico/black</property>
+  <property name="resource">black</property>
   <property name="aspect_ratio">1,06667</property>
   <property name="mlt_service">colour</property>
  </producer>
  <playlist id="black_track">
-  <entry out="44024" in="0" producer="black"/>
+  <entry out="38486" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -2904,16 +2904,35 @@ Reunión de jugadores!&lt;/content>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 3</property>
  </playlist>
+ <producer out="1540" title="Anonymous Submission" id="29_playlist4" in="0">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:51:11</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_093215.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">179080379</property>
+  <property name="kdenlive:file_hash">7ba3ce2b4d03310152a0deb4c3a97895</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+ </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
+  <blank length="5006"/>
+  <entry out="1540" producer="29_playlist4" in="1005"/>
  </playlist>
- <producer out="1423" in="0" id="1_playlist5" title="Anonymous Submission">
+ <producer out="1423" title="Anonymous Submission" id="1_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:47:14</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_105045.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_105045.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -2970,11 +2989,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="2099" in="0" id="2_playlist5" title="Anonymous Submission">
+ <producer out="2099" title="Anonymous Submission" id="2_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:01:10:00</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_105249.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_105249.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3031,11 +3050,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="4311" in="0" id="3_playlist5" title="Anonymous Submission">
+ <producer out="4311" title="Anonymous Submission" id="3_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:02:23:22</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_154519.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_154519.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3092,11 +3111,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="156" in="0" id="4_playlist5" title="Anonymous Submission">
+ <producer out="156" title="Anonymous Submission" id="4_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:05:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_155255.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190207_155255.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3153,133 +3172,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="304" in="0" id="5_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:10:05</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_200812.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">28552776</property>
-  <property name="kdenlive:file_hash">ae660a9d37ccd1523debd38c96256428</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">192178</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-07 19:08:12</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">29,9742</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22250559</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-07 19:08:12</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-07 19:08:12</property>
-  <property name="meta.attr.location.markup">+43.3647-005.8637/</property>
-  <property name="meta.attr.location-eng.markup">+43.3647-005.8637/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">9150000</property>
-  <property name="meta.media.frame_rate_den">305263</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="374" in="0" id="11_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:12:15</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190207_210049.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">35518618</property>
-  <property name="kdenlive:file_hash">9d6adacec2dcfaa0b7dc7b2956c8eeb5</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191869</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-07 20:00:49</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,0119</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22544135</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-07 20:00:49</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-07 20:00:49</property>
-  <property name="meta.attr.location.markup">+43.3647-005.8637/</property>
-  <property name="meta.attr.location-eng.markup">+43.3647-005.8637/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">11250000</property>
-  <property name="meta.media.frame_rate_den">374851</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="832" in="0" id="12_playlist5" title="Anonymous Submission">
+ <producer out="832" title="Anonymous Submission" id="12_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:27:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_095618.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_095618.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3336,11 +3233,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="1296" in="0" id="13_playlist5" title="Anonymous Submission">
+ <producer out="1296" title="Anonymous Submission" id="13_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:43:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_095708.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_095708.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3397,11 +3294,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="246" in="0" id="15_playlist5" title="Anonymous Submission">
+ <producer out="246" title="Anonymous Submission" id="15_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:08:07</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_101618.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_101618.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3458,11 +3355,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="708" in="0" id="16_playlist5" title="Anonymous Submission">
+ <producer out="708" title="Anonymous Submission" id="16_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:23:19</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_104853.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_104853.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3519,11 +3416,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="1080" in="0" id="17_playlist5" title="Anonymous Submission">
+ <producer out="1080" title="Anonymous Submission" id="17_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:36:01</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105047.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105047.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3580,11 +3477,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="242" in="0" id="18_playlist5" title="Anonymous Submission">
+ <producer out="242" title="Anonymous Submission" id="18_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:08:03</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105441.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105441.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3641,11 +3538,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="609" in="0" id="19_playlist5" title="Anonymous Submission">
+ <producer out="609" title="Anonymous Submission" id="19_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:20:10</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105706.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105706.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3702,11 +3599,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="757" in="0" id="20_playlist5" title="Anonymous Submission">
+ <producer out="757" title="Anonymous Submission" id="20_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:25:08</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_105903.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_105903.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3763,11 +3660,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="687" in="0" id="21_playlist5" title="Anonymous Submission">
+ <producer out="687" title="Anonymous Submission" id="21_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:22:28</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_110141.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_110141.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3824,11 +3721,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="622" in="0" id="22_playlist5" title="Anonymous Submission">
+ <producer out="622" title="Anonymous Submission" id="22_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:20:23</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_140723.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_140723.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3885,11 +3782,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="340" in="0" id="23_playlist5" title="Anonymous Submission">
+ <producer out="340" title="Anonymous Submission" id="23_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:11:11</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141336.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141336.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -3946,11 +3843,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="399" in="0" id="24_playlist5" title="Anonymous Submission">
+ <producer out="399" title="Anonymous Submission" id="24_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:13:10</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141621.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141621.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4007,11 +3904,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="641" in="0" id="25_playlist5" title="Anonymous Submission">
+ <producer out="641" title="Anonymous Submission" id="25_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:21:12</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_141807.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_141807.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4068,11 +3965,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="6724" in="0" id="26_playlist5" title="Anonymous Submission">
+ <producer out="6724" title="Anonymous Submission" id="26_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:03:44:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190208_153640.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190208_153640.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4129,11 +4026,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="3691" in="0" id="27_playlist5" title="Anonymous Submission">
+ <producer out="3691" title="Anonymous Submission" id="27_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:02:03:02</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_003541.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_003541.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4190,11 +4087,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="3146" in="0" id="28_playlist5" title="Anonymous Submission">
+ <producer out="3146" title="Anonymous Submission" id="28_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:01:44:27</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_093027.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_093027.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4251,11 +4148,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="3115" in="0" id="53_playlist5" title="Anonymous Submission">
+ <producer out="3115" title="Anonymous Submission" id="53_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:01:43:26</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/Crónica en el Telediario de TVE del IV Open de España de Disc Golf-69agRFOpeV4.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/Crónica en el Telediario de TVE del IV Open de España de Disc Golf-69agRFOpeV4.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -4307,72 +4204,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="1540" in="0" id="29_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:51:11</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_093215.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">179080379</property>
-  <property name="kdenlive:file_hash">7ba3ce2b4d03310152a0deb4c3a97895</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191990</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-09 08:32:14</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">45,6999</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">27687886</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-09 08:32:14</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-09 08:32:14</property>
-  <property name="meta.attr.location.markup">+00.0000+000.0000/</property>
-  <property name="meta.attr.location-eng.markup">+00.0000+000.0000/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">70440000</property>
-  <property name="meta.media.frame_rate_den">1541359</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="1414" in="0" id="30_playlist5" title="Anonymous Submission">
+ <producer out="1414" title="Anonymous Submission" id="30_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:47:05</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_103209.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_103209.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4429,11 +4265,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="252" in="0" id="31_playlist5" title="Anonymous Submission">
+ <producer out="252" title="Anonymous Submission" id="31_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:08:13</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_132005.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_132005.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4490,11 +4326,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="327" in="0" id="32_playlist5" title="Anonymous Submission">
+ <producer out="327" title="Anonymous Submission" id="32_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:10:28</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_132055.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_132055.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4551,11 +4387,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="3235" in="0" id="33_playlist5" title="Anonymous Submission">
+ <producer out="3235" title="Anonymous Submission" id="33_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:01:47:26</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_142114.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_142114.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4612,11 +4448,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="1217" in="0" id="34_playlist5" title="Anonymous Submission">
+ <producer out="1217" title="Anonymous Submission" id="34_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:40:18</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_144015.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190209_144015.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4673,133 +4509,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="896" in="0" id="35_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:29:27</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_220454.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">83094502</property>
-  <property name="kdenlive:file_hash">065f9cf975b15169969bc02d2c7fffbd</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191994</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-09 21:04:54</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,012</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22045714</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-09 21:04:54</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-09 21:04:54</property>
-  <property name="meta.attr.location.markup">+43.3423-005.8428/</property>
-  <property name="meta.attr.location-eng.markup">+43.3423-005.8428/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">20182500</property>
-  <property name="meta.media.frame_rate_den">672481</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="1033" in="0" id="36_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:34:14</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190209_220819.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">95817235</property>
-  <property name="kdenlive:file_hash">2341ace045baa2bb9f9f36388553ea69</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191991</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-09 21:08:19</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,012</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22053310</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-09 21:08:19</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-09 21:08:19</property>
-  <property name="meta.attr.location.markup">+43.3423-005.8428/</property>
-  <property name="meta.attr.location-eng.markup">+43.3423-005.8428/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">6204000</property>
-  <property name="meta.media.frame_rate_den">206717</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="4763" in="0" id="37_playlist5" title="Anonymous Submission">
+ <producer out="4763" title="Anonymous Submission" id="37_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:02:38:24</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_095018.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_095018.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4856,11 +4570,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="1770" in="0" id="38_playlist5" title="Anonymous Submission">
+ <producer out="1770" title="Anonymous Submission" id="38_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:00:59:01</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_095402.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_095402.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4917,11 +4631,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="7065" in="0" id="40_playlist5" title="Anonymous Submission">
+ <producer out="7065" title="Anonymous Submission" id="40_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:03:55:16</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_164501.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_164501.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -4978,72 +4692,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="613" in="0" id="41_playlist5" title="Anonymous Submission">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:00:20:14</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_182631.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:file_size">57247756</property>
-  <property name="kdenlive:file_hash">48387f6aeb38d81220abfcb5dcb2c4d4</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191984</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-10 17:26:31</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,0224</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22197586</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-10 17:26:31</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-10 17:26:31</property>
-  <property name="meta.attr.location.markup">+43.3734-005.8749/</property>
-  <property name="meta.attr.location-eng.markup">+43.3734-005.8749/</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">13815000</property>
-  <property name="meta.media.frame_rate_den">460157</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
- <producer out="2234" in="0" id="44_playlist5" title="Anonymous Submission">
+ <producer out="2234" title="Anonymous Submission" id="44_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:01:14:15</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_183427.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_183427.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -5100,11 +4753,11 @@ Reunión de jugadores!&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer out="4865" in="0" id="45_playlist5" title="Anonymous Submission">
+ <producer out="4865" title="Anonymous Submission" id="45_playlist5" in="0">
   <property name="mlt_type">producer</property>
   <property name="length">00:02:42:06</property>
   <property name="eof">pause</property>
-  <property name="resource">videos/VID_20190210_184214.mp4</property>
+  <property name="resource">/opt/vlog/open-españa/videos/VID_20190210_184214.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -5165,85 +4818,74 @@ Reunión de jugadores!&lt;/content>
   <property name="kdenlive:track_name">Video 1</property>
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
-  <entry out="101" in="0" producer="1_playlist5"/>
-  <entry out="511" in="471" producer="1_playlist5"/>
-  <entry out="648" in="512" producer="1_playlist5"/>
-  <entry out="721" in="684" producer="1_playlist5"/>
-  <entry out="1333" in="722" producer="1_playlist5"/>
-  <entry out="295" in="46" producer="2_playlist5"/>
-  <entry out="1329" in="839" producer="2_playlist5"/>
-  <entry out="1920" in="1620" producer="2_playlist5"/>
-  <entry out="2099" in="2025" producer="2_playlist5"/>
-  <entry out="1236" in="277" producer="3_playlist5"/>
-  <entry out="2462" in="1341" producer="3_playlist5"/>
-  <entry out="2718" in="2541" producer="3_playlist5"/>
-  <entry out="3522" in="3248" producer="3_playlist5"/>
-  <entry out="3609" in="3523" producer="3_playlist5"/>
-  <entry out="4311" in="3740" producer="3_playlist5"/>
-  <entry out="156" in="0" producer="4_playlist5"/>
-  <entry out="149" in="0" producer="52"/>
-  <entry out="304" in="0" producer="5_playlist5"/>
-  <entry out="374" in="0" producer="11_playlist5"/>
-  <entry out="832" in="0" producer="12_playlist5"/>
-  <entry out="902" in="0" producer="13_playlist5"/>
-  <entry out="246" in="0" producer="15_playlist5"/>
-  <entry out="708" in="49" producer="16_playlist5"/>
-  <entry out="1080" in="782" producer="17_playlist5"/>
-  <entry out="242" in="0" producer="18_playlist5"/>
-  <entry out="609" in="224" producer="19_playlist5"/>
-  <entry out="702" in="380" producer="20_playlist5"/>
-  <entry out="595" in="330" producer="21_playlist5"/>
-  <entry out="419" in="49" producer="22_playlist5"/>
-  <entry out="340" in="0" producer="23_playlist5"/>
-  <entry out="399" in="0" producer="24_playlist5"/>
-  <entry out="641" in="520" producer="25_playlist5"/>
+  <entry out="101" producer="1_playlist5" in="0"/>
+  <entry out="295" producer="2_playlist5" in="46"/>
+  <entry out="1329" producer="2_playlist5" in="839"/>
+  <entry out="1920" producer="2_playlist5" in="1620"/>
+  <entry out="2099" producer="2_playlist5" in="2025"/>
+  <entry out="1236" producer="3_playlist5" in="277"/>
+  <entry out="3522" producer="3_playlist5" in="3248"/>
+  <entry out="3609" producer="3_playlist5" in="3523"/>
+  <entry out="4311" producer="3_playlist5" in="3740"/>
+  <entry out="156" producer="4_playlist5" in="0"/>
+  <entry out="832" producer="12_playlist5" in="0"/>
+  <entry out="902" producer="13_playlist5" in="0"/>
+  <entry out="246" producer="15_playlist5" in="0"/>
+  <blank length="284"/>
+  <entry out="708" producer="16_playlist5" in="49"/>
+  <entry out="1080" producer="17_playlist5" in="782"/>
+  <entry out="242" producer="18_playlist5" in="0"/>
+  <entry out="609" producer="19_playlist5" in="224"/>
+  <entry out="702" producer="20_playlist5" in="380"/>
+  <entry out="595" producer="21_playlist5" in="330"/>
+  <entry out="419" producer="22_playlist5" in="49"/>
+  <entry out="340" producer="23_playlist5" in="0"/>
+  <entry out="399" producer="24_playlist5" in="0"/>
+  <entry out="641" producer="25_playlist5" in="520"/>
   <blank length="2"/>
-  <entry out="1909" in="43" producer="26_playlist5"/>
-  <entry out="4483" in="1985" producer="26_playlist5"/>
-  <entry out="4871" in="4516" producer="26_playlist5"/>
-  <entry out="5821" in="5576" producer="26_playlist5"/>
-  <entry out="6724" in="6016" producer="26_playlist5"/>
-  <entry out="1157" in="0" producer="27_playlist5"/>
-  <entry out="2744" in="1565" producer="27_playlist5"/>
-  <entry out="3535" in="2920" producer="27_playlist5"/>
-  <entry out="1371" in="0" producer="28_playlist5"/>
-  <entry out="2753" in="1593" producer="28_playlist5"/>
-  <entry out="3076" in="2898" producer="53_playlist5"/>
-  <entry out="3146" in="2977" producer="28_playlist5"/>
-  <entry out="1540" in="1005" producer="29_playlist5"/>
-  <entry out="1162" in="0" producer="30_playlist5"/>
-  <entry out="252" in="0" producer="31_playlist5"/>
-  <entry out="327" in="0" producer="32_playlist5"/>
-  <entry out="1476" in="111" producer="33_playlist5"/>
-  <entry out="3235" in="1687" producer="33_playlist5"/>
-  <entry out="1190" in="0" producer="34_playlist5"/>
-  <entry out="896" in="64" producer="35_playlist5"/>
-  <entry out="1033" in="141" producer="36_playlist5"/>
-  <entry out="2857" in="0" producer="37_playlist5"/>
-  <entry out="3688" in="3294" producer="37_playlist5"/>
-  <entry out="3798" in="3747" producer="37_playlist5"/>
-  <entry out="1742" in="1644" producer="38_playlist5"/>
-  <entry out="728" in="0" producer="40_playlist5"/>
-  <entry out="2154" in="961" producer="40_playlist5"/>
-  <entry out="2310" in="2155" producer="40_playlist5"/>
-  <entry out="2538" in="2311" producer="40_playlist5"/>
-  <entry out="2993" in="2910" producer="40_playlist5"/>
-  <entry out="4041" in="3332" producer="40_playlist5"/>
-  <entry out="5525" in="5308" producer="40_playlist5"/>
-  <entry out="6407" in="6124" producer="40_playlist5"/>
-  <entry out="7005" in="6562" producer="40_playlist5"/>
-  <entry out="534" in="0" producer="41_playlist5"/>
-  <entry out="2130" in="930" producer="44_playlist5"/>
-  <entry out="1389" in="51" producer="45_playlist5"/>
-  <entry out="1866" in="1525" producer="45_playlist5"/>
-  <entry out="2746" in="2169" producer="45_playlist5"/>
-  <entry out="3024" in="2884" producer="45_playlist5"/>
-  <entry out="3605" in="3025" producer="45_playlist5"/>
-  <entry out="3891" in="3606" producer="45_playlist5"/>
-  <entry out="4380" in="4142" producer="45_playlist5"/>
-  <entry out="4806" in="4724" producer="45_playlist5"/>
+  <entry out="1909" producer="26_playlist5" in="43"/>
+  <entry out="4483" producer="26_playlist5" in="1985"/>
+  <entry out="6724" producer="26_playlist5" in="6016"/>
+  <entry out="1157" producer="27_playlist5" in="0"/>
+  <entry out="2744" producer="27_playlist5" in="1565"/>
+  <entry out="3535" producer="27_playlist5" in="2920"/>
+  <entry out="74" producer="28_playlist5" in="0"/>
+  <entry out="220" producer="28_playlist5" in="75"/>
+  <entry out="1371" producer="28_playlist5" in="221"/>
+  <entry out="2753" producer="28_playlist5" in="1593"/>
+  <entry out="3076" producer="53_playlist5" in="2898"/>
+  <entry out="3146" producer="28_playlist5" in="2977"/>
+  <entry out="1162" producer="30_playlist5" in="0"/>
+  <entry out="252" producer="31_playlist5" in="0"/>
+  <entry out="327" producer="32_playlist5" in="0"/>
+  <entry out="1476" producer="33_playlist5" in="111"/>
+  <entry out="3235" producer="33_playlist5" in="1687"/>
+  <entry out="1190" producer="34_playlist5" in="0"/>
+  <entry out="2857" producer="37_playlist5" in="0"/>
+  <entry out="3688" producer="37_playlist5" in="3294"/>
+  <entry out="3798" producer="37_playlist5" in="3747"/>
+  <entry out="1742" producer="38_playlist5" in="1644"/>
+  <entry out="728" producer="40_playlist5" in="0"/>
+  <entry out="2154" producer="40_playlist5" in="961"/>
+  <entry out="2310" producer="40_playlist5" in="2155"/>
+  <entry out="2538" producer="40_playlist5" in="2311"/>
+  <entry out="2993" producer="40_playlist5" in="2910"/>
+  <entry out="4041" producer="40_playlist5" in="3332"/>
+  <entry out="5525" producer="40_playlist5" in="5308"/>
+  <entry out="6407" producer="40_playlist5" in="6124"/>
+  <entry out="7005" producer="40_playlist5" in="6562"/>
+  <blank length="535"/>
+  <entry out="2130" producer="44_playlist5" in="930"/>
+  <entry out="1389" producer="45_playlist5" in="51"/>
+  <entry out="1866" producer="45_playlist5" in="1525"/>
+  <entry out="2746" producer="45_playlist5" in="2169"/>
+  <entry out="3024" producer="45_playlist5" in="2884"/>
+  <entry out="3605" producer="45_playlist5" in="3025"/>
+  <entry out="3891" producer="45_playlist5" in="3606"/>
+  <entry out="4380" producer="45_playlist5" in="4142"/>
+  <entry out="4806" producer="45_playlist5" in="4724"/>
  </playlist>
- <tractor out="44024" in="0" id="maintractor" global_feed="1" title="Anonymous Submission">
+ <tractor out="38486" title="Anonymous Submission" id="maintractor" global_feed="1" in="0">
   <track producer="black_track"/>
   <track hide="both" producer="playlist1"/>
   <track hide="video" producer="playlist2"/>
