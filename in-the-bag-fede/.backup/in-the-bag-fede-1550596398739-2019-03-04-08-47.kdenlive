@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt root="/home/federico" producer="main bin" title="Anonymous Submission" LC_NUMERIC="de_DE.UTF-8" version="6.0.0">
- <profile progressive="1" colorspace="709" height="1080" display_aspect_num="16" width="1920" sample_aspect_den="1" sample_aspect_num="1" description="HD 1080p 30 fps" frame_rate_den="1" display_aspect_den="9" frame_rate_num="30"/>
- <producer id="93" in="0" title="Anonymous Submission" out="22097">
+<mlt root="/home/federico" title="Anonymous Submission" LC_NUMERIC="de_DE.UTF-8" producer="main bin" version="6.0.0">
+ <profile width="1920" frame_rate_num="30" height="1080" description="HD 1080p 30 fps" display_aspect_num="16" sample_aspect_num="1" sample_aspect_den="1" colorspace="709" progressive="1" display_aspect_den="9" frame_rate_den="1"/>
+ <producer in="0" out="22097" id="93" title="Anonymous Submission">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:12:16:18</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/in-the-bag-fede/videos/VID_20190210_150448.mp4</property>
+  <property name="resource">/opt/vlog/ALL_VIDEOS/VID_20190210_150448.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -60,7 +60,7 @@
   <property name="kdenlive:file_hash">7018725c88d2794a73d5cced8965e1d7</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="94" in="0" title="Anonymous Submission" out="25506">
+ <producer in="0" out="25506" id="94" title="Anonymous Submission">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:14:10:07</property>
   <property name="eof">pause</property>
@@ -119,7 +119,7 @@
   <property name="kdenlive:file_hash">cc318be03512d40d62fb72bbdd5a287c</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="95" in="0" title="Anonymous Submission" out="18149">
+ <producer in="0" out="18149" id="95" title="Anonymous Submission">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:10:05:00</property>
   <property name="eof">pause</property>
@@ -166,7 +166,7 @@
   <property name="global_feed">1</property>
   <property name="kdenlive:folderid">1</property>
  </producer>
- <playlist id="main bin" kdenlive:customeffects="&lt;customeffects/>&#xa;">
+ <playlist kdenlive:customeffects="&lt;customeffects/>&#xa;" id="main bin">
   <property name="kdenlive:customeffects">&lt;customeffects/>
 </property>
   <property name="kdenlive:docproperties.documentid">1550596398739</property>
@@ -174,7 +174,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">15.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">244</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">/opt/vlog/in-the-bag-fede</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
@@ -210,11 +210,11 @@
   <property name="kdenlive:docproperties.renderurl">/opt/vlog/in-the-bag-fede/in-the-bag-fede.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
-  <entry in="0" producer="93" out="22097"/>
-  <entry in="0" producer="94" out="25506"/>
-  <entry in="0" producer="95" out="149"/>
+  <entry in="0" out="22097" producer="93"/>
+  <entry in="0" out="25506" producer="94"/>
+  <entry in="0" out="149" producer="95"/>
  </playlist>
- <producer id="black" in="0" out="47604">
+ <producer in="0" out="47604" id="black">
   <property name="mlt_type">producer</property>
   <property name="length">47605</property>
   <property name="eof">pause</property>
@@ -223,7 +223,7 @@
   <property name="mlt_service">colour</property>
  </producer>
  <playlist id="black_track">
-  <entry in="0" producer="black" out="15545"/>
+  <entry in="0" out="15545" producer="black"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -241,11 +241,11 @@
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
  </playlist>
- <producer id="93_playlist5" in="0" title="Anonymous Submission" out="22097">
+ <producer in="0" out="22097" id="93_playlist5" title="Anonymous Submission">
   <property name="mlt_type">mlt_producer</property>
   <property name="length">00:12:16:18</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/in-the-bag-fede/videos/VID_20190210_150448.mp4</property>
+  <property name="resource">/opt/vlog/ALL_VIDEOS/VID_20190210_150448.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -305,7 +305,7 @@
   <property name="kdenlive:track_name">Video 1</property>
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
-  <entry in="403" producer="93_playlist5" out="572">
+  <entry in="403" out="572" producer="93_playlist5">
    <filter id="volume">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -318,7 +318,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="590" producer="93_playlist5" out="891">
+  <entry in="590" out="891" producer="93_playlist5">
    <filter id="filter0">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -331,7 +331,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="1312" producer="93_playlist5" out="1880">
+  <entry in="1312" out="1880" producer="93_playlist5">
    <filter id="filter2">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -344,7 +344,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="1954" producer="93_playlist5" out="1991">
+  <entry in="1954" out="1991" producer="93_playlist5">
    <filter id="filter3">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -357,7 +357,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="2024" producer="93_playlist5" out="2104">
+  <entry in="2024" out="2104" producer="93_playlist5">
    <filter id="filter4">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -370,7 +370,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="2105" producer="93_playlist5" out="2249">
+  <entry in="2105" out="2249" producer="93_playlist5">
    <filter id="filter1">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -383,7 +383,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="2286" producer="93_playlist5" out="2416">
+  <entry in="2286" out="2416" producer="93_playlist5">
    <filter id="filter5">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -396,7 +396,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="2468" producer="93_playlist5" out="2920">
+  <entry in="2468" out="2920" producer="93_playlist5">
    <filter id="filter6">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -409,7 +409,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="3078" producer="93_playlist5" out="3807">
+  <entry in="3078" out="3807" producer="93_playlist5">
    <filter id="filter7">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -423,7 +423,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="4165" producer="93_playlist5" out="4391">
+  <entry in="4165" out="4391" producer="93_playlist5">
    <filter id="filter8">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -436,8 +436,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="4605" producer="93_playlist5" out="5621">
-   <filter id="filter9" in="4605">
+  <entry in="4605" out="5621" producer="93_playlist5">
+   <filter in="4605" id="filter9">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -449,8 +449,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="5855" producer="93_playlist5" out="5973">
-   <filter id="filter10" in="4605">
+  <entry in="5855" out="5973" producer="93_playlist5">
+   <filter in="4605" id="filter10">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -462,7 +462,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="6111" producer="93_playlist5" out="6186">
+  <entry in="6111" out="6186" producer="93_playlist5">
    <filter id="filter11">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -475,7 +475,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="6671" producer="93_playlist5" out="7031">
+  <entry in="6671" out="7031" producer="93_playlist5">
    <filter id="filter12">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -488,7 +488,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="7356" producer="93_playlist5" out="7554">
+  <entry in="7356" out="7554" producer="93_playlist5">
    <filter id="filter13">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -501,7 +501,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="7555" producer="93_playlist5" out="8611">
+  <entry in="7555" out="8611" producer="93_playlist5">
    <filter id="filter14">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -514,7 +514,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="8711" producer="93_playlist5" out="9668">
+  <entry in="8711" out="9668" producer="93_playlist5">
    <filter id="filter15">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -527,7 +527,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="9853" producer="93_playlist5" out="9940">
+  <entry in="9853" out="9940" producer="93_playlist5">
    <filter id="filter16">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -540,7 +540,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="10081" producer="93_playlist5" out="11857">
+  <entry in="10081" out="11857" producer="93_playlist5">
    <filter id="filter17">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -553,7 +553,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="11971" producer="93_playlist5" out="12516">
+  <entry in="11971" out="12516" producer="93_playlist5">
    <filter id="filter18">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -566,7 +566,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="12699" producer="93_playlist5" out="14245">
+  <entry in="12699" out="14245" producer="93_playlist5">
    <filter id="filter19">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -579,7 +579,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="14786" producer="93_playlist5" out="15865">
+  <entry in="14786" out="15865" producer="93_playlist5">
    <filter id="filter20">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -592,7 +592,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="16600" producer="93_playlist5" out="17298">
+  <entry in="16600" out="17298" producer="93_playlist5">
    <filter id="filter21">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -606,7 +606,7 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="17399" producer="93_playlist5" out="17733">
+  <entry in="17399" out="17733" producer="93_playlist5">
    <filter id="filter22">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -620,8 +620,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="17900" producer="93_playlist5" out="18554">
-   <filter id="filter23" in="17900">
+  <entry in="17900" out="18554" producer="93_playlist5">
+   <filter in="17900" id="filter23">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -633,8 +633,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="19346" producer="93_playlist5" out="20529">
-   <filter id="filter24" in="17900">
+  <entry in="19346" out="20529" producer="93_playlist5">
+   <filter in="17900" id="filter24">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -646,8 +646,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="20587" producer="93_playlist5" out="20651">
-   <filter id="filter25" in="17900">
+  <entry in="20587" out="20651" producer="93_playlist5">
+   <filter in="17900" id="filter25">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -659,8 +659,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="20794" producer="93_playlist5" out="21054">
-   <filter id="filter26" in="17900">
+  <entry in="20794" out="21054" producer="93_playlist5">
+   <filter in="17900" id="filter26">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -672,8 +672,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="21256" producer="93_playlist5" out="21888">
-   <filter id="filter27" in="17900">
+  <entry in="21256" out="21888" producer="93_playlist5">
+   <filter in="17900" id="filter27">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -685,8 +685,8 @@
     <property name="gain">3</property>
    </filter>
   </entry>
-  <entry in="21904" producer="93_playlist5" out="21946">
-   <filter id="filter28" in="21904">
+  <entry in="21904" out="21946" producer="93_playlist5">
+   <filter in="21904" id="filter28">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_type">filter</property>
@@ -698,7 +698,7 @@
     <property name="disable"/>
     <property name="gain">3</property>
    </filter>
-   <filter id="fade_to_black" in="21904" out="21946">
+   <filter in="21904" out="21946" id="fade_to_black">
     <property name="start">1</property>
     <property name="mlt_type">filter</property>
     <property name="mlt_service">brightness</property>
@@ -715,12 +715,12 @@
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
   <blank length="196"/>
-  <entry in="0" producer="95" out="275"/>
+  <entry in="0" out="275" producer="95"/>
  </playlist>
- <tractor id="maintractor" in="0" global_feed="1" title="Anonymous Submission" out="15545">
+ <tractor in="0" out="15545" id="maintractor" global_feed="1" title="Anonymous Submission">
   <track producer="black_track"/>
-  <track producer="playlist1" hide="video"/>
-  <track producer="playlist2" hide="video"/>
+  <track hide="video" producer="playlist1"/>
+  <track hide="video" producer="playlist2"/>
   <track producer="playlist3"/>
   <track producer="playlist4"/>
   <track producer="playlist5"/>
