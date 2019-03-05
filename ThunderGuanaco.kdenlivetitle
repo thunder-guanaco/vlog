@@ -1,0 +1,12 @@
+<kdenlivetitle width="1920" duration="150" out="150" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ <item z-index="2" type="QGraphicsTextItem">
+  <position x="587" y="414">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" font-weight="75" font-underline="0" font-pixel-size="100" alignment="4" font="Carlito" font-color="255,255,255,255">Thunder Guanaco
+2019</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>

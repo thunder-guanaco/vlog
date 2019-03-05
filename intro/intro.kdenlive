@@ -1,0 +1,2583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt version="6.0.0" root="/home/federico" producer="main bin" LC_NUMERIC="de_DE.UTF-8" title="Anonymous Submission">
+ <profile height="1080" progressive="1" display_aspect_den="9" sample_aspect_num="1" frame_rate_den="1" sample_aspect_den="1" width="1920" colorspace="709" display_aspect_num="16" description="HD 1080p 30 fps" frame_rate_num="30"/>
+ <producer out="8168" id="1" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:32:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/intro/video/VID_20190202_130333.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191998</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30,0114</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22013060</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.location.markup">+51.5187+007.4000/</property>
+  <property name="meta.attr.location-eng.markup">+51.5187+007.4000/</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.frame_rate_num">245160000</property>
+  <property name="meta.media.frame_rate_den">8168887</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">755884220</property>
+  <property name="kdenlive:file_hash">ae8cc587577d83a11c87d542c6c57066</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:clipname">intro</property>
+ </producer>
+ <producer out="4715" id="2" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:37:06</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-acousticbreeze.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2200869</property>
+  <property name="kdenlive:file_hash">56fc390ae97ef062e6d6a777cee974d5</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3683" id="3" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:02:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-actionable.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Actionable</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1719476</property>
+  <property name="kdenlive:file_hash">0c242a8925b43f930a61fbfa02bee956</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5859" id="4" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:15:10</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-adaytoremember.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3906352</property>
+  <property name="kdenlive:file_hash">2f39ef71881b7037fc8ac8b6bbe6e0ac</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5612" id="5" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:07:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-adventure.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4490762</property>
+  <property name="kdenlive:file_hash">3aba89cb28f701439e311c17d2f4dc87</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4365" id="6" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:25:16</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-allthat.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2910564</property>
+  <property name="kdenlive:file_hash">86d70d828c0bce8b9c22d2a0badc2496</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4649" id="7" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:35:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-anewbeginning.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2169783</property>
+  <property name="kdenlive:file_hash">c9e5ecd0c6f004edbf1280c8a3303222</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3272" id="8" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:49:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-badass.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1527223</property>
+  <property name="kdenlive:file_hash">66131e7e8714e069e7f64ab778620eb7</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4614" id="9" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:33:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-betterdays.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2153691</property>
+  <property name="kdenlive:file_hash">fd5f04125b6ab4ebdcbdf58391ce35ab</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5601" id="10" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:06:22</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-beyondtheline.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4481985</property>
+  <property name="kdenlive:file_hash">445115fbed9c6e8f816d747bf22b4a36</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6876" id="11" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:49:07</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-birthofahero.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">5501387</property>
+  <property name="kdenlive:file_hash">6d1c5c28c4b071083a8fe6b4de3a7a26</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7223" id="12" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:00:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-brazilsamba.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Brazil Samba</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3371412</property>
+  <property name="kdenlive:file_hash">1559ab53eb7667dc22d0659d3b747ff2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3663" id="13" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:02:04</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-buddy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1710080</property>
+  <property name="kdenlive:file_hash">c7537cc5ce01f0956099702537615ee2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5303" id="14" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:56:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-clapandyell.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2475154</property>
+  <property name="kdenlive:file_hash">444bb40003e01379dead64992836faf7</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="2694" id="15" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:29:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-clearday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1257691</property>
+  <property name="kdenlive:file_hash">6f257638bf1fd2ed12f2678e45c2c853</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6214" id="16" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:27:05</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-countryboy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2900114</property>
+  <property name="kdenlive:file_hash">9d87158812284c6d6de3740896fff91a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4417" id="17" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:27:08</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-creativeminds.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2945045</property>
+  <property name="kdenlive:file_hash">47de3f77f526670952f7abe882c617c3</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6507" id="18" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:36:28</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-creepy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3038001</property>
+  <property name="kdenlive:file_hash">512d8fddf1bac997357668d7b6201ad6</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5824" id="19" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:14:05</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-cute.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2718354</property>
+  <property name="kdenlive:file_hash">b6533960dc310cff1bb3563189aa436e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5317" id="20" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:57:08</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-dance.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2481738</property>
+  <property name="kdenlive:file_hash">f1314f4013248a26e1067d2aa7ff9840</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8641" id="21" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:48:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-deepblue.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4032733</property>
+  <property name="kdenlive:file_hash">3f5e95a8149c07e36bd312f958209092</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5471" id="22" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:02:12</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-downtown.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2553417</property>
+  <property name="kdenlive:file_hash">553a8ead9f23fb7f1448dec56678a6fb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6312" id="23" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:30:13</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-dreams.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">5050618</property>
+  <property name="kdenlive:file_hash">6c1356ee812ce3a9bd389bb251cb1442</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5423" id="24" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:00:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-endlessmotion.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3615870</property>
+  <property name="kdenlive:file_hash">0172073b7f5fd433030344abd1ff0da1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5386" id="25" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:59:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-energy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4309577</property>
+  <property name="kdenlive:file_hash">f1d02aeaee793caa79fc04f15d1285dd</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4416" id="26" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:27:07</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-enigmatic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2061167</property>
+  <property name="kdenlive:file_hash">24e62a5f6b9b801500adbf28c9d449f3</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5356" id="27" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:58:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-epic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2500023</property>
+  <property name="kdenlive:file_hash">d162f7dec87ba7e9851fdd163b836c3e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8420" id="28" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:40:21</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-erf.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">6736457</property>
+  <property name="kdenlive:file_hash">acf6771dae882ce478526d2597c0ecce</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="14501" id="29" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:08:03:12</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-extremeaction.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Extreme Action Sport</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">6767816</property>
+  <property name="kdenlive:file_hash">21cef6a38eb145fb5862ce77b34c877b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5800" id="30" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:13:11</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-funday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4640600</property>
+  <property name="kdenlive:file_hash">289b788badb90c4c8f24b10b54605220</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5670" id="31" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:09:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-funkyelement.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2646309</property>
+  <property name="kdenlive:file_hash">e2d2713ceecead95de599c4b10e8759b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8024" id="32" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:27:15</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-funkysuspense.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.comment.markup">Made with Sony ACID Pro 6.0</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3745128</property>
+  <property name="kdenlive:file_hash">f600ed933dd94458e6cf2886b2278bd1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5613" id="33" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:07:04</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-funnysong.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2619977</property>
+  <property name="kdenlive:file_hash">8f73a76062bae05de585cf33c993510c</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7335" id="34" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:04:16</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-goinghigher.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3423451</property>
+  <property name="kdenlive:file_hash">0607d6fe23345268ae0e18611d215564</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7216" id="35" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:00:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-groovyhiphop.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Groovy Hip Hop</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3368124</property>
+  <property name="kdenlive:file_hash">8e5b79d7132f6e958227f5666b0cf4c0</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7847" id="36" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:21:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-happiness.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3663373</property>
+  <property name="kdenlive:file_hash">10124b7e9d7378d174dafd24fdb3b97e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3174" id="37" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:45:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-happyrock.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1481874</property>
+  <property name="kdenlive:file_hash">86cea71fc112a44cd58919a996a71e66</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5148" id="38" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:51:19</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-hey.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3432490</property>
+  <property name="kdenlive:file_hash">fb2354b78c4c0592fe202801d5a2cc62</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4651" id="39" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:35:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-highoctane.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3101258</property>
+  <property name="kdenlive:file_hash">cc84dad81f550ce2b375d22cfcfba653</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4917" id="40" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:43:28</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-hipjazz.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3934667</property>
+  <property name="kdenlive:file_hash">7f3fad3389ccd0d86f6ae878dd26f23c</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7786" id="41" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:19:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-house.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3633738</property>
+  <property name="kdenlive:file_hash">b947c3699395342c75aa829b58fd6119</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7615" id="42" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:13:26</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-india.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3554013</property>
+  <property name="kdenlive:file_hash">01b6b7bc88d27c67fee5e645bf9093de</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6122" id="43" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:24:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-instinct.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2857326</property>
+  <property name="kdenlive:file_hash">8021829295040b70aafa9228cd6ec43a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5818" id="44" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:13:29</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-jazzcomedy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2715430</property>
+  <property name="kdenlive:file_hash">6c62af2fd5fb64ddb8cf829b6953ad15</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3143" id="45" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:44:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-jazzyfrenchy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1467246</property>
+  <property name="kdenlive:file_hash">c2e5fc2fc119231c8e8467632a3b9481</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5078" id="46" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:49:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-littleidea.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2370194</property>
+  <property name="kdenlive:file_hash">76818ef174fdc05b5cc283eadb774254</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="11903" id="47" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:06:36:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-littleplanet.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">5555201</property>
+  <property name="kdenlive:file_hash">bc2dabb9b399b8f18e8b31b0a821f8cb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="10080" id="48" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:05:36:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-love.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Loveable</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4704432</property>
+  <property name="kdenlive:file_hash">41ef561c7d9ba7de2a1c7b8ab7fd9a2a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6908" id="49" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:50:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-memories.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3224137</property>
+  <property name="kdenlive:file_hash">050f6c0265034dac236a20505418f99a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4821" id="50" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:40:22</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-moose.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2250240</property>
+  <property name="kdenlive:file_hash">1859766a9ec64e14ddfe5d42a769e97a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="9403" id="51" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:05:13:14</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-newdawn.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.comment.markup">Made with Sony ACID Pro 6.0</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4388785</property>
+  <property name="kdenlive:file_hash">0bbc2b9e1b089b7fc3cd4ccc94ecf756</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6361" id="52" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:32:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-november.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2968870</property>
+  <property name="kdenlive:file_hash">9736ef00327fcb86a9651e6354289b1d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8962" id="53" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:58:23</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-ofeliasdream.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4182676</property>
+  <property name="kdenlive:file_hash">93731780e8a9be5214d75636b455b52b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6948" id="54" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:51:19</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-onceagain.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">5559066</property>
+  <property name="kdenlive:file_hash">cba8c21d3cef4ca1f78cf8a3a86a621a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4867" id="55" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:42:08</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-perception.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3894543</property>
+  <property name="kdenlive:file_hash">b709ada5dd1bf4723d43e8c6099a9824</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5888" id="56" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:16:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-photoalbum.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4710818</property>
+  <property name="kdenlive:file_hash">96b036d293536f3f1385bb875201eba5</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3304" id="57" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:50:05</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-pianomoment.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1542217</property>
+  <property name="kdenlive:file_hash">291a76b3ca0c7685d629f636c6ff9c21</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4861" id="58" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:42:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-popdance.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2268893</property>
+  <property name="kdenlive:file_hash">691d9d3950118e96399b3d8b6e20d368</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5308" id="59" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:56:29</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-psychedelic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2477714</property>
+  <property name="kdenlive:file_hash">d4348c536be6007a5f6f0c8d906fb83d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3772" id="60" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:05:23</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-punky.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3018083</property>
+  <property name="kdenlive:file_hash">d1f5e0c9e9a0ab12fe99d3bbeede8954</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8641" id="61" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:48:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-relaxing.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4033097</property>
+  <property name="kdenlive:file_hash">32882ad5fa17a8ada6c20dfd862c1cd0</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6494" id="62" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:36:15</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-retrosoul.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3031040</property>
+  <property name="kdenlive:file_hash">7621e16031b8e45b432a3e1c134ffcea</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7097" id="63" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:56:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-romantic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">128000</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3785625</property>
+  <property name="kdenlive:file_hash">60c87c3f3f89c364bd4c592c01006a69</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4642" id="64" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:34:23</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-rumble.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2166858</property>
+  <property name="kdenlive:file_hash">d717bcc2e0bdb1f82f47866de73b84f2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4460" id="65" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:28:21</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-sadday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2081646</property>
+  <property name="kdenlive:file_hash">f0a06c1851b185ffae2c344b9b3c843d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8547" id="66" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:44:28</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-scifi.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3989956</property>
+  <property name="kdenlive:file_hash">e1220b492acb07a2393327a3e47fbf23</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5213" id="67" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:53:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-sexy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2433592</property>
+  <property name="kdenlive:file_hash">50403185179e175c77d9ba5b65b00ac3</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6209" id="68" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:27:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-slowmotion.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2897920</property>
+  <property name="kdenlive:file_hash">f9f3b520d00f45947638dab838bca8cc</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6088" id="69" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:22:29</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-smallguitar.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4871314</property>
+  <property name="kdenlive:file_hash">7c8e5c849c76ca3f0ec10ca2e291535f</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="5505" id="70" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:03:16</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-smile.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4404871</property>
+  <property name="kdenlive:file_hash">d5b08b2b42ae8abc2ea9ec87c3dd60b9</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7591" id="71" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:13:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-straight.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">6073782</property>
+  <property name="kdenlive:file_hash">9958ddeeb66dc4e290c6e4f64e38eea8</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="6522" id="72" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:03:37:13</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-summer.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4349086</property>
+  <property name="kdenlive:file_hash">74259650835e9a0a4bb28d7ecab36973</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4200" id="73" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:20:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-sunny.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1960596</property>
+  <property name="kdenlive:file_hash">22e6eacfc0cd7394b3e2b3e58f5ae816</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="9229" id="74" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:05:07:20</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-sweet.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">Sweet</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4307626</property>
+  <property name="kdenlive:file_hash">5a06acc684f9dd9b76d448832a8ddd9e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3714" id="75" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:03:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-tenderness.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1733486</property>
+  <property name="kdenlive:file_hash">04ff7ff51622432b9c4f8810ec7cfe43</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="3548" id="76" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:01:58:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-theduel.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1656321</property>
+  <property name="kdenlive:file_hash">edffdfd256f51bcf44559247a31aff7e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7644" id="77" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:14:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-theelevatorbossanova.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">6115787</property>
+  <property name="kdenlive:file_hash">bb835fb56bd17c534abb298935106500</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4814" id="78" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:40:15</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-thejazzpiano.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="meta.attr.title.markup">The Jazz Piano</property>
+  <property name="meta.attr.artist.markup">Bensound</property>
+  <property name="meta.attr.comment.markup">www.bensound.com</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2247210</property>
+  <property name="kdenlive:file_hash">3b055ba7bbce21e97a7fa20cf157a6a5</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="7681" id="79" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:16:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-thelounge.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3585097</property>
+  <property name="kdenlive:file_hash">e538a4fe5811f3ef4de9b507cfb507b8</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="8844" id="80" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:54:25</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-tomorrow.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">4127453</property>
+  <property name="kdenlive:file_hash">86fdaa5cd6cff82adc66577e38054c6a</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="4392" id="81" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:26:13</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-ukulele.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">112000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2050194</property>
+  <property name="kdenlive:file_hash">4ea2968f526c64b9b97a77ce79f88b76</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer out="170" id="82" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">171</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">thunder guanaco</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="xmldata">&lt;kdenlivetitle LC_NUMERIC="de_DE.UTF-8" width="1920" height="1080" duration="150" out="150">
+ &lt;item z-index="2" type="QGraphicsTextItem">
+  &lt;position x="587" y="414">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-color="255,255,255,255" font-outline="0" font-italic="0" font-underline="0" alignment="4" font-pixel-size="100" font="Carlito" font-outline-color="0,0,0,255" font-weight="75">Thunder Guanaco
+2019&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">fa7623b0277cfd373c74cb6dc380a96b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin" kdenlive:customeffects="&lt;customeffects/>&#xa;">
+  <property name="kdenlive:customeffects">&lt;customeffects/>
+</property>
+  <property name="kdenlive:docproperties.documentid">1549436529754</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">15.12.3</property>
+  <property name="kdenlive:docproperties.position">2100</property>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
+  <property name="kdenlive:docproperties.projectfolder">/opt/vlog/</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-s 640x480 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.91</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups">&lt;groups/>
+</property>
+  <property name="kdenlive:folder.-1.1">music</property>
+  <property name="kdenlive:folder.-1.2">video</property>
+  <property name="kdenlive:folder.-1.4">text</property>
+  <property name="kdenlive:docproperties.renderaudiobitrate">160</property>
+  <property name="kdenlive:docproperties.renderbitrate">20</property>
+  <property name="kdenlive:docproperties.rendercategory">MP4</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264/AAC fast</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/opt/vlog/intro/intro.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="xml_retain">1</property>
+  <entry out="8168" producer="1" in="0"/>
+  <entry out="4715" producer="2" in="0"/>
+  <entry out="3683" producer="3" in="0"/>
+  <entry out="5859" producer="4" in="0"/>
+  <entry out="5612" producer="5" in="0"/>
+  <entry out="4365" producer="6" in="0"/>
+  <entry out="4649" producer="7" in="0"/>
+  <entry out="3272" producer="8" in="0"/>
+  <entry out="4614" producer="9" in="0"/>
+  <entry out="5601" producer="10" in="0"/>
+  <entry out="6876" producer="11" in="0"/>
+  <entry out="7223" producer="12" in="0"/>
+  <entry out="3663" producer="13" in="0"/>
+  <entry out="5303" producer="14" in="0"/>
+  <entry out="2694" producer="15" in="0"/>
+  <entry out="6214" producer="16" in="0"/>
+  <entry out="4417" producer="17" in="0"/>
+  <entry out="6507" producer="18" in="0"/>
+  <entry out="5824" producer="19" in="0"/>
+  <entry out="5317" producer="20" in="0"/>
+  <entry out="8641" producer="21" in="0"/>
+  <entry out="5471" producer="22" in="0"/>
+  <entry out="6312" producer="23" in="0"/>
+  <entry out="5423" producer="24" in="0"/>
+  <entry out="5386" producer="25" in="0"/>
+  <entry out="4416" producer="26" in="0"/>
+  <entry out="5356" producer="27" in="0"/>
+  <entry out="8420" producer="28" in="0"/>
+  <entry out="14501" producer="29" in="0"/>
+  <entry out="5800" producer="30" in="0"/>
+  <entry out="5670" producer="31" in="0"/>
+  <entry out="8024" producer="32" in="0"/>
+  <entry out="5613" producer="33" in="0"/>
+  <entry out="7335" producer="34" in="0"/>
+  <entry out="7216" producer="35" in="0"/>
+  <entry out="7847" producer="36" in="0"/>
+  <entry out="3174" producer="37" in="0"/>
+  <entry out="5148" producer="38" in="0"/>
+  <entry out="4651" producer="39" in="0"/>
+  <entry out="4917" producer="40" in="0"/>
+  <entry out="7786" producer="41" in="0"/>
+  <entry out="7615" producer="42" in="0"/>
+  <entry out="6122" producer="43" in="0"/>
+  <entry out="5818" producer="44" in="0"/>
+  <entry out="3143" producer="45" in="0"/>
+  <entry out="5078" producer="46" in="0"/>
+  <entry out="11903" producer="47" in="0"/>
+  <entry out="10080" producer="48" in="0"/>
+  <entry out="6908" producer="49" in="0"/>
+  <entry out="4821" producer="50" in="0"/>
+  <entry out="9403" producer="51" in="0"/>
+  <entry out="6361" producer="52" in="0"/>
+  <entry out="8962" producer="53" in="0"/>
+  <entry out="6948" producer="54" in="0"/>
+  <entry out="4867" producer="55" in="0"/>
+  <entry out="5888" producer="56" in="0"/>
+  <entry out="3304" producer="57" in="0"/>
+  <entry out="4861" producer="58" in="0"/>
+  <entry out="5308" producer="59" in="0"/>
+  <entry out="3772" producer="60" in="0"/>
+  <entry out="8641" producer="61" in="0"/>
+  <entry out="6494" producer="62" in="0"/>
+  <entry out="7097" producer="63" in="0"/>
+  <entry out="4642" producer="64" in="0"/>
+  <entry out="4460" producer="65" in="0"/>
+  <entry out="8547" producer="66" in="0"/>
+  <entry out="5213" producer="67" in="0"/>
+  <entry out="6209" producer="68" in="0"/>
+  <entry out="6088" producer="69" in="0"/>
+  <entry out="5505" producer="70" in="0"/>
+  <entry out="7591" producer="71" in="0"/>
+  <entry out="6522" producer="72" in="0"/>
+  <entry out="4200" producer="73" in="0"/>
+  <entry out="9229" producer="74" in="0"/>
+  <entry out="3714" producer="75" in="0"/>
+  <entry out="3548" producer="76" in="0"/>
+  <entry out="7644" producer="77" in="0"/>
+  <entry out="4814" producer="78" in="0"/>
+  <entry out="7681" producer="79" in="0"/>
+  <entry out="8844" producer="80" in="0"/>
+  <entry out="4392" producer="81" in="0"/>
+  <entry out="149" producer="82" in="0"/>
+ </playlist>
+ <producer out="500" id="black" in="0">
+  <property name="mlt_type">producer</property>
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="2100" producer="black" in="0"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <producer out="4417" id="17_playlist2" in="0" title="Anonymous Submission">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:02:27:08</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/musica/bensound-creativeminds.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">2945045</property>
+  <property name="kdenlive:file_hash">47de3f77f526670952f7abe882c617c3</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:locked_track">0</property>
+  <entry out="2100" producer="17_playlist2" in="0">
+   <filter out="106" id="volume">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">0,2</property>
+    <property name="end">0,03</property>
+   </filter>
+   <filter out="1918" id="filter0" in="107">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">0,03</property>
+    <property name="end">0,03</property>
+   </filter>
+   <filter out="1973" id="filter1" in="1919">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">0,0330909</property>
+    <property name="end">0,2</property>
+   </filter>
+   <filter out="2101" id="filter2" in="1974">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">0,2</property>
+    <property name="end">0,2</property>
+   </filter>
+   <filter out="2100" id="fadeout" in="2018">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+ </playlist>
+ <producer out="8168" id="1_playlist3" in="0" title="Anonymous Submission">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:04:32:09</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/intro/video/VID_20190202_130333.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:file_size">755884220</property>
+  <property name="kdenlive:file_hash">ae8cc587577d83a11c87d542c6c57066</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191998</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30,0114</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22013060</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-02-02 12:03:32</property>
+  <property name="meta.attr.location.markup">+51.5187+007.4000/</property>
+  <property name="meta.attr.location-eng.markup">+51.5187+007.4000/</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">245160000</property>
+  <property name="meta.media.frame_rate_den">8168887</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 3</property>
+  <blank length="57"/>
+  <entry out="1221" producer="1_playlist3" in="1168">
+   <filter out="1174" id="filter3" in="1168">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">0</property>
+    <property name="end">0</property>
+   </filter>
+   <filter out="1175" id="filter4" in="1175">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">2</property>
+    <property name="end">2</property>
+   </filter>
+   <filter out="1221" id="filter5" in="1176">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">2,00587</property>
+    <property name="end">2,27</property>
+   </filter>
+  </entry>
+  <entry out="1655" producer="1_playlist3" in="1474">
+   <filter out="1655" id="filter6" in="1474">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">3</property>
+    <property name="end">3</property>
+   </filter>
+  </entry>
+  <entry out="1738" producer="1_playlist3" in="1673">
+   <filter id="filter7" in="1673">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="2955" producer="1_playlist3" in="2872">
+   <filter id="filter8" in="2872">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="3091" producer="1_playlist3" in="2956">
+   <filter id="filter9" in="2872">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="3207" producer="1_playlist3" in="3092">
+   <filter id="filter10" in="2872">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="2393" producer="1_playlist3" in="1843">
+   <filter id="filter11" in="1843">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="3338" producer="1_playlist3" in="3208">
+   <filter id="filter12" in="3208">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="3424" producer="1_playlist3" in="3359">
+   <filter id="filter13" in="3359">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="3464" producer="1_playlist3" in="3434">
+   <filter id="filter14" in="3434">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="5997" producer="1_playlist3" in="5786">
+   <filter id="filter15" in="5786">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="6460" producer="1_playlist3" in="6391">
+   <filter id="filter16" in="6391">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="6553" producer="1_playlist3" in="6488">
+   <filter id="filter17" in="6488">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="7933" producer="1_playlist3" in="7887">
+   <filter id="filter18" in="7887">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <entry out="8037" producer="1_playlist3" in="7989">
+   <filter out="8038" id="fade_to_black" in="8034">
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+   <filter id="filter19" in="7989">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="gain">3</property>
+   </filter>
+  </entry>
+  <blank length="55"/>
+  <entry out="169" producer="82" in="42">
+   <filter out="169" id="filter20" in="121">
+    <property name="start">1</property>
+    <property name="mlt_type">filter</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">0</property>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 1</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+ </playlist>
+ <tractor out="2100" id="maintractor" global_feed="1" in="0" title="Anonymous Submission">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">3</property>
+   <property name="b_track">4</property>
+   <property name="version">0,9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0,9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
