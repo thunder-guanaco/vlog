@@ -106,7 +106,7 @@
  <producer id="98" out="15321" in="0">
   <property name="length">15322</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/graficas/banner.svg</property>
+  <property name="resource">/opt/vlog/banner.svg</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -236,7 +236,7 @@ PD2&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">227</property>
+  <property name="kdenlive:docproperties.position">511</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">/opt/vlog/in-the-bag-fede</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
