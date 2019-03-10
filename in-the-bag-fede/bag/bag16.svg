@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62930419"
-     inkscape:cx="1115.4093"
-     inkscape:cy="649.51924"
+     inkscape:zoom="0.44498526"
+     inkscape:cx="1325.2202"
+     inkscape:cy="542.94781"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -265,6 +265,194 @@
              sodipodi:role="line">Queen</tspan></text>
       </g>
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1921">
+      <g
+         inkscape:label="Clip"
+         id="use1923">
+        <rect
+           y="257.2659"
+           x="1599.9926"
+           height="228.82417"
+           width="264.57794"
+           id="rect2080"
+           style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.44450763" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+           x="1789.0277"
+           y="287.11343"
+           id="text2092"
+           transform="scale(0.96782233,1.0332475)"><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="287.11343"
+             id="tspan2082"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Mid-ranges</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="327.98325"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+             id="tspan2084">Matrix</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="368.85306"
+             id="tspan2086"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Shark3</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="409.72287"
+             id="tspan2088"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">MD4</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="450.59268"
+             id="tspan2090"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Justice</tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1936">
+      <g
+         inkscape:label="Clip"
+         id="use1938">
+        <rect
+           y="520.36768"
+           x="1599.9926"
+           height="221.56049"
+           width="264.57794"
+           id="rect2057"
+           style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.4373956" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+           x="1789.0277"
+           y="541.1189"
+           id="text2069"
+           transform="scale(0.96782233,1.0332475)"><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="541.1189"
+             id="tspan2059"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Fairway drivers</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="581.98871"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+             id="tspan2061">FD2</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="622.85852"
+             id="tspan2063"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Underworld</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="663.72833"
+             id="tspan2065"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Getaway</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="704.59814"
+             id="tspan2067"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Thunderbird</tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1952">
+      <g
+         inkscape:label="Clip"
+         id="use1954">
+        <rect
+           y="764.17499"
+           x="1599.9926"
+           height="263.78342"
+           width="264.57794"
+           id="rect2031"
+           style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.47725669" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+           x="1789.0277"
+           y="774.51416"
+           id="text2045"
+           transform="scale(0.96782233,1.0332475)"><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="774.51416"
+             id="tspan2033"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Distance drivers</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="815.38397"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+             id="tspan2035">Sorcerer</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="856.25378"
+             id="tspan2037"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Destroyer</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="897.1236"
+             id="tspan2039"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">PD2</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="937.99341"
+             id="tspan2041"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">World</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="978.86322"
+             id="tspan2043"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Queen</tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1966">
+      <g
+         inkscape:label="Clip"
+         id="use1968">
+        <rect
+           y="55.734966"
+           x="1599.9926"
+           height="175.59077"
+           width="264.57794"
+           id="rect1986"
+           style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.38938493" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+           x="1789.0277"
+           y="88.889465"
+           id="text1996"
+           transform="scale(0.96782233,1.0332475)"><tspan
+             sodipodi:role="line"
+             id="tspan1988"
+             x="1789.0277"
+             y="88.889465"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Putters</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="129.75928"
+             id="tspan1990"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">P2</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="170.62909"
+             id="tspan1992"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">P3X</tspan><tspan
+             sodipodi:role="line"
+             x="1789.0277"
+             y="211.4989"
+             id="tspan1994"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Aviar</tspan></text>
+      </g>
+    </clipPath>
   </defs>
   <metadata
      id="metadata818">
@@ -274,7 +462,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -301,154 +489,160 @@
        x="1574.1704"
        y="30.310059" />
     <rect
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.38938493"
-       id="rect5504-3"
-       width="264.57794"
+       y="55.734909"
+       x="1599.9926"
        height="175.59077"
-       x="1599.9926"
-       y="55.734966" />
-    <rect
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.44450763"
-       id="rect5504-3-6"
        width="264.57794"
-       height="228.82417"
-       x="1599.9926"
-       y="257.2659" />
-    <rect
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.4483496"
-       id="rect5504-3-7"
-       width="264.57794"
-       height="232.79681"
-       x="1599.9926"
-       y="509.13135" />
-    <rect
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.47725669"
-       id="rect5504-3-5"
-       width="264.57794"
-       height="263.78342"
-       x="1599.9926"
-       y="764.17499" />
+       id="rect5504-3"
+       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.38938493" />
     <text
-       transform="scale(0.96782233,1.0332475)"
-       id="text5420"
-       y="84.903854"
-       x="1789.0277"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         y="84.903854"
-         x="1789.0277"
+       x="1789.0277"
+       y="88.889412"
+       id="text5420"
+       transform="scale(0.96782233,1.0332475)"><tspan
+         sodipodi:role="line"
          id="tspan5418"
-         sodipodi:role="line">Putters</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         x="1789.0277"
+         y="88.889412"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Putters</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="129.75923"
          id="tspan5422"
-         y="125.77367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">3 x P2</tspan><tspan
+         sodipodi:role="line"
          x="1789.0277"
-         sodipodi:role="line">P2</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         y="170.62904"
          id="tspan5424"
-         y="166.64348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x P3X</tspan><tspan
+         sodipodi:role="line"
          x="1789.0277"
-         sodipodi:role="line">P3X</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5426"
-         y="207.51329"
-         x="1789.0277"
-         sodipodi:role="line">Aviar</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5428"
-         y="247.57829"
-         x="1789.0277"
-         sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5430"
-         y="288.44812"
-         x="1789.0277"
-         sodipodi:role="line">Mid-ranges</tspan><tspan
-         id="tspan5460"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         y="329.31793"
-         x="1789.0277"
-         sodipodi:role="line">Matrix</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5432"
-         y="370.18774"
-         x="1789.0277"
-         sodipodi:role="line">Shark3</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5434"
-         y="411.05756"
-         x="1789.0277"
-         sodipodi:role="line">MD4</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5436"
-         y="451.92737"
-         x="1789.0277"
-         sodipodi:role="line">Justice</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5438"
-         y="491.99237"
-         x="1789.0277"
-         sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5440"
-         y="532.86218"
-         x="1789.0277"
-         sodipodi:role="line">Fairway drivers</tspan><tspan
-         id="tspan5462"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         y="573.73199"
-         x="1789.0277"
-         sodipodi:role="line">FD2</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5442"
-         y="614.60181"
-         x="1789.0277"
-         sodipodi:role="line">Underworld</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5444"
-         y="655.47162"
-         x="1789.0277"
-         sodipodi:role="line">Getaway</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5446"
-         y="696.34143"
-         x="1789.0277"
-         sodipodi:role="line">Thunderbird</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5448"
-         y="736.40643"
-         x="1789.0277"
-         sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5450"
-         y="777.27625"
-         x="1789.0277"
-         sodipodi:role="line">Distance drivers</tspan><tspan
-         id="tspan5502"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         y="818.14606"
-         x="1789.0277"
-         sodipodi:role="line">Sorcerer</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5452"
-         y="859.01587"
-         x="1789.0277"
-         sodipodi:role="line">Destroyer</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5454"
-         y="899.88568"
-         x="1789.0277"
-         sodipodi:role="line">PD2</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5456"
-         y="940.75549"
-         x="1789.0277"
-         sodipodi:role="line">World</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         y="211.49886"
          id="tspan5458"
-         y="981.62531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Aviar</tspan></text>
+    <rect
+       y="764.17499"
+       x="1599.9926"
+       height="263.78342"
+       width="264.57794"
+       id="rect5504-3-5"
+       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.47725669" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+       x="1789.0277"
+       y="774.51416"
+       id="text5420-3"
+       transform="scale(0.96782233,1.0332475)"><tspan
+         sodipodi:role="line"
          x="1789.0277"
-         sodipodi:role="line">Queen</tspan></text>
+         y="774.51416"
+         id="tspan5450-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Distance drivers</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="815.38397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         id="tspan5502-6">1 x Sorcerer</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="856.25378"
+         id="tspan5452-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x Destroyer</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="897.1236"
+         id="tspan5454-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x PD2</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="937.99341"
+         id="tspan5456-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x World</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="978.86322"
+         id="tspan5458-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Queen</tspan></text>
+    <rect
+       y="515.12628"
+       x="1599.9926"
+       height="221.56049"
+       width="264.57794"
+       id="rect5504-3-7"
+       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.4373956" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+       x="1789.0277"
+       y="536.04614"
+       id="text5420-2"
+       transform="scale(0.96782233,1.0332475)"><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="536.04614"
+         id="tspan5440-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Fairway drivers</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="576.91595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         id="tspan5462-93">1 x FD2</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="617.78577"
+         id="tspan5442-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Underworld</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="658.65558"
+         id="tspan5444-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x Getaway</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="699.52539"
+         id="tspan5458-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Thunderbird</tspan></text>
+    <rect
+       y="258.8139"
+       x="1599.9926"
+       height="228.82417"
+       width="264.57794"
+       id="rect5504-3-6"
+       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.44450763" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
+       x="1789.0277"
+       y="288.6116"
+       id="text5420-1"
+       transform="scale(0.96782233,1.0332475)"><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="288.6116"
+         id="tspan5430-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Mid-ranges</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="329.48141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         id="tspan5460-5">1 x Matrix</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="370.35123"
+         id="tspan5432-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Shark3</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="411.22104"
+         id="tspan5434-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x MD4</tspan><tspan
+         sodipodi:role="line"
+         x="1789.0277"
+         y="452.09085"
+         id="tspan5458-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Justice</tspan></text>
   </g>
 </svg>
