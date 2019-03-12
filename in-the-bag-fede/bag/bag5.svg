@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="bag16.svg">
+   sodipodi:docname="bag5.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -462,7 +462,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -522,13 +522,6 @@
          y="211.49886"
          id="tspan5458"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Aviar</tspan></text>
-    <rect
-       y="764.17499"
-       x="1599.9926"
-       height="263.78342"
-       width="264.57794"
-       id="rect5504-3-5"
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.47725669" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
@@ -538,41 +531,19 @@
        transform="scale(0.96782233,1.0332475)"><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="774.51416"
-         id="tspan5450-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Distance drivers</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="815.38397"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5502-6">1 x Sorcerer</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="856.25378"
-         id="tspan5452-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x Destroyer</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="897.1236"
+         y="802.87268"
          id="tspan5454-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x PD2</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="937.99341"
+         y="842.93768"
          id="tspan5456-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x World</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="978.86322"
+         y="883.00269"
          id="tspan5458-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Queen</tspan></text>
-    <rect
-       y="515.12628"
-       x="1599.9926"
-       height="221.56049"
-       width="264.57794"
-       id="rect5504-3-7"
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.4373956" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
@@ -582,29 +553,24 @@
        transform="scale(0.96782233,1.0332475)"><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="536.04614"
-         id="tspan5440-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Fairway drivers</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="576.91595"
+         y="564.40466"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5462-93">1 x FD2</tspan><tspan
+         id="tspan5462-93" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="617.78577"
+         y="604.46967"
          id="tspan5442-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Underworld</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="658.65558"
+         y="644.53467"
          id="tspan5444-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x Getaway</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="699.52539"
+         y="684.59967"
          id="tspan5458-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Thunderbird</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
     <rect
        y="258.8139"
        x="1599.9926"
@@ -636,13 +602,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Shark3</tspan><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="411.22104"
+         y="410.41623"
          id="tspan5434-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x MD4</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="452.09085"
+         y="450.48123"
          id="tspan5458-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Justice</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
   </g>
 </svg>

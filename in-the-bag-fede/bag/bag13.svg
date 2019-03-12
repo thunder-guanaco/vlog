@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="bag16.svg">
+   sodipodi:docname="bag13.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -462,7 +462,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -549,23 +549,18 @@
          sodipodi:role="line"
          x="1789.0277"
          y="856.25378"
-         id="tspan5452-1"
+         id="tspan5454-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">2 x Destroyer</tspan><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="897.1236"
-         id="tspan5454-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x PD2</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="937.99341"
+         y="896.31879"
          id="tspan5456-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x World</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="978.86322"
+         y="936.38379"
          id="tspan5458-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Queen</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
     <rect
        y="515.12628"
        x="1599.9926"
