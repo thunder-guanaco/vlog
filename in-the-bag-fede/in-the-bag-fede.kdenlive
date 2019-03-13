@@ -617,7 +617,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">10276</property>
+  <property name="kdenlive:docproperties.position">10160</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">/opt/vlog/in-the-bag-fede</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
@@ -634,12 +634,12 @@
   <property name="kdenlive:folder.-1.1">banner</property>
   <property name="kdenlive:docproperties.renderaudiobitrate">160</property>
   <property name="kdenlive:docproperties.renderbitrate">20</property>
-  <property name="kdenlive:docproperties.rendercategory">MP4</property>
+  <property name="kdenlive:docproperties.rendercategory">Custom</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">H.264/AAC fast</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">180</property>
@@ -660,6 +660,9 @@
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.videotargettrack">-1</property>
   <property name="kdenlive:folder.-1.2">bag</property>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.renderquality">15</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
   <property name="xml_retain">1</property>
   <entry out="22097" producer="93" in="0"/>
   <blank length="25506"/>
