@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt version="6.0.0" title="Anonymous Submission" producer="main bin" LC_NUMERIC="de_DE.UTF-8" root="/home/federico">
- <profile frame_rate_den="1" width="1920" display_aspect_den="9" frame_rate_num="30" sample_aspect_num="1" height="1080" progressive="1" colorspace="709" description="HD 1080p 30 fps" sample_aspect_den="1" display_aspect_num="16"/>
- <producer out="25506" title="Anonymous Submission" id="19" in="0">
-  <property name="mlt_type">mlt_producer</property>
-  <property name="length">00:14:10:07</property>
+<mlt title="Anonymous Submission" version="6.6.0" root="/opt/vlog/in-the-bag-manolo" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
+ <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" colorspace="709" sample_aspect_den="1" description="HD 1080p 30 fps" progressive="1" sample_aspect_num="1"/>
+ <producer id="19" title="Anonymous Submission" out="25506" in="0">
+  <property name="length">25507</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/ALL_VIDEOS/VID_20190210_152013.mp4</property>
+  <property name="resource">videos/VID_20190210_152013.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -14,7 +17,7 @@
   <property name="meta.media.0.codec.name">aac</property>
   <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.0.stream.language.markup">eng</property>
   <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
   <property name="meta.media.1.stream.type">video</property>
@@ -31,23 +34,19 @@
   <property name="meta.media.1.codec.name">h264</property>
   <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
   <property name="meta.media.1.codec.bit_rate">22011113</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.1.stream.language.markup">eng</property>
   <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
   <property name="meta.attr.major_brand.markup">mp42</property>
   <property name="meta.attr.minor_version.markup">0</property>
   <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.location.markup">+00.0000+000.0000/</property>
   <property name="meta.attr.location-eng.markup">+00.0000+000.0000/</property>
   <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.frame_rate_num">1187579429</property>
   <property name="meta.media.frame_rate_den">39550489</property>
   <property name="meta.media.colorspace">601</property>
@@ -59,41 +58,51 @@
   <property name="kdenlive:file_size">2360015780</property>
   <property name="kdenlive:file_hash">cc318be03512d40d62fb72bbdd5a287c</property>
   <property name="global_feed">1</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
  </producer>
- <playlist id="main bin" kdenlive:customeffects="&lt;customeffects/>&#xa;">
+ <playlist id="main bin">
+  <property name="kdenlive:customeffects">&lt;customeffects/>
+</property>
   <property name="kdenlive:docproperties.documentid">1550598918245</property>
   <property name="kdenlive:docproperties.enableproxy">0</property>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
-  <property name="kdenlive:docproperties.kdenliveversion">15.12.3</property>
-  <property name="kdenlive:docproperties.position">3451</property>
+  <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
+  <property name="kdenlive:docproperties.position">681</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">kdenlive</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams">-s 640x480 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
-  <property name="kdenlive:docproperties.version">0.91</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoneout">5763</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:documentnotes"/>
-  <property name="kdenlive:clipgroups">&lt;groups/>
-</property>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:docproperties.audiotargettrack">-1</property>
+  <property name="kdenlive:docproperties.decimalPoint">,</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.videotargettrack">-1</property>
   <property name="xml_retain">1</property>
   <entry out="25506" producer="19" in="0"/>
  </playlist>
- <producer out="25843" id="black" in="0">
-  <property name="mlt_type">producer</property>
+ <producer id="black" out="25843" in="0">
   <property name="length">25844</property>
   <property name="eof">pause</property>
   <property name="resource">black</property>
   <property name="aspect_ratio">0</property>
   <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="24178" producer="black" in="0"/>
+  <entry out="15613" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
@@ -111,11 +120,10 @@
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
  </playlist>
- <producer out="25506" title="Anonymous Submission" id="19_playlist5" in="0">
-  <property name="mlt_type">producer</property>
-  <property name="length">00:14:10:07</property>
+ <producer id="19_playlist5" title="Anonymous Submission" out="25506" in="0">
+  <property name="length">25507</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/ALL_VIDEOS/VID_20190210_152013.mp4</property>
+  <property name="resource">videos/VID_20190210_152013.mp4</property>
   <property name="audio_index">0</property>
   <property name="video_index">1</property>
   <property name="mute_on_pause">1</property>
@@ -134,7 +142,7 @@
   <property name="meta.media.0.codec.name">aac</property>
   <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.0.stream.language.markup">eng</property>
   <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
   <property name="meta.media.1.stream.type">video</property>
@@ -151,13 +159,13 @@
   <property name="meta.media.1.codec.name">h264</property>
   <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
   <property name="meta.media.1.codec.bit_rate">22011113</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.1.stream.language.markup">eng</property>
   <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
   <property name="meta.attr.major_brand.markup">mp42</property>
   <property name="meta.attr.minor_version.markup">0</property>
   <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-02-10 14:20:13</property>
+  <property name="meta.attr.creation_time.markup">2019-02-10T14:20:13.000000Z</property>
   <property name="meta.attr.location.markup">+00.0000+000.0000/</property>
   <property name="meta.attr.location-eng.markup">+00.0000+000.0000/</property>
   <property name="meta.media.sample_aspect_num">1</property>
@@ -170,78 +178,507 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 1</property>
   <property name="kdenlive:locked_track">0</property>
   <property name="kdenlive:composite">1</property>
-  <entry out="1190" producer="19_playlist5" in="1112">
-   <filter id="volume">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_type">filter</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-    <property name="gain">3</property>
-   </filter>
-  </entry>
-  <entry out="1355" producer="19_playlist5" in="1249">
+  <entry out="1355" producer="19_playlist5" in="1106">
    <filter id="filter0">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="mlt_type">filter</property>
+    <property name="level">0=9,54243</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
-    <property name="gain">3</property>
    </filter>
   </entry>
-  <entry out="2087" producer="19_playlist5" in="1403">
+  <entry out="1784" producer="19_playlist5" in="1403">
+   <filter id="volume">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;1403=9,54243;1784=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="2087" producer="19_playlist5" in="2016">
    <filter id="filter1">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="mlt_type">filter</property>
+    <property name="level">0=9,54243;1785=9,54243;2016=9,54243;2087=9,54243</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
-    <property name="gain">3</property>
+    <property name="disable"/>
    </filter>
   </entry>
-  <entry out="4778" producer="19_playlist5" in="2199">
+  <entry out="2256" producer="19_playlist5" in="2199">
    <filter id="filter2">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="mlt_type">filter</property>
+    <property name="level">0=9,54243;2199=9,54243;2256=9,54243</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
-    <property name="gain">3</property>
+    <property name="disable"/>
    </filter>
   </entry>
-  <entry out="25506" producer="19_playlist5" in="4779">
+  <entry out="3657" producer="19_playlist5" in="2370">
    <filter id="filter3">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="mlt_type">filter</property>
+    <property name="level">0=9,54243;2257=9,54243;2370=9,54243;3657=9,54243</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
-    <property name="gain">3</property>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="6384" producer="19_playlist5" in="6352">
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6384=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="3884" producer="19_playlist5" in="3658">
+   <filter id="filter5">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;2257=9,54243;2370=9,54243;3658=9,54243;3884=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="4778" producer="19_playlist5" in="4441">
+   <filter id="filter6">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;2257=9,54243;2370=9,54243;3658=9,54243;3885=9,54243;4441=9,54243;4778=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="5694" producer="19_playlist5" in="5331">
+   <filter id="filter8">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5694=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="8458" producer="19_playlist5" in="7015">
+   <filter id="filter7">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8458=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="9404" producer="19_playlist5" in="8827">
+   <filter id="filter9">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9404=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="9869" producer="19_playlist5" in="9493">
+   <filter id="filter10">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9869=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="10095" producer="19_playlist5" in="9987">
+   <filter id="filter11">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;9987=9,54243;10095=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="10673" producer="19_playlist5" in="10323">
+   <filter id="filter12">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;10673=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="12050" producer="19_playlist5" in="11403">
+   <filter id="filter13">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12050=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="12250" producer="19_playlist5" in="12218">
+   <filter id="filter14">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12250=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="12905" producer="19_playlist5" in="12329">
+   <filter id="filter15">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12905=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="13340" producer="19_playlist5" in="13177">
+   <filter id="filter16">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13340=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="13537" producer="19_playlist5" in="13444">
+   <filter id="filter17">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13537=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="13873" producer="19_playlist5" in="13714">
+   <filter id="filter18">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13873=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="14101" producer="19_playlist5" in="13943">
+   <filter id="filter19">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14101=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="14336" producer="19_playlist5" in="14245">
+   <filter id="filter20">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14336=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="15385" producer="19_playlist5" in="14546">
+   <filter id="filter21">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15385=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="16184" producer="19_playlist5" in="15506">
+   <filter id="filter22">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16184=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="16697" producer="19_playlist5" in="16588">
+   <filter id="filter23">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16697=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="17042" producer="19_playlist5" in="16902">
+   <filter id="filter24">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17042=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="18214" producer="19_playlist5" in="17190">
+   <filter id="filter25">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18214=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="18748" producer="19_playlist5" in="18310">
+   <filter id="filter26">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18748=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="19065" producer="19_playlist5" in="19028">
+   <filter id="filter27">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19065=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="19499" producer="19_playlist5" in="19159">
+   <filter id="filter28">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19499=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="19816" producer="19_playlist5" in="19668">
+   <filter id="filter29">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19816=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="20337" producer="19_playlist5" in="19890">
+   <filter id="filter30">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20337=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="20490" producer="19_playlist5" in="20429">
+   <filter id="filter31">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20490=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="21829" producer="19_playlist5" in="20752">
+   <filter id="filter32">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20491=9,54243;20702=9,54243;20752=9,54243;21829=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="22904" producer="19_playlist5" in="22066">
+   <filter id="filter33">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20491=9,54243;20702=9,54243;20752=9,54243;21830=9,54243;21957=9,54243;22066=9,54243;22904=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="23849" producer="19_playlist5" in="22990">
+   <filter id="filter34">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20491=9,54243;20702=9,54243;20752=9,54243;21830=9,54243;21957=9,54243;22066=9,54243;22905=9,54243;22990=9,54243;23849=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="24788" producer="19_playlist5" in="24377">
+   <filter id="filter35">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20491=9,54243;20702=9,54243;20752=9,54243;21830=9,54243;21957=9,54243;22066=9,54243;22905=9,54243;22990=9,54243;23850=9,54243;24377=9,54243;24788=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="25397" producer="19_playlist5" in="25044">
+   <filter id="filter36">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=9,54243;4968=9,54243;5039=9,54243;5331=9,54243;5984=9,54243;6352=9,54243;6385=9,54243;7015=9,54243;8459=9,54243;8827=9,54243;9405=9,54243;9493=9,54243;9960=9,54243;10096=9,54243;10323=9,54243;11377=9,54243;11403=9,54243;12051=9,54243;12198=9,54243;12218=9,54243;12251=9,54243;12329=9,54243;12906=9,54243;13177=9,54243;13341=9,54243;13444=9,54243;13538=9,54243;13714=9,54243;13874=9,54243;13943=9,54243;14102=9,54243;14245=9,54243;14337=9,54243;14546=9,54243;15386=9,54243;15506=9,54243;16185=9,54243;16588=9,54243;16698=9,54243;16902=9,54243;17043=9,54243;17190=9,54243;18215=9,54243;18310=9,54243;18749=9,54243;18897=9,54243;18976=9,54243;19028=9,54243;19066=9,54243;19159=9,54243;19500=9,54243;19668=9,54243;19817=9,54243;19857=9,54243;19890=9,54243;20338=9,54243;20429=9,54243;20491=9,54243;20702=9,54243;20752=9,54243;21830=9,54243;21957=9,54243;22066=9,54243;22905=9,54243;22990=9,54243;23850=9,54243;24377=9,54243;24789=9,54243;25044=9,54243;25399=9,54243</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
    </filter>
   </entry>
  </playlist>
- <tractor out="24178" title="Anonymous Submission" global_feed="1" id="maintractor" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="15613" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>
@@ -251,61 +688,54 @@
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="combine">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition1">
    <property name="a_track">0</property>
    <property name="b_track">2</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="combine">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition2">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="combine">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="combine">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="version">0,9</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">frei0r.cairoblend</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="combine">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition6">
    <property name="a_track">4</property>
    <property name="b_track">5</property>
    <property name="version">0,9</property>
-   <property name="mlt_type">transition</property>
    <property name="mlt_service">frei0r.cairoblend</property>
    <property name="internal_added">237</property>
   </transition>

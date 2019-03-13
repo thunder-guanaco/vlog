@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="banner.svg">
+   sodipodi:docname="bigger_banner.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-61.383052"
-     inkscape:cy="239.92427"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-1851.0336"
+     inkscape:cy="-10.158849"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,23 +39,23 @@
      id="defs3721">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient861">
+       id="linearGradient1422">
       <stop
          style="stop-color:#d40000;stop-opacity:1;"
          offset="0"
-         id="stop857" />
+         id="stop1418" />
       <stop
          style="stop-color:#d40000;stop-opacity:0;"
          offset="1"
-         id="stop859" />
+         id="stop1420" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient861"
-       id="linearGradient863"
-       x1="0.00031890348"
+       xlink:href="#linearGradient1422"
+       id="linearGradient1424"
+       x1="0.0041198563"
        y1="889.99141"
-       x2="661.69459"
+       x2="835.69461"
        y2="889.99141"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -76,11 +76,11 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <rect
-       style="opacity:1;fill:url(#linearGradient863);fill-opacity:1;stroke-width:0.86259747"
+       style="opacity:1;fill:url(#linearGradient1424);fill-opacity:1;stroke-width:0.96939826"
        id="rect3737"
-       width="661.69427"
+       width="835.69049"
        height="231.60086"
-       x="0.00031890348"
+       x="0.0041198563"
        y="774.19098" />
   </g>
 </svg>

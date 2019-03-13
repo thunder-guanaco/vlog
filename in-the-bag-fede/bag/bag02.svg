@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="bag4.svg">
+   sodipodi:docname="bag02.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88997052"
-     inkscape:cx="1342.8826"
+     inkscape:cx="1151.865"
      inkscape:cy="552.01022"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1413"
-     inkscape:window-x="4480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <defs
@@ -462,7 +462,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -482,7 +482,7 @@
          id="tspan5145"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:0px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:0px;word-spacing:0px" /></text>
     <rect
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:1.02568913"
+       style="opacity:1;fill:#64ff00;fill-opacity:0.39215687;stroke-width:1.02568913"
        id="rect5504"
        width="316.22226"
        height="1019.3799"
@@ -494,7 +494,7 @@
        height="175.59077"
        width="264.57794"
        id="rect5504-3"
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.38938493" />
+       style="opacity:1;fill:#64ff00;fill-opacity:0.39215687;stroke-width:0.38938493" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
@@ -519,9 +519,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x P3X</tspan><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="211.49886"
+         y="210.69405"
          id="tspan5458"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">1 x Aviar</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
@@ -571,13 +571,6 @@
          y="684.59967"
          id="tspan5458-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
-    <rect
-       y="258.8139"
-       x="1599.9926"
-       height="228.82417"
-       width="264.57794"
-       id="rect5504-3-6"
-       style="opacity:1;fill:#0000c0;fill-opacity:0.29015545;stroke-width:0.44450763" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.05200195px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80129999"
@@ -587,27 +580,22 @@
        transform="scale(0.96782233,1.0332475)"><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="288.6116"
-         id="tspan5430-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999">Mid-ranges</tspan><tspan
+         y="316.97012"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
+         id="tspan5460-5" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="329.48141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999"
-         id="tspan5460-5">1 x Matrix</tspan><tspan
-         sodipodi:role="line"
-         x="1789.0277"
-         y="369.54642"
+         y="357.03513"
          id="tspan5432-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="409.61142"
+         y="397.10013"
          id="tspan5434-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /><tspan
          sodipodi:role="line"
          x="1789.0277"
-         y="449.67642"
+         y="437.16513"
          id="tspan5458-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;text-anchor:middle;stroke-width:0.80129999" /></text>
   </g>

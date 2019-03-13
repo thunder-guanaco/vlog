@@ -9,20 +9,18 @@ while line:
 
     splitted_line = line.split(',')
     
-    amount  = splitted_line[0]
-    brand   = splitted_line[1]
-    disc    = splitted_line[2]
-    plastic = splitted_line[3]
-    speed   = splitted_line[4]
-    glide   = splitted_line[5]
-    turn    = splitted_line[6]
-    fade    = splitted_line[7]
+    brand   = splitted_line[0]
+    disc    = splitted_line[1]
+    plastic = splitted_line[2]
+    speed   = splitted_line[3]
+    glide   = splitted_line[4]
+    turn    = splitted_line[5]
+    fade    = splitted_line[6]
     
     # import pdb; pdb.set_trace()
     
-    result = template.format(amount=amount, brand=brand, disc=disc,
-                             plastic=plastic, speed=speed, glide=glide,
-                             turn=turn, fade=fade)
+    result = template.format(brand=brand, disc=disc, plastic=plastic,
+                             speed=speed, glide=glide, turn=turn, fade=fade)
 
     result_file = open('{} - {}.kdenlivetitle'.format(brand, disc), 'w')
     result_file.write(result)
