@@ -135,21 +135,6 @@
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
  </producer>
- <producer id="116" out="18150" in="0">
-  <property name="length">18151</property>
-  <property name="eof">pause</property>
-  <property name="resource">banner/Dynamic Discs - Getwaway.kdenlivetitle</property>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:folderid">1</property>
-  <property name="kdenlive:duration">18151</property>
-  <property name="force_reload">0</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
- </producer>
  <producer id="117" out="18150" in="0">
   <property name="length">18151</property>
   <property name="eof">pause</property>
@@ -609,6 +594,36 @@
   <property name="kdenlive:file_hash">299da1ff79c65d67a8ed96ad3382e9ab</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="146" out="18150" in="0">
+  <property name="length">18151</property>
+  <property name="eof">pause</property>
+  <property name="resource">banner/Dynamic Discs - Getaway.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">18151</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+ </producer>
+ <producer id="147" out="18276" in="0">
+  <property name="length">18277</property>
+  <property name="eof">pause</property>
+  <property name="resource">banner/Dynamic Discs - Getaway.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">18151</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:customeffects">&lt;customeffects/>
 </property>
@@ -617,7 +632,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">10160</property>
+  <property name="kdenlive:docproperties.position">7990</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">/opt/vlog/in-the-bag-fede</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
@@ -628,7 +643,7 @@
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.1">banner</property>
@@ -671,7 +686,6 @@
   <entry out="18150" producer="113" in="0"/>
   <entry out="18150" producer="114" in="0"/>
   <entry out="18150" producer="115" in="0"/>
-  <entry out="18150" producer="116" in="0"/>
   <entry out="18150" producer="117" in="0"/>
   <entry out="18150" producer="118" in="0"/>
   <entry out="18150" producer="119" in="0"/>
@@ -700,6 +714,8 @@
   <entry out="16564" producer="98" in="0"/>
   <entry out="1076" producer="141" in="0"/>
   <entry out="1682" producer="109" in="0"/>
+  <entry out="18150" producer="146" in="0"/>
+  <entry out="18150" producer="147" in="0"/>
  </playlist>
  <producer id="black" out="47604" in="0">
   <property name="length">47605</property>
@@ -1208,7 +1224,7 @@
   <blank length="70"/>
   <entry out="18260" producer="145" in="17738"/>
   <blank length="345"/>
-  <entry out="16172" producer="116" in="15324"/>
+  <entry out="18275" producer="147" in="17427"/>
   <blank length="74"/>
   <entry out="12934" producer="121" in="12496"/>
   <blank length="437"/>
@@ -1224,8 +1240,8 @@
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">bag</property>
-  <blank length="772"/>
-  <entry out="1613" producer="126" in="509"/>
+  <blank length="763"/>
+  <entry out="1613" producer="126" in="500"/>
   <entry out="1791" producer="127" in="845"/>
   <entry out="1886" producer="128" in="828"/>
   <entry out="995" producer="129" in="649"/>
@@ -1280,7 +1296,7 @@
    <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <transition id="transition4" out="796" in="772">
+  <transition id="transition4" out="770" in="763">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
