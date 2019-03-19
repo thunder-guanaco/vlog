@@ -34,7 +34,7 @@ while line:
     result = template.format(brand=brand, disc=disc, plastic=plastic,
                              speed=speed, glide=glide, turn=turn, fade=fade)
 
-    file_name = '{} - {}.kdenlivetitle'.format(brand, disc)
+    file_name = '{}/{} - {}.kdenlivetitle'.format(folder_path, brand, disc)
     result_file = open(file_name, 'w')
     result_file.write(result)
     result_file.close()
