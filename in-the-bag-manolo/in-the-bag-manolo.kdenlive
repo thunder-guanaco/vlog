@@ -319,7 +319,7 @@
   <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="67" out="1410" in="0">
+ <producer id="67" title="Anonymous Submission" out="1410" in="0">
   <property name="length">1411</property>
   <property name="eof">pause</property>
   <property name="resource">/opt/vlog/graficas/banner.svg</property>
@@ -335,6 +335,7 @@
   <property name="kdenlive:duration">150</property>
   <property name="kdenlive:file_size">2460</property>
   <property name="kdenlive:file_hash">c9c86174a6dc065149c504593718bccc</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="73" out="432" in="0">
   <property name="length">433</property>
@@ -600,7 +601,7 @@
   <property name="kdenlive:file_hash">c809cb12892808623fab3c6d4d401805</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="78" out="149" in="0">
+ <producer id="78" title="Anonymous Submission" out="149" in="0">
   <property name="length">150</property>
   <property name="eof">pause</property>
   <property name="resource">0x000000ff</property>
@@ -610,8 +611,9 @@
   <property name="kdenlive:folderid">2</property>
   <property name="kdenlive:duration">150</property>
   <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="79" out="149" in="0">
+ <producer id="79" title="Anonymous Submission" out="149" in="0">
   <property name="length">150</property>
   <property name="eof">pause</property>
   <property name="resource">0x000000ff</property>
@@ -621,6 +623,7 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:duration">150</property>
   <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
+  <property name="global_feed">1</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:customeffects">&lt;customeffects/>
@@ -630,7 +633,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">15405</property>
+  <property name="kdenlive:docproperties.position">15390</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
   <property name="kdenlive:docproperties.projectfolder">kdenlive</property>
   <property name="kdenlive:docproperties.proxyextension">mpg</property>
