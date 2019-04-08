@@ -163,7 +163,7 @@
   <property name="kdenlive:file_hash">b14f8964a3635ddbd932b7d514d57104</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="7" out="934" in="0">
+ <producer id="7" title="Anonymous Submission" out="934" in="0">
   <property name="length">935</property>
   <property name="eof">pause</property>
   <property name="resource">titles/putter.svg</property>
@@ -179,8 +179,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21483</property>
   <property name="kdenlive:file_hash">e64864d91c8acc0062caaf02be4ea17f</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="8" out="320" in="0">
+ <producer id="8" title="Anonymous Submission" out="320" in="0">
   <property name="length">321</property>
   <property name="eof">pause</property>
   <property name="resource">titles/mid-range.svg</property>
@@ -196,6 +197,7 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21485</property>
   <property name="kdenlive:file_hash">4b38e70ff11f3e14900c90efa0f7912f</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="10" title="Anonymous Submission" out="149" in="0">
   <property name="length">150</property>
@@ -233,7 +235,7 @@
   <property name="kdenlive:file_hash">867a766f0fe0840748546ec00e9fd923</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="12" out="182" in="0">
+ <producer id="12" title="Anonymous Submission" out="182" in="0">
   <property name="length">183</property>
   <property name="eof">pause</property>
   <property name="resource">titles/mid-range-vs-fairway-driver.svg</property>
@@ -249,8 +251,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21327</property>
   <property name="kdenlive:file_hash">066b82db1c0ab6fa8d2c6eb94acc3a78</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="13" out="275" in="0">
+ <producer id="13" title="Anonymous Submission" out="275" in="0">
   <property name="length">276</property>
   <property name="eof">pause</property>
   <property name="resource">titles/putter-vs-mid-range.svg</property>
@@ -266,8 +269,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21333</property>
   <property name="kdenlive:file_hash">bd9055fb43c7c211fe109807dafe33a0</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="14" out="154" in="0">
+ <producer id="14" title="Anonymous Submission" out="154" in="0">
   <property name="length">155</property>
   <property name="eof">pause</property>
   <property name="resource">titles/fairway-driver-vs-distance-driver.svg</property>
@@ -283,6 +287,7 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21333</property>
   <property name="kdenlive:file_hash">cbc186399adeb01907760ad8850be530</property>
+  <property name="global_feed">1</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
@@ -295,7 +300,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">1227</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -312,25 +317,25 @@
   <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
-  <property name="kdenlive:docproperties.renderaudioquality">3</property>
-  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.rendercategory">Custom</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MPEG-2</property>
-  <property name="kdenlive:docproperties.renderquality">3</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderquality">15</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">180</property>
   <property name="kdenlive:docproperties.renderrescalewidth">320</property>
   <property name="kdenlive:docproperties.renderscanning">0</property>
-  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">tipos-de-discos.mpg</property>
+  <property name="kdenlive:docproperties.renderurl">tipos-de-discos.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="kdenlive:folder.-1.2">titles</property>
   <property name="xml_retain">1</property>
