@@ -3740,7 +3740,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">17889</property>
+  <property name="kdenlive:docproperties.position">1712</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -3754,11 +3754,31 @@
   <property name="kdenlive:docproperties.videotargettrack">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">titles</property>
   <property name="kdenlive:folder.-1.3">musica</property>
+  <property name="kdenlive:docproperties.renderaudioquality">160</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderquality">20</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">luxemburgo.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="2987" producer="12" in="0"/>
   <entry out="559" producer="14" in="0"/>
@@ -5729,13 +5749,44 @@
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <entry out="254" producer="14_playlist4" in="0"/>
-  <entry out="1301" producer="12_playlist4" in="1092"/>
-  <entry out="2769" producer="12_playlist4" in="1614"/>
+  <entry out="254" producer="14_playlist4" in="0">
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">1614=10</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="1301" producer="12_playlist4" in="1092">
+   <filter id="filter5">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">1614=10</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="2769" producer="12_playlist4" in="1614">
+   <filter id="filter6">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">1614=10</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
   <entry out="1568" producer="16_playlist4" in="733"/>
   <entry out="2091" producer="16_playlist4" in="1785"/>
   <entry out="384" producer="18_playlist4" in="77">
-   <filter id="filter4">
+   <filter id="filter7">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60</property>
@@ -5747,7 +5798,7 @@
    </filter>
   </entry>
   <entry out="2790" producer="18_playlist4" in="2359">
-   <filter id="filter5">
+   <filter id="filter8">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60</property>
@@ -5758,7 +5809,7 @@
    </filter>
   </entry>
   <entry out="488" producer="136_playlist4" in="117">
-   <filter id="filter6">
+   <filter id="filter9">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60;117=-60;521=-60</property>
@@ -5771,7 +5822,7 @@
    </filter>
   </entry>
   <entry out="507" producer="137_playlist4" in="145">
-   <filter id="filter7">
+   <filter id="filter10">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60;117=-60;178|=0;454|=-60;516|=-60</property>
@@ -5785,7 +5836,7 @@
   </entry>
   <entry out="531" producer="139_playlist4" in="164"/>
   <entry out="444" producer="143_playlist4" in="74">
-   <filter id="filter8">
+   <filter id="filter11">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60;117=-60;521=-60</property>
@@ -5798,7 +5849,7 @@
    </filter>
   </entry>
   <entry out="925" producer="144_playlist4" in="517">
-   <filter id="filter9">
+   <filter id="filter12">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">77=-60;117=-60;521=-60</property>
@@ -5817,7 +5868,7 @@
     <property name="kdenlive_id">pan_zoom</property>
     <property name="tag">affine</property>
     <property name="kdenlive_ix">1</property>
-    <property name="transition.geometry">0=0/0:1920x1080:100;132=0/0:1920x1080:100;169=-2729/-2129:8256x4644:100;377=-2729/-2129:8256x4644:100</property>
+    <property name="transition.geometry">0=0/0:1920x1080:100;132=0/0:1920x1080:100;139=-2729/-2129:8256x4644:100;316=-2729/-2129:8256x4644:100</property>
     <property name="transition.distort">0</property>
     <property name="kdenlive:sync_in_out">1</property>
     <property name="kdenlive_info"/>
@@ -5837,7 +5888,7 @@
    </filter>
   </entry>
   <entry out="892" producer="21_playlist4" in="0">
-   <filter id="filter10">
+   <filter id="filter13">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">0=0;592=-5;594=15;614=4;-1=0</property>
