@@ -3008,7 +3008,7 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="130" out="577" in="0">
+ <producer id="130" title="Anonymous Submission" out="577" in="0">
   <property name="length">578</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190318_124408085.mp4</property>
@@ -3065,6 +3065,7 @@
   <property name="kdenlive:file_size">12201058</property>
   <property name="kdenlive:file_hash">e9685a824ec155e7714c16a779faa2e1</property>
   <property name="kdenlive:clipname"/>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="136" title="Anonymous Submission" out="597" in="0">
   <property name="length">598</property>
@@ -3740,7 +3741,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">1712</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -3759,14 +3760,14 @@
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">titles</property>
   <property name="kdenlive:folder.-1.3">musica</property>
-  <property name="kdenlive:docproperties.renderaudioquality">160</property>
-  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.rendercategory">Custom</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
-  <property name="kdenlive:docproperties.renderquality">20</property>
+  <property name="kdenlive:docproperties.renderquality">15</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">180</property>

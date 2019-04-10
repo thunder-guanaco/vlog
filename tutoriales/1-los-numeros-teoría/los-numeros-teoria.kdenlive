@@ -361,7 +361,7 @@
   <property name="kdenlive:file_hash">21e7c2bbf25ff85e2fd99e9c2e831509</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="17" out="644" in="0">
+ <producer id="17" title="Anonymous Submission" out="644" in="0">
   <property name="length">645</property>
   <property name="eof">pause</property>
   <property name="resource">titles/0.svg</property>
@@ -377,8 +377,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">20072</property>
   <property name="kdenlive:file_hash">e32802c1110356f3a6c49a55c1efb3cb</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="18" out="2710" in="0">
+ <producer id="18" title="Anonymous Submission" out="2710" in="0">
   <property name="length">2711</property>
   <property name="eof">pause</property>
   <property name="resource">titles/1-range.svg</property>
@@ -394,8 +395,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">21848</property>
   <property name="kdenlive:file_hash">835971cb714344fef6fb8212b3ade902</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="19" out="221" in="0">
+ <producer id="19" title="Anonymous Submission" out="221" in="0">
   <property name="length">222</property>
   <property name="eof">pause</property>
   <property name="resource">titles/1.svg</property>
@@ -411,8 +413,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">20670</property>
   <property name="kdenlive:file_hash">8a67de02c8492d833e01ce78e3172dfd</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="20" out="609" in="0">
+ <producer id="20" title="Anonymous Submission" out="609" in="0">
   <property name="length">610</property>
   <property name="eof">pause</property>
   <property name="resource">titles/2-range.svg</property>
@@ -428,8 +431,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">23789</property>
   <property name="kdenlive:file_hash">3e2a922bd13cf1fd7e07a71c20514147</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="21" out="509" in="0">
+ <producer id="21" title="Anonymous Submission" out="509" in="0">
   <property name="length">510</property>
   <property name="eof">pause</property>
   <property name="resource">titles/2.svg</property>
@@ -445,8 +449,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">22608</property>
   <property name="kdenlive:file_hash">f37d13cccbcc2a3614ff6115e3ddec1b</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="22" out="1611" in="0">
+ <producer id="22" title="Anonymous Submission" out="1611" in="0">
   <property name="length">1612</property>
   <property name="eof">pause</property>
   <property name="resource">titles/3-range.svg</property>
@@ -462,8 +467,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">25571</property>
   <property name="kdenlive:file_hash">2af16a8c0a15c5e85a51cf2b4f11fbb9</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="23" out="1239" in="0">
+ <producer id="23" title="Anonymous Submission" out="1239" in="0">
   <property name="length">1240</property>
   <property name="eof">pause</property>
   <property name="resource">titles/3.svg</property>
@@ -479,8 +485,9 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">24385</property>
   <property name="kdenlive:file_hash">6fd08c8e59f26455c060a2118677f3ad</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="25" out="244" in="0">
+ <producer id="25" title="Anonymous Submission" out="244" in="0">
   <property name="length">245</property>
   <property name="eof">pause</property>
   <property name="resource">titles/4.svg</property>
@@ -496,6 +503,7 @@
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">26164</property>
   <property name="kdenlive:file_hash">0f0afce474b8217e9201e72e5bc40150</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="24" title="Anonymous Submission" out="1237" in="0">
   <property name="length">1238</property>
@@ -526,7 +534,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">555</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -544,6 +552,26 @@
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">titles</property>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.rendercategory">Custom</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderquality">15</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">los-numeros-teoria.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="2536" producer="1" in="0"/>
   <entry out="1847" producer="2" in="0"/>
