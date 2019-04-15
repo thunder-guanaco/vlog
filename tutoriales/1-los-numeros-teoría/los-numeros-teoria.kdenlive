@@ -523,6 +523,21 @@
   <property name="kdenlive:file_hash">33e0e246cc34004062f1951c9f914695</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="26" out="150" in="0">
+  <property name="length">151</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/graficas/ThunderGuanaco.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">151</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
   <property name="kdenlive:docproperties.audiotargettrack">-1</property>
@@ -572,6 +587,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">los-numeros-teoria.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:folder.-1.3">Folder</property>
   <property name="xml_retain">1</property>
   <entry out="2536" producer="1" in="0"/>
   <entry out="1847" producer="2" in="0"/>
@@ -588,6 +604,7 @@
   <entry out="124" producer="23" in="0"/>
   <entry out="124" producer="25" in="0"/>
   <entry out="882" producer="24" in="0"/>
+  <entry out="150" producer="26" in="0"/>
  </playlist>
  <producer id="black" out="70705" in="0">
   <property name="length">70706</property>
@@ -598,7 +615,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="9673" producer="black" in="0"/>
+  <entry out="9790" producer="black" in="0"/>
  </playlist>
  <producer id="4_playlist5" title="Anonymous Submission" out="33396" in="0">
   <property name="length">33397</property>
@@ -792,8 +809,10 @@
   <entry out="1485" producer="22" in="0"/>
   <entry out="214" producer="25" in="0"/>
   <entry out="593" producer="24" in="0"/>
+  <blank length="881"/>
+  <entry out="116" producer="26" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="9673" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="9790" in="0">
   <track producer="black_track"/>
   <track producer="playlist5"/>
   <track producer="playlist0"/>

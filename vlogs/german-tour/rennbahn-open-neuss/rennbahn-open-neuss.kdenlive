@@ -652,22 +652,6 @@
   <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="16" title="Anonymous Submission" out="150" in="0">
-  <property name="length">151</property>
-  <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/graficas/ThunderGuanaco.kdenlivetitle</property>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:folderid">4</property>
-  <property name="kdenlive:duration">151</property>
-  <property name="force_reload">0</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
-  <property name="global_feed">1</property>
- </producer>
  <producer id="17" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
@@ -726,6 +710,35 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="16" title="Anonymous Submission" out="149" in="0">
+  <property name="length">151</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/graficas/ThunderGuanaco.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">544d94630de471f3ce26b91f5f1163ae</property>
+  <property name="global_feed">1</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="150" out="150" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ &lt;item z-index="2" type="QGraphicsTextItem">
+  &lt;position x="407" y="105">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="183" font-outline-color="0,0,0,255" shadow="0;#ff000000;99;0;0" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="150" line-spacing="0" box-width="1106.22" font-color="255,255,255,255" alignment="4">Thunder Guanaco&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_size">676</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
   <property name="kdenlive:docproperties.audiotargettrack">1</property>
@@ -737,7 +750,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">6395</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -790,9 +803,9 @@
   <entry out="7016" producer="11" in="0"/>
   <entry out="124" producer="14" in="0"/>
   <entry out="124" producer="15" in="0"/>
-  <entry out="150" producer="16" in="0"/>
   <entry out="124" producer="17" in="0"/>
   <entry out="124" producer="18" in="0"/>
+  <entry out="149" producer="16" in="0"/>
  </playlist>
  <producer id="black" out="500" in="0">
   <property name="length">15000</property>
@@ -803,7 +816,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="6311" producer="black" in="0"/>
+  <entry out="6461" producer="black" in="0"/>
  </playlist>
  <producer id="11_playlist2" title="Anonymous Submission" out="7016" in="0">
   <property name="length">7017</property>
@@ -1418,8 +1431,10 @@
   <entry out="49" producer="17" in="0"/>
   <blank length="1220"/>
   <entry out="49" producer="18" in="0"/>
+  <blank length="4749"/>
+  <entry out="149" producer="16" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="6311" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="6461" in="0">
   <track producer="black_track"/>
   <track producer="playlist2" hide="video"/>
   <track producer="playlist4"/>
