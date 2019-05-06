@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.6.0" root="/opt/vlog/reviews/courses/baumholder/practice range" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
+<mlt title="Anonymous Submission" version="6.6.0" root="/opt/vlog/reviews/courses/baumholder/driving-range" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
  <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1080p 25 fps" progressive="1" sample_aspect_num="1"/>
  <producer id="1" title="Anonymous Submission" out="6610" in="0">
   <property name="length">6611</property>
@@ -138,6 +138,10 @@
   <property name="length">5436</property>
   <property name="eof">pause</property>
   <property name="resource">/opt/vlog/musica/bensound-summer.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -147,10 +151,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">3</property>
   <property name="kdenlive:file_size">4349086</property>
   <property name="kdenlive:file_hash">74259650835e9a0a4bb28d7ecab36973</property>
@@ -510,7 +510,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">6923</property>
+  <property name="kdenlive:docproperties.position">5961</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -889,7 +889,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
    <property name="deinterlace">0</property>
    <property name="distort">0</property>
    <property name="fill">1</property>
-   <property name="geometry">0/702:659x371:100</property>
+   <property name="geometry">0=0/710:659x371:100;5531=0/710:659x371:100</property>
    <property name="halign">centre</property>
    <property name="luma_invert">0</property>
    <property name="operator">over</property>
