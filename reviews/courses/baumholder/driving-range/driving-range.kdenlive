@@ -168,10 +168,10 @@
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="142" y="887">
+  &lt;position x="397" y="887">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="131" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-pixel-size="107" line-spacing="0" box-width="1636.33" font-color="255,255,255,255" alignment="1">(Tobi): ¿Puedes hacer un roller Fede?&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="1126.19" font-color="255,255,255,255" alignment="1">(Tobi) ¿Puedes hacer un roller Fede?&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -199,10 +199,10 @@
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="417" y="890">
+  &lt;position x="580" y="890">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="131" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-pixel-size="107" box-width="1085.8" font-color="255,255,255,255" alignment="1">(Fede): Venga, lo intento&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="760.359" font-color="255,255,255,255" alignment="1">(Fede) Venga, lo intento.&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -228,11 +228,11 @@
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="92" y="815">
+  &lt;position x="272" y="815">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="220" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-pixel-size="90" line-spacing="0" box-width="1736.47" font-color="255,255,255,255" alignment="1">(Carlos): Para los alemanes que  estais 
-viendo el video: El ya ha tirado una vez fuera...&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="184" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="1375.11" font-color="255,255,255,255" alignment="1">(Carlos) Para los alemanes que estáis 
+viendo el video: ya ha tirado una vez fuera...&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -246,7 +246,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:file_hash">e4aaebe617b784b40ffd09538d650a00</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="8" out="124" in="0">
+ <producer id="8" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -258,10 +258,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="304" y="908">
+  &lt;position x="448" y="908">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1312.28" font-color="255,255,255,255" alignment="1">(Fede): Tobi, tu has dicho un roller?&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="1024.42" font-color="255,255,255,255" alignment="1">(Fede) Tobi, ¿has dicho un roller?&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -273,8 +273,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">fbb4501b2fe193fa6c38920be93ac9bf</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="9" out="124" in="0">
+ <producer id="9" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -286,10 +287,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="359" y="911">
+  &lt;position x="469" y="911">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1202.42" font-color="255,255,255,255" alignment="1">(Tobi): Hasta la marca de los 200&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="981.297" font-color="255,255,255,255" alignment="1">(Tobi) Hasta la marca de los 200&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -301,8 +302,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">4d2246eeff6707a3e4b9866f93bfdb66</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="10" out="124" in="0">
+ <producer id="10" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -314,10 +316,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="601" y="919">
+  &lt;position x="661" y="919">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="718.313" font-color="255,255,255,255" alignment="1">(Fede): Ha rodado..&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="597.953" font-color="255,255,255,255" alignment="1">(Fede) Ha rodado...&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -329,8 +331,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">7ef22409f6ca2c649c9103dcc88658c7</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="11" out="124" in="0">
+ <producer id="11" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -342,10 +345,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="550" y="909">
+  &lt;position x="617" y="909">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="819.375" font-color="255,255,255,255" alignment="1">(Carlos): De derechas!&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="686.547" font-color="255,255,255,255" alignment="1">(Carlos) ¡De derechas!&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -357,6 +360,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">c22bb080c2932e6ad45872eee330884e</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="12" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
@@ -370,10 +374,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="287" y="916">
+  &lt;position x="508" y="916">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-pixel-size="90" box-width="1300.95" font-color="255,255,255,255" alignment="1">(Tobi): A él el roller no le combiene&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="903.813" font-color="255,255,255,255" alignment="1">(Tobi) El roller no le beneficia&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -387,7 +391,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:file_hash">cf27bc303f7f567cd06b6b0f464fa2b9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="13" out="124" in="0">
+ <producer id="13" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -399,10 +403,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="335" y="911">
+  &lt;position x="479" y="911">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1250.89" font-color="255,255,255,255" alignment="1">(Tobi): Él tira más lejos sin roller...&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="961.391" font-color="255,255,255,255" alignment="1">(Tobi) Tira más lejos sin roller...&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -414,8 +418,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">b128c069749982e9cd9d8a06180eb1a0</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="14" out="124" in="0">
+ <producer id="14" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -427,10 +432,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="96" y="916">
+  &lt;position x="228" y="916">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1727.34" font-color="255,255,255,255" alignment="1">(Tobi): Al final intenta tirar los discos de vuelta&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="1463.75" font-color="255,255,255,255" alignment="1">(Tobi) Después intenta tirar los discos de vuelta&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -442,8 +447,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">2e56cba170283cfb58915a48231e2c50</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="15" out="124" in="0">
+ <producer id="15" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -455,10 +461,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="141" y="911">
+  &lt;position x="461" y="911">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1638.3" font-color="255,255,255,255" alignment="1">(Tobi): Seguro que ninguno llega de vuelta...&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="998.438" font-color="255,255,255,255" alignment="1">(Tobi) Seguro que ninguno llega.&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -470,8 +476,9 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">e6028e10cd7040ce70a57f2776671e61</property>
+  <property name="global_feed">1</property>
  </producer>
- <producer id="16" out="124" in="0">
+ <producer id="16" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -483,10 +490,10 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="159" y="915">
+  &lt;position x="303" y="915">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="110" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="90" box-width="1601.17" font-color="255,255,255,255" alignment="1">(Tobi): Intenta darle a la señal de los 100m.&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="92" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="1.5" font-pixel-size="75" line-spacing="0" box-width="1313.55" font-color="255,255,255,255" alignment="1">(Tobi) Intenta darle a la señal de los 100m.&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -498,6 +505,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">530573629d832448fdab9be3f0e12733</property>
+  <property name="global_feed">1</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
@@ -510,7 +518,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">60</property>
+  <property name="kdenlive:docproperties.position">2823</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -824,7 +832,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
-  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:locked_track">1</property>
   <blank length="206"/>
   <entry out="6610" producer="1_playlist5" in="0">
    <filter id="filter2">
