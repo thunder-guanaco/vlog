@@ -510,7 +510,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">60</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -524,7 +524,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">clips</property>
@@ -657,7 +657,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
  <playlist id="playlist2">
   <property name="kdenlive:track_name">Audio 1</property>
   <property name="kdenlive:audio_track">1</property>
-  <property name="kdenlive:locked_track">1</property>
+  <property name="kdenlive:locked_track">0</property>
   <blank length="62"/>
   <entry out="5435" producer="4_playlist2" in="0">
    <filter id="filter0">
@@ -830,7 +830,7 @@ viendo el video: El ya ha tirado una vez fuera...&lt;/content>
    <filter id="filter2">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="level">0=0;270=0;300=4;320=2;330=0;852=-4;859=-2;872=0;881=-4;1061=0;1070=-60;1359=-60;1375=2;1431=2;1437=0;1450=4;1461=-2;1719=0;1728=-60;1929=-60;1957=0;1962=-4;1969=6;1977=0;2161=2;2162=-60;2316=-60;2446=-60;2451=-4;2526=-4;2530=-2;2533=2;2537=-8;2575=-2;2576=-60;2681=-60;2950=-60;2951=-4;3043=0;3045=2;3053=4;3059=-2;3120=-2;3122=-60;3539=-60;3546=-2;3664=2;3665=-60;4034=-54;4035=8;4072=4;4075=-60;4421=-60;4425=8;4472=6;4483=-60;4937=-60;5104=-54;5106=6;5134=12;5136=-60;5590=-60;5603=12;5627=4;5633=-42;5634=-60;6100=-56;6105=-60;6147=-60;6197=-60;6275=-60;6280=4;6307=6;6327=-60;-1=-60</property>
+    <property name="level">0=0;270=0;300=4;320=2;330=0;696=-6;701=-60;832=-60;859=-2;872=0;881=-4;984=-2;985=-60;1359=-60;1375=2;1431=2;1437=0;1450=4;1461=-2;1719=0;1728=-60;1929=-60;1957=0;1962=-4;1969=6;1977=0;2161=2;2162=-60;2316=-60;2446=-60;2451=-4;2526=-4;2530=-2;2533=2;2537=-8;2575=-2;2576=-60;2681=-60;2950=-60;2951=-4;3043=0;3045=2;3053=4;3059=-2;3120=-2;3122=-60;3539=-60;3546=-2;3664=2;3665=-60;4034=-54;4035=8;4072=4;4075=-60;4421=-60;4425=8;4472=6;4483=-60;4937=-60;5104=-54;5106=6;5134=12;5136=-60;5590=-60;5603=12;5627=4;5633=-42;5634=-60;6100=-56;6105=-60;6147=-60;6197=-60;6275=-60;6280=4;6307=6;6327=-60;-1=-60</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
