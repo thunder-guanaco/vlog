@@ -4262,8 +4262,8 @@
   <property name="kdenlive:file_size">12663</property>
   <property name="kdenlive:file_hash">c5208439f6b8dc2ecbee0bccc4a9c151</property>
  </producer>
- <producer id="197" out="1220" in="0">
-  <property name="length">1221</property>
+ <producer id="197" out="1244" in="0">
+  <property name="length">1245</property>
   <property name="eof">pause</property>
   <property name="resource">titles/score-cards/score-card-9b.svg</property>
   <property name="ttl">25</property>
@@ -4330,8 +4330,8 @@
   <property name="kdenlive:file_size">12664</property>
   <property name="kdenlive:file_hash">c35737ce9efb6137367339ddad2ef1bb</property>
  </producer>
- <producer id="201" out="962" in="0">
-  <property name="length">963</property>
+ <producer id="201" out="999" in="0">
+  <property name="length">1000</property>
   <property name="eof">pause</property>
   <property name="resource">titles/score-cards/score-card-11b.svg</property>
   <property name="ttl">25</property>
@@ -4412,24 +4412,6 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer id="211" title="Anonymous Submission" out="1656" in="0">
-  <property name="length">1657</property>
-  <property name="eof">pause</property>
-  <property name="resource">titles/pantalla-final.svg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="loop">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">pixbuf</property>
-  <property name="kdenlive:folderid">3</property>
-  <property name="kdenlive:duration">125</property>
-  <property name="kdenlive:file_size">18044</property>
-  <property name="kdenlive:file_hash">08c3c76c0b372696aeffc915f137e388</property>
   <property name="global_feed">1</property>
  </producer>
  <producer id="212" title="Anonymous Submission" out="1101" in="0">
@@ -4684,6 +4666,126 @@
   <property name="kdenlive:file_hash">65a165b69eb475c36b8b5634eb5f15a7</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="213" out="179" in="0">
+  <property name="length">180</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/fede-birdie.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2098</property>
+  <property name="kdenlive:file_hash">02af5f34f51d89ec7e94efe295f2f133</property>
+ </producer>
+ <producer id="214" out="301" in="0">
+  <property name="length">302</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/fede-bogey.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2233</property>
+  <property name="kdenlive:file_hash">4d7a91ba7e91fcc444aad5e9c42a972a</property>
+ </producer>
+ <producer id="215" out="368" in="0">
+  <property name="length">369</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/fede-par.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2202</property>
+  <property name="kdenlive:file_hash">06f7888953d83634f0ebe4638205cad2</property>
+ </producer>
+ <producer id="216" out="224" in="0">
+  <property name="length">225</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/manolo-birdie.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">21193453557cfe54f8adf2209582e2fd</property>
+  <property name="kdenlive:file_size">2239</property>
+ </producer>
+ <producer id="217" out="316" in="0">
+  <property name="length">317</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/manolo-bogey.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2307</property>
+  <property name="kdenlive:file_hash">fd578de45eb6b30b873cd05bac87a8d2</property>
+ </producer>
+ <producer id="218" out="369" in="0">
+  <property name="length">370</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/hole-scores/manolo-par.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">2879</property>
+  <property name="kdenlive:file_hash">e038ce4da8447415a85e1b8149fd3f56</property>
+ </producer>
+ <producer id="211" title="Anonymous Submission" out="1656" in="0">
+  <property name="length">1657</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/pantalla-final.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">33187</property>
+  <property name="kdenlive:file_hash">12836bd072ef9145e589adce971fa98f</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
   <property name="kdenlive:docproperties.audiotargettrack">-1</property>
@@ -4695,7 +4797,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">17265</property>
+  <property name="kdenlive:docproperties.position">17302</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=25 s=1920x1080 vb=36M threads=0 vcodec=dnxhd</property>
@@ -4709,7 +4811,7 @@
   <property name="kdenlive:docproperties.videotargettrack">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">music</property>
@@ -4813,7 +4915,6 @@
   <entry out="124" producer="204" in="0"/>
   <entry out="124" producer="205" in="0"/>
   <entry out="150" producer="206" in="0"/>
-  <entry out="1656" producer="211" in="0"/>
   <entry out="1101" producer="212" in="0"/>
   <entry out="1215" producer="171" in="0"/>
   <entry out="1632" producer="170" in="0"/>
@@ -4828,6 +4929,13 @@
   <entry out="1547" producer="168" in="0"/>
   <entry out="962" producer="169" in="0"/>
   <entry out="139" producer="203" in="0"/>
+  <entry out="124" producer="213" in="0"/>
+  <entry out="124" producer="214" in="0"/>
+  <entry out="124" producer="215" in="0"/>
+  <entry out="124" producer="216" in="0"/>
+  <entry out="124" producer="217" in="0"/>
+  <entry out="124" producer="218" in="0"/>
+  <entry out="1656" producer="211" in="0"/>
  </playlist>
  <producer id="black" out="72873" in="0">
   <property name="length">72874</property>
@@ -9172,20 +9280,20 @@
   <entry out="318" producer="185" in="0"/>
   <entry out="1085" producer="186" in="0"/>
   <entry out="146" producer="187" in="0"/>
-  <entry out="708" producer="188" in="0"/>
-  <entry out="1570" producer="189" in="24"/>
+  <entry out="684" producer="188" in="0"/>
+  <entry out="1570" producer="189" in="0"/>
   <entry out="348" producer="190" in="0"/>
   <entry out="1077" producer="191" in="0"/>
   <entry out="249" producer="192" in="0"/>
   <entry out="1785" producer="193" in="0"/>
   <entry out="175" producer="194" in="0"/>
   <entry out="1643" producer="195" in="0"/>
-  <entry out="258" producer="196" in="0"/>
-  <entry out="1219" producer="197" in="0"/>
+  <entry out="239" producer="196" in="0"/>
+  <entry out="1243" producer="197" in="5"/>
   <entry out="247" producer="198" in="0"/>
   <entry out="1134" producer="199" in="0"/>
-  <entry out="216" producer="200" in="101"/>
-  <entry out="961" producer="201" in="16"/>
+  <entry out="163" producer="200" in="101"/>
+  <entry out="998" producer="201" in="0"/>
   <entry out="169" producer="202" in="72"/>
   <entry out="34" producer="203" in="0"/>
   <entry out="1467" producer="211" in="0">
@@ -9217,9 +9325,57 @@
  </playlist>
  <playlist id="playlist2">
   <property name="kdenlive:track_name">score Manolo</property>
+  <blank length="2133"/>
+  <entry out="107" producer="218" in="0"/>
+  <blank length="669"/>
+  <entry out="223" producer="216" in="0"/>
+  <blank length="958"/>
+  <entry out="368" producer="218" in="0"/>
+  <blank length="1036"/>
+  <entry out="178" producer="213" in="0"/>
+  <blank length="653"/>
+  <entry out="23" producer="218" in="0"/>
+  <blank length="1896"/>
+  <entry out="14" producer="217" in="0"/>
+  <blank length="1063"/>
+  <entry out="302" producer="217" in="0"/>
+  <blank length="1733"/>
+  <entry out="315" producer="217" in="0"/>
+  <blank length="1744"/>
+  <entry out="34" producer="217" in="0"/>
+  <blank length="1204"/>
+  <entry out="300" producer="214" in="0"/>
+  <blank length="1082"/>
+  <entry out="102" producer="218" in="0"/>
+  <blank length="1057"/>
+  <entry out="37" producer="218" in="3"/>
  </playlist>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">score Fede</property>
+  <blank length="2184"/>
+  <entry out="56" producer="214" in="0"/>
+  <blank length="525"/>
+  <entry out="367" producer="215" in="0"/>
+  <blank length="1277"/>
+  <entry out="49" producer="215" in="0"/>
+  <blank length="1183"/>
+  <entry out="31" producer="218" in="0"/>
+  <blank length="653"/>
+  <entry out="23" producer="215" in="0"/>
+  <blank length="1547"/>
+  <entry out="363" producer="215" in="0"/>
+  <blank length="1313"/>
+  <entry out="52" producer="215" in="0"/>
+  <blank length="1909"/>
+  <entry out="139" producer="215" in="0"/>
+  <blank length="1504"/>
+  <entry out="274" producer="215" in="0"/>
+  <blank length="1452"/>
+  <entry out="52" producer="218" in="0"/>
+  <blank length="1145"/>
+  <entry out="39" producer="215" in="0"/>
+  <blank length="959"/>
+  <entry out="132" producer="215" in="0"/>
  </playlist>
  <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="18903" in="0">
   <track producer="black_track"/>
