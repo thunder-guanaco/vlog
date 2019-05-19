@@ -66,6 +66,10 @@
   <property name="length">1528</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190316_062241.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -105,10 +109,6 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.frame_rate_num">33102000</property>
   <property name="meta.media.frame_rate_den">1100411</property>
   <property name="meta.media.colorspace">601</property>
@@ -221,6 +221,21 @@ después de la 2ª y de la 3ª ronda&lt;/content>
   <property name="kdenlive:file_hash">707389bdcf3f46c41c8ab042ad0824df</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="172" out="150" in="0">
+  <property name="length">151</property>
+  <property name="eof">pause</property>
+  <property name="resource">/opt/vlog/graficas/ThunderGuanaco.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">151</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
   <property name="kdenlive:docproperties.audiotargettrack">-1</property>
@@ -232,7 +247,7 @@ después de la 2ª y de la 3ª ronda&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">4537</property>
+  <property name="kdenlive:docproperties.position">4892</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=25 s=1920x1080 vb=36M threads=0 vcodec=dnxhd</property>
@@ -250,26 +265,6 @@ después de la 2ª y de la 3ª ronda&lt;/content>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.3">titles</property>
-  <property name="kdenlive:docproperties.renderaudioquality">160</property>
-  <property name="kdenlive:docproperties.rendercategory">Personalizado</property>
-  <property name="kdenlive:docproperties.renderendguide">-1</property>
-  <property name="kdenlive:docproperties.renderexportaudio">0</property>
-  <property name="kdenlive:docproperties.renderguide">0</property>
-  <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
-  <property name="kdenlive:docproperties.renderquality">20</property>
-  <property name="kdenlive:docproperties.renderratio">1</property>
-  <property name="kdenlive:docproperties.renderrescale">0</property>
-  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
-  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
-  <property name="kdenlive:docproperties.renderscanning">0</property>
-  <property name="kdenlive:docproperties.renderspeed">2</property>
-  <property name="kdenlive:docproperties.renderstartguide">-1</property>
-  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
-  <property name="kdenlive:docproperties.rendertctype">0</property>
-  <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">wt-intro.mp4</property>
-  <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="22594" producer="3" in="0"/>
   <blank length="12"/>
@@ -280,6 +275,7 @@ después de la 2ª y de la 3ª ronda&lt;/content>
   <entry out="124" producer="169" in="0"/>
   <entry out="124" producer="170" in="0"/>
   <entry out="124" producer="171" in="0"/>
+  <entry out="150" producer="172" in="0"/>
  </playlist>
  <producer id="black" out="72873" in="0">
   <property name="length">72874</property>
@@ -290,7 +286,7 @@ después de la 2ª y de la 3ª ronda&lt;/content>
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="4855" producer="black" in="0"/>
+  <entry out="4980" producer="black" in="0"/>
  </playlist>
  <producer id="3_playlist5" title="Anonymous Submission" out="22594" in="0">
   <property name="length">22595</property>
@@ -556,13 +552,23 @@ después de la 2ª y de la 3ª ronda&lt;/content>
     <property name="kdenlive_info"/>
    </filter>
   </entry>
+  <entry out="124" producer="172" in="0">
+   <filter id="filter7" out="10">
+    <property name="start">0</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
  </playlist>
  <playlist id="playlist0">
   <property name="kdenlive:track_name">titles</property>
   <blank length="4506"/>
   <entry out="325" producer="171" in="179"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="4855" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="4980" in="0">
   <track producer="black_track"/>
   <track producer="playlist5"/>
   <track producer="playlist0"/>
