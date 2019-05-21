@@ -4768,6 +4768,10 @@
   <property name="length">4520</property>
   <property name="eof">pause</property>
   <property name="resource">/opt/vlog/musica/bensound-endlessmotion.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -4777,10 +4781,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">2</property>
   <property name="kdenlive:file_size">3615870</property>
   <property name="kdenlive:file_hash">0172073b7f5fd433030344abd1ff0da1</property>
@@ -4797,7 +4797,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">654</property>
+  <property name="kdenlive:docproperties.position">595</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=25 s=1920x1080 vb=36M threads=0 vcodec=dnxhd</property>
@@ -4811,7 +4811,7 @@
   <property name="kdenlive:docproperties.videotargettrack">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">89</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">music</property>
@@ -4946,7 +4946,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="18935" producer="black" in="0"/>
+  <entry out="18687" producer="black" in="0"/>
  </playlist>
  <producer id="166_playlist3_audio" title="Anonymous Submission" out="20592" in="0">
   <property name="length">20593</property>
@@ -5005,13 +5005,11 @@
  <playlist id="playlist3">
   <property name="kdenlive:track_name">comentario</property>
   <property name="kdenlive:locked_track">0</property>
-  <blank length="32"/>
   <entry out="535" producer="166_playlist3_audio" in="416"/>
   <entry out="579" producer="166_playlist3_audio" in="562"/>
   <entry out="620" producer="166_playlist3_audio" in="589"/>
-  <entry out="970" producer="166_playlist3_audio" in="804"/>
+  <entry out="970" producer="166_playlist3_audio" in="838"/>
   <entry out="1102" producer="166_playlist3_audio" in="1019"/>
-  <entry out="1388" producer="166_playlist3_audio" in="1207"/>
   <entry out="1579" producer="166_playlist3_audio" in="1457"/>
   <entry out="18236" producer="166_playlist3_audio" in="1687"/>
   <entry out="18382" producer="166_playlist3_audio" in="18325"/>
@@ -9180,8 +9178,7 @@
  <playlist id="playlist5">
   <property name="kdenlive:track_name">video</property>
   <property name="kdenlive:locked_track">0</property>
-  <blank length="32"/>
-  <entry out="1437" producer="slowmotion:67:0,3:1:0" in="1026"/>
+  <entry out="1221" producer="slowmotion:67:0,3:1:0" in="1026"/>
   <entry out="1811" producer="slowmotion:17:0,3:1:0" in="1530"/>
   <entry out="298" producer="7_playlist5" in="121"/>
   <entry out="368" producer="8_playlist5" in="102"/>
@@ -9272,8 +9269,7 @@
  </playlist>
  <playlist id="playlist0">
   <property name="kdenlive:track_name">score card</property>
-  <blank length="70"/>
-  <entry out="1100" producer="212" in="445"/>
+  <entry out="1100" producer="212" in="623"/>
   <entry out="1438" producer="180" in="0"/>
   <entry out="53" producer="204" in="3"/>
   <entry out="581" producer="205" in="0"/>
@@ -9311,7 +9307,7 @@
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">hoyo</property>
-  <blank length="726"/>
+  <blank length="478"/>
   <entry out="1546" producer="168" in="0"/>
   <entry out="961" producer="169" in="69"/>
   <entry out="1326" producer="170" in="0"/>
@@ -9327,7 +9323,7 @@
  </playlist>
  <playlist id="playlist2">
   <property name="kdenlive:track_name">score Manolo</property>
-  <blank length="2165"/>
+  <blank length="1917"/>
   <entry out="107" producer="218" in="0"/>
   <blank length="664"/>
   <entry out="228" producer="216" in="0"/>
@@ -9354,7 +9350,7 @@
  </playlist>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">score Fede</property>
-  <blank length="2216"/>
+  <blank length="1968"/>
   <entry out="56" producer="214" in="0"/>
   <blank length="525"/>
   <entry out="367" producer="215" in="0"/>
@@ -9379,7 +9375,7 @@
   <blank length="943"/>
   <entry out="148" producer="215" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="18935" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="18687" in="0">
   <track producer="black_track"/>
   <track producer="playlist3"/>
   <track producer="playlist5"/>
@@ -9387,7 +9383,7 @@
   <track producer="playlist1"/>
   <track producer="playlist2"/>
   <track producer="playlist4"/>
-  <transition id="transition7" out="17296" in="17272">
+  <transition id="transition7" out="17048" in="17024">
    <property name="a_track">2</property>
    <property name="b_track">3</property>
    <property name="start">0/0:100%x100%</property>
@@ -9404,7 +9400,7 @@
    <property name="luma_invert">0</property>
    <property name="softness">0,33</property>
   </transition>
-  <transition id="transition0" out="94" in="70">
+  <transition id="transition0" out="24">
    <property name="a_track">2</property>
    <property name="b_track">3</property>
    <property name="start">0/0:100%x100%</property>
