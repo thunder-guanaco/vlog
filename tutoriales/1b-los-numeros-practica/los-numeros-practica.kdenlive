@@ -1,14 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt title="Anonymous Submission" version="6.6.0" root="/opt/vlog/tutoriales/1b-los-numeros-practica" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
- <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1080p 25 fps" progressive="1" sample_aspect_num="1"/>
- <producer id="1" title="Anonymous Submission" out="810" in="0">
-  <property name="length">811</property>
+ <profile width="1920" frame_rate_den="1001" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" colorspace="709" sample_aspect_den="1" description="HD 1080i 29.97 fps" progressive="0" sample_aspect_num="1"/>
+ <producer id="1" title="Anonymous Submission" out="971" in="0">
+  <property name="length">972</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_193204.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -48,7 +44,14 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">91260859</property>
+  <property name="kdenlive:file_hash">0f7f77d7c19e1061d807e03e3d81760e</property>
+  <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">87480000</property>
   <property name="meta.media.frame_rate_den">2917837</property>
   <property name="meta.media.colorspace">601</property>
@@ -57,18 +60,11 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">91260859</property>
-  <property name="kdenlive:file_hash">0f7f77d7c19e1061d807e03e3d81760e</property>
-  <property name="global_feed">1</property>
  </producer>
- <producer id="2" title="Anonymous Submission" out="2317" in="0">
-  <property name="length">2318</property>
+ <producer id="2" title="Anonymous Submission" out="2778" in="0">
+  <property name="length">2779</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_193340.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -108,7 +104,14 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">258316879</property>
+  <property name="kdenlive:file_hash">04b66be09db6cd3306fa87cdb72a8538</property>
+  <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">27830000</property>
   <property name="meta.media.frame_rate_den">927293</property>
   <property name="meta.media.colorspace">601</property>
@@ -117,18 +120,11 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">258316879</property>
-  <property name="kdenlive:file_hash">04b66be09db6cd3306fa87cdb72a8538</property>
-  <property name="global_feed">1</property>
  </producer>
- <producer id="3" title="Anonymous Submission" out="33399" in="0">
-  <property name="length">33400</property>
+ <producer id="3" title="Anonymous Submission" out="40039" in="0">
+  <property name="length">40040</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_195641.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -168,7 +164,14 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">3705668611</property>
+  <property name="kdenlive:file_hash">e48453cdcd84335abd11bd8aa8196330</property>
+  <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">721440000</property>
   <property name="meta.media.frame_rate_den">24038479</property>
   <property name="meta.media.colorspace">601</property>
@@ -177,18 +180,11 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">3705668611</property>
-  <property name="kdenlive:file_hash">e48453cdcd84335abd11bd8aa8196330</property>
-  <property name="global_feed">1</property>
  </producer>
- <producer id="4" title="Anonymous Submission" out="13735" in="0">
-  <property name="length">13736</property>
+ <producer id="4" title="Anonymous Submission" out="16466" in="0">
+  <property name="length">16467</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_200623.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -228,7 +224,14 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">1523911377</property>
+  <property name="kdenlive:file_hash">dbb4c142e56fb9727bed1a0c7fffd6f1</property>
+  <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">29682000</property>
   <property name="meta.media.frame_rate_den">988967</property>
   <property name="meta.media.colorspace">601</property>
@@ -237,12 +240,9 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">1523911377</property>
-  <property name="kdenlive:file_hash">dbb4c142e56fb9727bed1a0c7fffd6f1</property>
-  <property name="global_feed">1</property>
  </producer>
- <producer id="5" out="124" in="0">
-  <property name="length">125</property>
+ <producer id="5" title="Anonymous Submission" out="14999" in="0">
+  <property name="length">0</property>
   <property name="eof">pause</property>
   <property name="resource"/>
   <property name="progressive">1</property>
@@ -265,9 +265,9 @@
 </property>
   <property name="kdenlive:duration">125</property>
   <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
-  <property name="kdenlive:file_hash">f603af881986e7bd02f24521679bfa00</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
@@ -280,11 +280,11 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">11286</property>
+  <property name="kdenlive:docproperties.position">10817</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
+  <property name="kdenlive:docproperties.profile">atsc_1080i_5994</property>
   <property name="kdenlive:docproperties.proxyextension">mkv</property>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
@@ -294,16 +294,16 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">title</property>
   <property name="xml_retain">1</property>
-  <entry out="810" producer="1" in="0"/>
-  <entry out="2317" producer="2" in="0"/>
-  <entry out="33399" producer="3" in="0"/>
-  <entry out="13735" producer="4" in="0"/>
-  <entry out="124" producer="5" in="0"/>
+  <entry out="971" producer="1" in="0"/>
+  <entry out="2778" producer="2" in="0"/>
+  <entry out="40039" producer="3" in="0"/>
+  <entry out="16466" producer="4" in="0"/>
+  <entry out="-1" producer="5" in="-1"/>
  </playlist>
  <producer id="black" out="50265" in="0">
   <property name="length">50266</property>
@@ -314,7 +314,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="11286" producer="black" in="0"/>
+  <entry out="10817" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -327,8 +327,8 @@
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
  </playlist>
- <producer id="3_playlist4" title="Anonymous Submission" out="33399" in="0">
-  <property name="length">33400</property>
+ <producer id="3_playlist4" title="Anonymous Submission" out="40039" in="0">
+  <property name="length">40040</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_195641.mp4</property>
   <property name="audio_index">0</property>
@@ -342,54 +342,9 @@
   <property name="kdenlive:file_hash">e48453cdcd84335abd11bd8aa8196330</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191999</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-05-17T17:56:41.000000Z</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,0119</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22003757</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-05-17T17:56:41.000000Z</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-05-17T17:56:41.000000Z</property>
-  <property name="meta.attr.location.markup">+51.4260+006.9880/</property>
-  <property name="meta.attr.location-eng.markup">+51.4260+006.9880/</property>
-  <property name="meta.attr.com.android.version.markup">9</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">721440000</property>
-  <property name="meta.media.frame_rate_den">24038479</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="4_playlist4" title="Anonymous Submission" out="13735" in="0">
-  <property name="length">13736</property>
+ <producer id="4_playlist4" title="Anonymous Submission" out="16466" in="0">
+  <property name="length">16467</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190517_200623.mp4</property>
   <property name="audio_index">0</property>
@@ -403,51 +358,6 @@
   <property name="kdenlive:file_hash">dbb4c142e56fb9727bed1a0c7fffd6f1</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191821</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2019-05-17T18:06:23.000000Z</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30,0131</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">21994721</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2019-05-17T18:06:23.000000Z</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2019-05-17T18:06:23.000000Z</property>
-  <property name="meta.attr.location.markup">+51.4260+006.9880/</property>
-  <property name="meta.attr.location-eng.markup">+51.4260+006.9880/</property>
-  <property name="meta.attr.com.android.version.markup">9</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">29682000</property>
-  <property name="meta.media.frame_rate_den">988967</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
@@ -473,7 +383,6 @@
   <entry out="10772" producer="3_playlist4" in="10601"/>
   <entry out="11538" producer="3_playlist4" in="11355"/>
   <entry out="16044" producer="3_playlist4" in="15852"/>
-  <entry out="23260" producer="3_playlist4" in="23082"/>
   <entry out="23607" producer="3_playlist4" in="23441"/>
   <entry out="26166" producer="3_playlist4" in="25506"/>
   <entry out="28923" producer="3_playlist4" in="28692"/>
@@ -486,11 +395,10 @@
   <entry out="4858" producer="4_playlist4" in="4293"/>
   <entry out="5488" producer="4_playlist4" in="5254"/>
   <entry out="5828" producer="4_playlist4" in="5489"/>
-  <entry out="6294" producer="4_playlist4" in="5829"/>
+  <entry out="6294" producer="4_playlist4" in="5885"/>
   <entry out="7588" producer="4_playlist4" in="7508"/>
   <entry out="7905" producer="4_playlist4" in="7698"/>
   <entry out="8301" producer="4_playlist4" in="8086"/>
-  <entry out="8833" producer="4_playlist4" in="8600"/>
   <entry out="10588" producer="4_playlist4" in="10320"/>
   <entry out="10935" producer="4_playlist4" in="10677"/>
   <entry out="13222" producer="4_playlist4" in="11644"/>
@@ -499,7 +407,7 @@
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="11286" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="10817" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>
