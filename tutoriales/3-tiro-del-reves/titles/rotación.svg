@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="4.svg">
+   sodipodi:docname="rotación.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,7 +27,7 @@
      inkscape:cx="753.1988"
      inkscape:cy="444.93925"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g966"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -460,28 +460,6 @@
          y="953.72034"
          id="tspan900">Tiro</tspan></text>
     <g
-       id="g966"
-       transform="translate(-39.916654,138.80822)">
-      <rect
-         ry="14.861297"
-         y="726.41357"
-         x="597.99408"
-         height="147.17285"
-         width="344.01175"
-         id="rect3219-3-2-6"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text890"
-         y="815.71289"
-         x="682.91986"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan892"
-           y="815.71289"
-           x="682.91986"
-           sodipodi:role="line">Rotación</tspan></text>
-    </g>
-    <g
        id="g961"
        transform="translate(-17.749983,114.80822)">
       <rect
@@ -502,6 +480,28 @@
            x="189.51364"
            id="tspan884"
            sodipodi:role="line">Extensión</tspan></text>
+    </g>
+    <g
+       id="g966"
+       transform="translate(-39.916654,138.80822)">
+      <rect
+         ry="14.861297"
+         y="726.41357"
+         x="597.99408"
+         height="147.17285"
+         width="344.01175"
+         id="rect3219-3-2-6"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text890"
+         y="815.71289"
+         x="682.91986"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan892"
+           y="815.71289"
+           x="682.91986"
+           sodipodi:role="line">Rotación</tspan></text>
     </g>
   </g>
 </svg>

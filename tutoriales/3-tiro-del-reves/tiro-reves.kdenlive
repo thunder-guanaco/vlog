@@ -520,8 +520,8 @@
   <property name="kdenlive:file_size">21967</property>
   <property name="kdenlive:file_hash">da3e4c1c35811292868b13f3b258ac83</property>
  </producer>
- <producer id="13" out="145" in="0">
-  <property name="length">146</property>
+ <producer id="13" out="213" in="0">
+  <property name="length">214</property>
   <property name="eof">pause</property>
   <property name="resource">titles/4.svg</property>
   <property name="ttl">25</property>
@@ -537,6 +537,75 @@
   <property name="kdenlive:file_size">22781</property>
   <property name="kdenlive:file_hash">92bbcc8d3fdbdd6c08b8677bc956b686</property>
  </producer>
+ <producer id="14" out="550" in="0">
+  <property name="length">551</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/tiro.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">22128</property>
+  <property name="kdenlive:file_hash">19da8e1c315429fc33f701a3fcd846c3</property>
+ </producer>
+ <producer id="16" out="1829" in="0">
+  <property name="length">1830</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/extension.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">22133</property>
+  <property name="kdenlive:file_hash">23298c4116de03abc932445e9474dac4</property>
+ </producer>
+ <producer id="17" out="522" in="0">
+  <property name="length">523</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/rotación.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">22131</property>
+  <property name="kdenlive:file_hash">2cbd0a165c2725fea67f8a2da10ede0f</property>
+ </producer>
+ <producer id="15" title="Anonymous Submission" out="1347" in="0">
+  <property name="length">1348</property>
+  <property name="eof">pause</property>
+  <property name="resource">titles/continuacion.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">22136</property>
+  <property name="kdenlive:file_hash">b6c467ef8e02d7e4a2a1a279e73e24e5</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">videos</property>
   <property name="kdenlive:docproperties.audiotargettrack">2</property>
@@ -548,7 +617,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">4563</property>
+  <property name="kdenlive:docproperties.position">9960</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -601,6 +670,10 @@
   <entry out="124" producer="11" in="0"/>
   <entry out="124" producer="12" in="0"/>
   <entry out="124" producer="13" in="0"/>
+  <entry out="124" producer="14" in="0"/>
+  <entry out="124" producer="16" in="0"/>
+  <entry out="124" producer="17" in="0"/>
+  <entry out="1347" producer="15" in="0"/>
  </playlist>
  <producer id="black" out="44873" in="0">
   <property name="length">44874</property>
@@ -1390,11 +1463,21 @@
   <entry out="54" producer="11" in="0"/>
   <entry out="26" producer="12" in="0"/>
   <entry out="144" producer="13" in="0"/>
-  <entry out="1828" producer="10" in="0"/>
-  <entry out="861" producer="11" in="0"/>
-  <entry out="251" producer="12" in="15"/>
-  <entry out="124" producer="13" in="0"/>
-  <blank length="7292"/>
+  <entry out="1828" producer="16" in="0"/>
+  <entry out="521" producer="17" in="0"/>
+  <entry out="549" producer="14" in="0"/>
+  <entry out="1346" producer="15" in="0"/>
+  <entry out="200" producer="13" in="0"/>
+  <entry out="84" producer="16" in="0"/>
+  <entry out="56" producer="17" in="0"/>
+  <entry out="47" producer="14" in="0"/>
+  <entry out="64" producer="15" in="0"/>
+  <entry out="212" producer="13" in="0"/>
+  <entry out="63" producer="16" in="0"/>
+  <entry out="42" producer="17" in="0"/>
+  <entry out="31" producer="14" in="0"/>
+  <entry out="47" producer="15" in="0"/>
+  <blank length="5241"/>
   <entry out="149" producer="8" in="25"/>
  </playlist>
  <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="10864" in="0">

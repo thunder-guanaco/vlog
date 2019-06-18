@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="4.svg">
+   sodipodi:docname="extension.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -491,7 +491,7 @@
          height="147.17285"
          width="344.01175"
          id="rect3219-3-2-7"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ff0500;fill-opacity:1;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text886"
          y="839.71289"
