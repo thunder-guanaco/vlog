@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="continuacion.svg">
+   sodipodi:docname="consejo1.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="390.94262"
-     inkscape:cy="445.90808"
+     inkscape:cx="1047.8045"
+     inkscape:cy="449.8435"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -421,84 +421,48 @@
        id="g1100" />
     <rect
        ry="15.453854"
-       y="825.47949"
-       x="87.060059"
-       height="153.041"
-       width="375.87988"
-       id="rect3219-3-2-36"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
-       x="164.00391"
-       y="917.71289"
-       id="text896"><tspan
-         sodipodi:role="line"
-         id="tspan894"
-         x="164.00391"
-         y="917.71289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Extensión</tspan></text>
-    <rect
-       ry="15.453854"
-       y="823.47949"
-       x="543.72668"
+       y="847.47949"
+       x="772.06006"
        height="153.041"
        width="375.87988"
        id="rect3219-3-2-35"
        style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
-       x="632.42834"
-       y="915.71289"
-       id="text900"><tspan
-         sodipodi:role="line"
-         id="tspan898"
-         x="632.42834"
-         y="915.71289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Rotación</tspan></text>
     <rect
        ry="15.453854"
-       y="819.47949"
-       x="1457.0601"
-       height="153.041"
-       width="375.87988"
-       id="rect3219-3-2-75"
-       style="opacity:1;fill:#ff0000;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1644.9707"
-       y="886.71289"
-       id="text904"><tspan
-         sodipodi:role="line"
-         id="tspan902"
-         x="1644.9707"
-         y="886.71289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Continuación</tspan><tspan
-         sodipodi:role="line"
-         x="1644.9707"
-         y="936.71289"
-         id="tspan909"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">del movimiento</tspan></text>
-    <rect
-       ry="15.453854"
-       y="819.28766"
-       x="1000.3934"
+       y="847.47949"
+       x="1289.7267"
        height="153.041"
        width="375.87988"
        id="rect3219-3-2"
-       style="opacity:1;fill:#fffdfd;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="15.453854"
+       y="847.47949"
+       x="254.39343"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-75"
+       style="opacity:1;fill:#fc1212;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1144.9641"
-       y="910.72028"
-       id="text915"><tspan
+       x="364.15955"
+       y="938.22852"
+       id="text907"><tspan
          sodipodi:role="line"
-         id="tspan913"
-         x="1144.9641"
-         y="910.72028"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Tiro</tspan></text>
-  </g>
+         id="tspan905"
+         x="364.15955"
+         y="938.22852"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Ángulo</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot909"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion911"><rect
+           id="rect913"
+           width="482"
+           height="356"
+           x="144"
+           y="658" /></flowRegion><flowPara
+         id="flowPara915"></flowPara></flowRoot>  </g>
 </svg>

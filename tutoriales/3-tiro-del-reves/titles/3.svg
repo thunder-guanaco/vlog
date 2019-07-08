@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="685.46127"
-     inkscape:cy="580.02821"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="727.94261"
+     inkscape:cy="449.90808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1413"
-     inkscape:window-x="1920"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -420,86 +420,69 @@
     <g
        id="g1100" />
     <rect
-       ry="14.861297"
-       y="865.22174"
-       x="1477.7441"
-       height="147.17285"
-       width="344.01175"
+       ry="15.453854"
+       y="825.47949"
+       x="87.060059"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-36"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       x="164.00391"
+       y="917.71289"
+       id="text896"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         x="164.00391"
+         y="917.71289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Extensión</tspan></text>
+    <rect
+       ry="15.453854"
+       y="823.47949"
+       x="543.72668"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-35"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       x="632.42834"
+       y="915.71289"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         x="632.42834"
+         y="915.71289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Rotación</tspan></text>
+    <rect
+       ry="15.453854"
+       y="819.47949"
+       x="1457.0601"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-75"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="15.453854"
+       y="819.28766"
+       x="1000.3934"
+       height="153.041"
+       width="375.87988"
        id="rect3219-3-2"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="g1094"
-       transform="translate(-11.333424,-3.1917833)">
-      <rect
-         ry="14.861297"
-         y="868.41357"
-         x="1029.2441"
-         height="147.17285"
-         width="344.01175"
-         id="rect3219-3-2-3"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text898"
-         y="956.91211"
-         x="1165.2051"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan900"
-           y="956.91211"
-           x="1165.2051"
-           sodipodi:role="line">Tiro</tspan></text>
-    </g>
-    <g
-       id="g1089"
-       transform="translate(-22.166665,-3.1917833)">
-      <g
-         transform="translate(-17.749989,142)"
-         id="g966">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect3219-3-2-6"
-           width="344.01175"
-           height="147.17285"
-           x="597.99408"
-           y="726.41357"
-           ry="14.861297" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="682.91986"
-           y="815.71289"
-           id="text890"><tspan
-             sodipodi:role="line"
-             x="682.91986"
-             y="815.71289"
-             id="tspan892">Rotación</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g1083"
-       transform="translate(5.9440919e-6,-3.1917833)">
-      <g
-         transform="translate(-17.749989,118)"
-         id="g961">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect3219-3-2-7"
-           width="344.01175"
-           height="147.17285"
-           x="115.99409"
-           y="750.41357"
-           ry="14.861297" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="189.51364"
-           y="839.71289"
-           id="text886"><tspan
-             sodipodi:role="line"
-             id="tspan884"
-             x="189.51364"
-             y="839.71289">Extensión</tspan></text>
-      </g>
-    </g>
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1144.9641"
+       y="910.72028"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="1144.9641"
+         y="910.72028"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Tiro</tspan></text>
   </g>
 </svg>

@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="753.1988"
-     inkscape:cy="444.93925"
+     inkscape:cx="727.94261"
+     inkscape:cy="449.90808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -420,88 +420,85 @@
     <g
        id="g1100" />
     <rect
-       ry="14.861297"
-       y="865.22174"
-       x="1477.7441"
-       height="147.17285"
-       width="344.01175"
-       id="rect3219-3-2"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       ry="15.453854"
+       y="825.47949"
+       x="87.060059"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-36"
+       style="opacity:1;fill:#ff0000;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       id="text906"
-       y="929.52106"
-       x="1493.5977"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="929.52106"
-         x="1493.5977"
-         id="tspan904"
-         sodipodi:role="line">Continuación</tspan><tspan
-         id="tspan908"
-         y="979.52106"
-         x="1493.5977"
-         sodipodi:role="line">del movimiento</tspan></text>
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       x="164.00391"
+       y="917.71289"
+       id="text896"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         x="164.00391"
+         y="917.71289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Extensión</tspan></text>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3219-3-2-3"
-       width="344.01175"
-       height="147.17285"
-       x="1017.9107"
-       y="865.2218"
-       ry="14.861297" />
+       ry="15.453854"
+       y="823.47949"
+       x="543.72668"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-35"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       x="632.42834"
+       y="915.71289"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         x="632.42834"
+         y="915.71289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Rotación</tspan></text>
+    <rect
+       ry="15.453854"
+       y="819.47949"
+       x="1457.0601"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2-75"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1644.9707"
+       y="886.71289"
+       id="text904"><tspan
+         sodipodi:role="line"
+         id="tspan902"
+         x="1644.9707"
+         y="886.71289"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">Continuación</tspan><tspan
+         sodipodi:role="line"
+         x="1644.9707"
+         y="936.71289"
+         id="tspan909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">del movimiento</tspan></text>
+    <rect
+       ry="15.453854"
+       y="819.28766"
+       x="1000.3934"
+       height="153.041"
+       width="375.87988"
+       id="rect3219-3-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1153.8717"
-       y="953.72034"
-       id="text898"><tspan
+       x="1144.9641"
+       y="910.72028"
+       id="text915"><tspan
          sodipodi:role="line"
-         x="1153.8717"
-         y="953.72034"
-         id="tspan900">Tiro</tspan></text>
-    <g
-       id="g966"
-       transform="translate(-39.916654,138.80822)">
-      <rect
-         ry="14.861297"
-         y="726.41357"
-         x="597.99408"
-         height="147.17285"
-         width="344.01175"
-         id="rect3219-3-2-6"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text890"
-         y="815.71289"
-         x="682.91986"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan892"
-           y="815.71289"
-           x="682.91986"
-           sodipodi:role="line">Rotación</tspan></text>
-    </g>
-    <g
-       id="g961"
-       transform="translate(-17.749983,114.80822)">
-      <rect
-         ry="14.861297"
-         y="750.41357"
-         x="115.99409"
-         height="147.17285"
-         width="344.01175"
-         id="rect3219-3-2-7"
-         style="opacity:1;fill:#ff0500;fill-opacity:1;stroke:#000000;stroke-width:7.5956254;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text886"
-         y="839.71289"
-         x="189.51364"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="839.71289"
-           x="189.51364"
-           id="tspan884"
-           sodipodi:role="line">Extensión</tspan></text>
-    </g>
+         id="tspan913"
+         x="1144.9641"
+         y="910.72028"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Tiro</tspan></text>
   </g>
 </svg>
