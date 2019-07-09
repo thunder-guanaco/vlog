@@ -3,7 +3,7 @@
   <position x="407" y="105">
    <transform>1,0,0,0,1,0,0,0,1</transform>
   </position>
-  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="183" font-outline-color="0,0,0,255" shadow="0;#ff000000;99;0;0" font="Carlito" font-underline="0" font-outline="0" font-pixel-size="150" line-spacing="0" box-width="1106.22" font-color="255,255,255,255" alignment="4">Thunder Guanaco</content>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="183" font-outline-color="0,0,0,255" shadow="1;#ff000000;99;0;0" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="150" line-spacing="0" box-width="1106.22" font-color="255,255,255,255" alignment="4">Thunder Guanaco</content>
  </item>
  <startviewport rect="0,0,1920,1080"/>
  <endviewport rect="0,0,1920,1080"/>
