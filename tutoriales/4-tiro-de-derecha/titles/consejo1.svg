@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="1047.8045"
-     inkscape:cy="449.8435"
+     inkscape:cx="357.80452"
+     inkscape:cy="441.8435"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
-     inkscape:window-x="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -325,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -419,41 +419,42 @@
          y="324.13812" /></text>
     <g
        id="g1100" />
-    <rect
-       ry="15.453854"
-       y="847.47949"
-       x="772.06006"
-       height="153.041"
-       width="375.87988"
-       id="rect3219-3-2-35"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="15.453854"
-       y="847.47949"
-       x="1289.7267"
-       height="153.041"
-       width="375.87988"
-       id="rect3219-3-2"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="15.453854"
-       y="847.47949"
-       x="254.39343"
-       height="153.041"
-       width="375.87988"
-       id="rect3219-3-2-75"
-       style="opacity:1;fill:#fc1212;fill-opacity:0.56470591;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="364.15955"
-       y="938.22852"
-       id="text907"><tspan
-         sodipodi:role="line"
-         id="tspan905"
-         x="364.15955"
-         y="938.22852"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Ángulo</tspan></text>
+    <g
+       id="g895"
+       transform="translate(142)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0.56470588;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3219-3-2"
+         width="375.87988"
+         height="153.041"
+         x="1005.7267"
+         y="851.47949"
+         ry="15.453854" />
+      <rect
+         style="opacity:1;fill:#fc1212;fill-opacity:0.56470588;stroke:#000000;stroke-width:6;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3219-3-2-75"
+         width="375.87988"
+         height="153.041"
+         x="254.39343"
+         y="847.47949"
+         ry="15.453854" />
+      <text
+         id="text907"
+         y="913.91211"
+         x="442.13806"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           y="913.91211"
+           x="442.13806"
+           id="tspan905"
+           sodipodi:role="line">Transferencia</tspan><tspan
+           id="tspan890"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           y="963.91211"
+           x="442.13806"
+           sodipodi:role="line">de peso</tspan></text>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot909"
@@ -464,5 +465,5 @@
            height="356"
            x="144"
            y="658" /></flowRegion><flowPara
-         id="flowPara915"></flowPara></flowRoot>  </g>
+         id="flowPara915" /></flowRoot>  </g>
 </svg>
