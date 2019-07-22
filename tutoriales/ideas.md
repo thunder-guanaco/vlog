@@ -17,6 +17,8 @@
 1. Anhyzer derecha
 1. Como hacer approach (tirar en anhyzer para que caiga plano, no dejar de mirar el objetivo, approach con nose up)
 ---
+1. shot shapes --> hyzerflip
+1. shot shapes --> flex
 1. putts desde lejos (step y jump)
 1. Como hacer que tu putt no se vaya a la mierda si hay un precipicio
 1. Como marcar el disco (y tu lie)
