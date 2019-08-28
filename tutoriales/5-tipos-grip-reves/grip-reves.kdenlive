@@ -136,8 +136,8 @@
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
  </producer>
- <producer id="4" out="2087" in="0">
-  <property name="length">2088</property>
+ <producer id="4" out="2258" in="0">
+  <property name="length">2259</property>
   <property name="eof">pause</property>
   <property name="resource">titles/fan-grip.svg</property>
   <property name="ttl">25</property>
@@ -153,8 +153,8 @@
   <property name="kdenlive:file_size">21113</property>
   <property name="kdenlive:file_hash">69a9aef9864c884214a292b642673c51</property>
  </producer>
- <producer id="5" title="Anonymous Submission" out="2035" in="0">
-  <property name="length">2036</property>
+ <producer id="5" title="Anonymous Submission" out="2215" in="0">
+  <property name="length">2216</property>
   <property name="eof">pause</property>
   <property name="resource">titles/power-grip-solo.svg</property>
   <property name="ttl">25</property>
@@ -217,7 +217,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">5221</property>
+  <property name="kdenlive:docproperties.position">5658</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -231,7 +231,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">titles</property>
@@ -273,7 +273,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="5601" producer="black" in="0"/>
+  <entry out="5744" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -388,10 +388,10 @@
  <playlist id="playlist2">
   <property name="kdenlive:track_name">Audio 1</property>
   <property name="kdenlive:audio_track">1</property>
-  <blank length="4454"/>
+  <blank length="4625"/>
   <entry out="33398" producer="1_playlist2_audio" in="33277"/>
   <blank length="11"/>
-  <entry out="443" producer="2_playlist2_audio" in="0"/>
+  <entry out="415" producer="2_playlist2_audio" in="0"/>
  </playlist>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
@@ -645,7 +645,8 @@
   <entry out="6630" producer="1_playlist4" in="6345"/>
   <entry out="8304" producer="1_playlist4" in="8245"/>
   <entry out="13631" producer="1_playlist4" in="13120"/>
-  <entry out="15742" producer="1_playlist4" in="15504"/>
+  <entry out="15741" producer="1_playlist4" in="15504"/>
+  <entry out="16002" producer="1_playlist4" in="15831"/>
   <entry out="18069" producer="1_playlist4" in="17749"/>
   <entry out="21659" producer="1_playlist4" in="21406"/>
   <entry out="22677" producer="1_playlist4" in="22052"/>
@@ -655,22 +656,23 @@
   <entry out="29857" producer="1_playlist4" in="29596"/>
   <entry out="30837" producer="1_playlist4" in="30503"/>
   <entry out="33398" producer="1_video" in="33277"/>
-  <entry out="454" producer="2_video" in="0"/>
+  <entry out="426" producer="2_video" in="0"/>
   <entry out="6030" producer="2_playlist4" in="5461"/>
  </playlist>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
+  <property name="kdenlive:locked_track">0</property>
   <blank length="207"/>
   <entry out="124" producer="7" in="0"/>
-  <entry out="2034" producer="5" in="0"/>
-  <entry out="2086" producer="4" in="0"/>
+  <entry out="2214" producer="5" in="0"/>
+  <entry out="2257" producer="4" in="180"/>
   <blank length="284"/>
   <entry out="165" producer="6" in="0"/>
-  <entry out="126" producer="4" in="0"/>
+  <entry out="98" producer="4" in="0"/>
   <blank length="419"/>
   <entry out="150" producer="3" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="5601" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="5744" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>
