@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.6.0" root="/opt/vlog/vlogs/westfalen-tour/04-2019-minden" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
+<mlt title="Anonymous Submission" version="6.6.0" root="/opt/thunder-guanaco-vlog/vlogs/westfalen-tour/wt-2019-04-minden" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
  <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" colorspace="709" sample_aspect_den="1" description="HD 1080p 60 fps" progressive="1" sample_aspect_num="1"/>
- <producer id="1" out="150" in="0">
+ <producer id="1" title="Anonymous Submission" out="150" in="0">
   <property name="length">151</property>
   <property name="eof">pause</property>
   <property name="resource">/opt/vlog/graficas/ThunderGuanaco.kdenlivetitle</property>
@@ -15,11 +15,16 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="2" out="9431" in="0">
   <property name="length">9432</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-acousticbreeze.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-acousticbreeze.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -29,10 +34,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2200869</property>
   <property name="kdenlive:file_hash">56fc390ae97ef062e6d6a777cee974d5</property>
@@ -40,7 +41,11 @@
  <producer id="3" out="7368" in="0">
   <property name="length">7369</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-actionable.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-actionable.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -53,10 +58,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1719476</property>
   <property name="kdenlive:file_hash">0c242a8925b43f930a61fbfa02bee956</property>
@@ -64,7 +65,11 @@
  <producer id="4" out="11718" in="0">
   <property name="length">11719</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-adaytoremember.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-adaytoremember.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -74,10 +79,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3906352</property>
   <property name="kdenlive:file_hash">2f39ef71881b7037fc8ac8b6bbe6e0ac</property>
@@ -85,7 +86,11 @@
  <producer id="5" out="11226" in="0">
   <property name="length">11227</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-adventure.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-adventure.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -95,10 +100,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4490762</property>
   <property name="kdenlive:file_hash">3aba89cb28f701439e311c17d2f4dc87</property>
@@ -106,7 +107,11 @@
  <producer id="6" out="8731" in="0">
   <property name="length">8732</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-allthat.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-allthat.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -116,10 +121,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2910564</property>
   <property name="kdenlive:file_hash">86d70d828c0bce8b9c22d2a0badc2496</property>
@@ -127,7 +128,11 @@
  <producer id="7" out="9298" in="0">
   <property name="length">9299</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-anewbeginning.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-anewbeginning.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -137,10 +142,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2169783</property>
   <property name="kdenlive:file_hash">c9e5ecd0c6f004edbf1280c8a3303222</property>
@@ -148,7 +149,11 @@
  <producer id="8" out="6544" in="0">
   <property name="length">6545</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-badass.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-badass.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -158,10 +163,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1527223</property>
   <property name="kdenlive:file_hash">66131e7e8714e069e7f64ab778620eb7</property>
@@ -169,7 +170,11 @@
  <producer id="9" out="9229" in="0">
   <property name="length">9230</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-betterdays.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-betterdays.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -179,10 +184,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2153691</property>
   <property name="kdenlive:file_hash">fd5f04125b6ab4ebdcbdf58391ce35ab</property>
@@ -190,7 +191,11 @@
  <producer id="10" out="11204" in="0">
   <property name="length">11205</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-beyondtheline.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-beyondtheline.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -200,10 +205,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4481985</property>
   <property name="kdenlive:file_hash">445115fbed9c6e8f816d747bf22b4a36</property>
@@ -211,7 +212,11 @@
  <producer id="11" out="13752" in="0">
   <property name="length">13753</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-birthofahero.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-birthofahero.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -221,10 +226,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">5501387</property>
   <property name="kdenlive:file_hash">6d1c5c28c4b071083a8fe6b4de3a7a26</property>
@@ -232,7 +233,11 @@
  <producer id="12" out="14447" in="0">
   <property name="length">14448</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-brazilsamba.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-brazilsamba.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -245,10 +250,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3371412</property>
   <property name="kdenlive:file_hash">1559ab53eb7667dc22d0659d3b747ff2</property>
@@ -256,7 +257,11 @@
  <producer id="13" out="7328" in="0">
   <property name="length">7329</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-buddy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-buddy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -266,10 +271,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1710080</property>
   <property name="kdenlive:file_hash">c7537cc5ce01f0956099702537615ee2</property>
@@ -277,7 +278,11 @@
  <producer id="14" out="10607" in="0">
   <property name="length">10608</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-clapandyell.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-clapandyell.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -287,10 +292,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2475154</property>
   <property name="kdenlive:file_hash">444bb40003e01379dead64992836faf7</property>
@@ -298,7 +299,11 @@
  <producer id="15" out="5389" in="0">
   <property name="length">5390</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-clearday.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-clearday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -308,10 +313,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1257691</property>
   <property name="kdenlive:file_hash">6f257638bf1fd2ed12f2678e45c2c853</property>
@@ -319,7 +320,11 @@
  <producer id="16" out="12428" in="0">
   <property name="length">12429</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-countryboy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-countryboy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -329,10 +334,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2900114</property>
   <property name="kdenlive:file_hash">9d87158812284c6d6de3740896fff91a</property>
@@ -340,7 +341,11 @@
  <producer id="17" out="8834" in="0">
   <property name="length">8835</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-creativeminds.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-creativeminds.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -350,10 +355,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2945045</property>
   <property name="kdenlive:file_hash">47de3f77f526670952f7abe882c617c3</property>
@@ -361,7 +362,11 @@
  <producer id="18" out="13014" in="0">
   <property name="length">13015</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-creepy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-creepy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -371,10 +376,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3038001</property>
   <property name="kdenlive:file_hash">512d8fddf1bac997357668d7b6201ad6</property>
@@ -382,7 +383,11 @@
  <producer id="19" out="11649" in="0">
   <property name="length">11650</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-cute.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-cute.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -392,10 +397,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2718354</property>
   <property name="kdenlive:file_hash">b6533960dc310cff1bb3563189aa436e</property>
@@ -403,7 +404,11 @@
  <producer id="20" out="10635" in="0">
   <property name="length">10636</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-dance.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-dance.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -413,10 +418,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2481738</property>
   <property name="kdenlive:file_hash">f1314f4013248a26e1067d2aa7ff9840</property>
@@ -424,7 +425,11 @@
  <producer id="21" out="17282" in="0">
   <property name="length">17283</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-deepblue.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-deepblue.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -434,10 +439,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4032733</property>
   <property name="kdenlive:file_hash">3f5e95a8149c07e36bd312f958209092</property>
@@ -445,7 +446,11 @@
  <producer id="22" out="10942" in="0">
   <property name="length">10943</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-downtown.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-downtown.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -455,10 +460,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2553417</property>
   <property name="kdenlive:file_hash">553a8ead9f23fb7f1448dec56678a6fb</property>
@@ -466,7 +467,11 @@
  <producer id="23" out="12626" in="0">
   <property name="length">12627</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-dreams.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-dreams.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -476,10 +481,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">5050618</property>
   <property name="kdenlive:file_hash">6c1356ee812ce3a9bd389bb251cb1442</property>
@@ -487,7 +488,11 @@
  <producer id="24" out="10847" in="0">
   <property name="length">10848</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-endlessmotion.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-endlessmotion.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -497,10 +502,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3615870</property>
   <property name="kdenlive:file_hash">0172073b7f5fd433030344abd1ff0da1</property>
@@ -508,7 +509,11 @@
  <producer id="25" out="10773" in="0">
   <property name="length">10774</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-energy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-energy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -518,10 +523,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4309577</property>
   <property name="kdenlive:file_hash">f1d02aeaee793caa79fc04f15d1285dd</property>
@@ -529,7 +530,11 @@
  <producer id="26" out="8833" in="0">
   <property name="length">8834</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-enigmatic.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-enigmatic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -539,10 +544,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2061167</property>
   <property name="kdenlive:file_hash">24e62a5f6b9b801500adbf28c9d449f3</property>
@@ -550,7 +551,11 @@
  <producer id="27" out="10713" in="0">
   <property name="length">10714</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-epic.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-epic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -560,10 +565,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2500023</property>
   <property name="kdenlive:file_hash">d162f7dec87ba7e9851fdd163b836c3e</property>
@@ -571,7 +572,11 @@
  <producer id="28" out="16840" in="0">
   <property name="length">16841</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-erf.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-erf.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -581,10 +586,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">6736457</property>
   <property name="kdenlive:file_hash">acf6771dae882ce478526d2597c0ecce</property>
@@ -592,7 +593,11 @@
  <producer id="29" out="29003" in="0">
   <property name="length">29004</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-extremeaction.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-extremeaction.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -605,10 +610,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">6767816</property>
   <property name="kdenlive:file_hash">21cef6a38eb145fb5862ce77b34c877b</property>
@@ -616,7 +617,11 @@
  <producer id="30" out="11600" in="0">
   <property name="length">11601</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-funday.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-funday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -626,10 +631,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4640600</property>
   <property name="kdenlive:file_hash">289b788badb90c4c8f24b10b54605220</property>
@@ -637,7 +638,11 @@
  <producer id="31" out="11340" in="0">
   <property name="length">11341</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-funkyelement.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-funkyelement.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -647,10 +652,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2646309</property>
   <property name="kdenlive:file_hash">e2d2713ceecead95de599c4b10e8759b</property>
@@ -658,7 +659,11 @@
  <producer id="32" out="16049" in="0">
   <property name="length">16050</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-funkysuspense.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-funkysuspense.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -669,10 +674,6 @@
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="meta.attr.comment.markup">Made with Sony ACID Pro 6.0</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3745128</property>
   <property name="kdenlive:file_hash">f600ed933dd94458e6cf2886b2278bd1</property>
@@ -680,7 +681,11 @@
  <producer id="33" out="11227" in="0">
   <property name="length">11228</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-funnysong.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-funnysong.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -690,10 +695,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2619977</property>
   <property name="kdenlive:file_hash">8f73a76062bae05de585cf33c993510c</property>
@@ -701,7 +702,11 @@
  <producer id="34" out="14671" in="0">
   <property name="length">14672</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-goinghigher.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-goinghigher.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -711,10 +716,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3423451</property>
   <property name="kdenlive:file_hash">0607d6fe23345268ae0e18611d215564</property>
@@ -722,7 +723,11 @@
  <producer id="35" out="14433" in="0">
   <property name="length">14434</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-groovyhiphop.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-groovyhiphop.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -735,10 +740,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3368124</property>
   <property name="kdenlive:file_hash">8e5b79d7132f6e958227f5666b0cf4c0</property>
@@ -746,7 +747,11 @@
  <producer id="36" out="15694" in="0">
   <property name="length">15695</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-happiness.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-happiness.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -756,10 +761,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3663373</property>
   <property name="kdenlive:file_hash">10124b7e9d7378d174dafd24fdb3b97e</property>
@@ -767,7 +768,11 @@
  <producer id="37" out="6350" in="0">
   <property name="length">6351</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-happyrock.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-happyrock.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -777,10 +782,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1481874</property>
   <property name="kdenlive:file_hash">86cea71fc112a44cd58919a996a71e66</property>
@@ -788,7 +789,11 @@
  <producer id="38" out="10296" in="0">
   <property name="length">10297</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-hey.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-hey.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -798,10 +803,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3432490</property>
   <property name="kdenlive:file_hash">fb2354b78c4c0592fe202801d5a2cc62</property>
@@ -809,7 +810,11 @@
  <producer id="39" out="9303" in="0">
   <property name="length">9304</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-highoctane.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-highoctane.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -819,10 +824,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3101258</property>
   <property name="kdenlive:file_hash">cc84dad81f550ce2b375d22cfcfba653</property>
@@ -830,7 +831,11 @@
  <producer id="40" out="9836" in="0">
   <property name="length">9837</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-hipjazz.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-hipjazz.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -840,10 +845,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3934667</property>
   <property name="kdenlive:file_hash">7f3fad3389ccd0d86f6ae878dd26f23c</property>
@@ -851,7 +852,11 @@
  <producer id="41" out="15572" in="0">
   <property name="length">15573</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-house.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-house.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -861,10 +866,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3633738</property>
   <property name="kdenlive:file_hash">b947c3699395342c75aa829b58fd6119</property>
@@ -872,7 +873,11 @@
  <producer id="42" out="15230" in="0">
   <property name="length">15231</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-india.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-india.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -882,10 +887,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3554013</property>
   <property name="kdenlive:file_hash">01b6b7bc88d27c67fee5e645bf9093de</property>
@@ -893,7 +894,11 @@
  <producer id="43" out="12245" in="0">
   <property name="length">12246</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-instinct.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-instinct.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -903,10 +908,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2857326</property>
   <property name="kdenlive:file_hash">8021829295040b70aafa9228cd6ec43a</property>
@@ -914,7 +915,11 @@
  <producer id="44" out="11637" in="0">
   <property name="length">11638</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-jazzcomedy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-jazzcomedy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -924,10 +929,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2715430</property>
   <property name="kdenlive:file_hash">6c62af2fd5fb64ddb8cf829b6953ad15</property>
@@ -935,7 +936,11 @@
  <producer id="45" out="6287" in="0">
   <property name="length">6288</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-jazzyfrenchy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-jazzyfrenchy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -945,10 +950,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1467246</property>
   <property name="kdenlive:file_hash">c2e5fc2fc119231c8e8467632a3b9481</property>
@@ -956,7 +957,11 @@
  <producer id="46" out="10157" in="0">
   <property name="length">10158</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-littleidea.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-littleidea.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -966,10 +971,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2370194</property>
   <property name="kdenlive:file_hash">76818ef174fdc05b5cc283eadb774254</property>
@@ -977,7 +978,11 @@
  <producer id="47" out="23807" in="0">
   <property name="length">23808</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-littleplanet.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-littleplanet.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -987,10 +992,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">5555201</property>
   <property name="kdenlive:file_hash">bc2dabb9b399b8f18e8b31b0a821f8cb</property>
@@ -998,7 +999,11 @@
  <producer id="48" out="20160" in="0">
   <property name="length">20161</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-love.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-love.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1011,10 +1016,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4704432</property>
   <property name="kdenlive:file_hash">41ef561c7d9ba7de2a1c7b8ab7fd9a2a</property>
@@ -1022,7 +1023,11 @@
  <producer id="49" out="13817" in="0">
   <property name="length">13818</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-memories.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-memories.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1032,10 +1037,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3224137</property>
   <property name="kdenlive:file_hash">050f6c0265034dac236a20505418f99a</property>
@@ -1043,7 +1044,11 @@
  <producer id="50" out="9643" in="0">
   <property name="length">9644</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-moose.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-moose.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1053,10 +1058,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2250240</property>
   <property name="kdenlive:file_hash">1859766a9ec64e14ddfe5d42a769e97a</property>
@@ -1064,7 +1065,11 @@
  <producer id="51" out="18808" in="0">
   <property name="length">18809</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-newdawn.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-newdawn.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1075,10 +1080,6 @@
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="meta.attr.comment.markup">Made with Sony ACID Pro 6.0</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4388785</property>
   <property name="kdenlive:file_hash">0bbc2b9e1b089b7fc3cd4ccc94ecf756</property>
@@ -1086,7 +1087,11 @@
  <producer id="52" out="12723" in="0">
   <property name="length">12724</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-november.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-november.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1096,10 +1101,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2968870</property>
   <property name="kdenlive:file_hash">9736ef00327fcb86a9651e6354289b1d</property>
@@ -1107,7 +1108,11 @@
  <producer id="53" out="17925" in="0">
   <property name="length">17926</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-ofeliasdream.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-ofeliasdream.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1117,10 +1122,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4182676</property>
   <property name="kdenlive:file_hash">93731780e8a9be5214d75636b455b52b</property>
@@ -1128,7 +1129,11 @@
  <producer id="54" out="13897" in="0">
   <property name="length">13898</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-onceagain.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-onceagain.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1138,10 +1143,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">5559066</property>
   <property name="kdenlive:file_hash">cba8c21d3cef4ca1f78cf8a3a86a621a</property>
@@ -1149,7 +1150,11 @@
  <producer id="55" out="9735" in="0">
   <property name="length">9736</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-perception.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-perception.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1159,10 +1164,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3894543</property>
   <property name="kdenlive:file_hash">b709ada5dd1bf4723d43e8c6099a9824</property>
@@ -1170,7 +1171,11 @@
  <producer id="56" out="11776" in="0">
   <property name="length">11777</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-photoalbum.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-photoalbum.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1180,10 +1185,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4710818</property>
   <property name="kdenlive:file_hash">96b036d293536f3f1385bb875201eba5</property>
@@ -1191,7 +1192,11 @@
  <producer id="57" out="6608" in="0">
   <property name="length">6609</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-pianomoment.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-pianomoment.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1201,10 +1206,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1542217</property>
   <property name="kdenlive:file_hash">291a76b3ca0c7685d629f636c6ff9c21</property>
@@ -1212,7 +1213,11 @@
  <producer id="58" out="9723" in="0">
   <property name="length">9724</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-popdance.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-popdance.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1222,10 +1227,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2268893</property>
   <property name="kdenlive:file_hash">691d9d3950118e96399b3d8b6e20d368</property>
@@ -1233,7 +1234,11 @@
  <producer id="59" out="10618" in="0">
   <property name="length">10619</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-psychedelic.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-psychedelic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1243,10 +1248,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2477714</property>
   <property name="kdenlive:file_hash">d4348c536be6007a5f6f0c8d906fb83d</property>
@@ -1254,7 +1255,11 @@
  <producer id="60" out="7544" in="0">
   <property name="length">7545</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-punky.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-punky.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1264,10 +1269,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3018083</property>
   <property name="kdenlive:file_hash">d1f5e0c9e9a0ab12fe99d3bbeede8954</property>
@@ -1275,7 +1276,11 @@
  <producer id="61" out="17284" in="0">
   <property name="length">17285</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-relaxing.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-relaxing.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1285,10 +1290,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4033097</property>
   <property name="kdenlive:file_hash">32882ad5fa17a8ada6c20dfd862c1cd0</property>
@@ -1296,7 +1297,11 @@
  <producer id="62" out="12989" in="0">
   <property name="length">12990</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-retrosoul.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-retrosoul.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1306,10 +1311,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3031040</property>
   <property name="kdenlive:file_hash">7621e16031b8e45b432a3e1c134ffcea</property>
@@ -1317,7 +1318,11 @@
  <producer id="63" out="14195" in="0">
   <property name="length">14196</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-romantic.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-romantic.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1328,10 +1333,6 @@
   <property name="meta.media.0.codec.bit_rate">128000</property>
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3785625</property>
   <property name="kdenlive:file_hash">60c87c3f3f89c364bd4c592c01006a69</property>
@@ -1339,7 +1340,11 @@
  <producer id="64" out="9286" in="0">
   <property name="length">9287</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-rumble.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-rumble.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1349,10 +1354,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2166858</property>
   <property name="kdenlive:file_hash">d717bcc2e0bdb1f82f47866de73b84f2</property>
@@ -1360,7 +1361,11 @@
  <producer id="65" out="8920" in="0">
   <property name="length">8921</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-sadday.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-sadday.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1370,10 +1375,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2081646</property>
   <property name="kdenlive:file_hash">f0a06c1851b185ffae2c344b9b3c843d</property>
@@ -1381,7 +1382,11 @@
  <producer id="66" out="17094" in="0">
   <property name="length">17095</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-scifi.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-scifi.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1391,10 +1396,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3989956</property>
   <property name="kdenlive:file_hash">e1220b492acb07a2393327a3e47fbf23</property>
@@ -1402,7 +1403,11 @@
  <producer id="67" out="10427" in="0">
   <property name="length">10428</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-sexy.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-sexy.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1412,10 +1417,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2433592</property>
   <property name="kdenlive:file_hash">50403185179e175c77d9ba5b65b00ac3</property>
@@ -1423,7 +1424,11 @@
  <producer id="68" out="12419" in="0">
   <property name="length">12420</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-slowmotion.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-slowmotion.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1433,10 +1438,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2897920</property>
   <property name="kdenlive:file_hash">f9f3b520d00f45947638dab838bca8cc</property>
@@ -1444,7 +1445,11 @@
  <producer id="69" out="12177" in="0">
   <property name="length">12178</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-smallguitar.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-smallguitar.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1454,10 +1459,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4871314</property>
   <property name="kdenlive:file_hash">7c8e5c849c76ca3f0ec10ca2e291535f</property>
@@ -1465,7 +1466,11 @@
  <producer id="70" out="11011" in="0">
   <property name="length">11012</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-smile.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-smile.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1475,10 +1480,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4404871</property>
   <property name="kdenlive:file_hash">d5b08b2b42ae8abc2ea9ec87c3dd60b9</property>
@@ -1486,7 +1487,11 @@
  <producer id="71" out="15183" in="0">
   <property name="length">15184</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-straight.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-straight.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1496,10 +1501,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">6073782</property>
   <property name="kdenlive:file_hash">9958ddeeb66dc4e290c6e4f64e38eea8</property>
@@ -1507,7 +1508,11 @@
  <producer id="72" out="13046" in="0">
   <property name="length">13047</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-summer.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-summer.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1517,10 +1522,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">160000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4349086</property>
   <property name="kdenlive:file_hash">74259650835e9a0a4bb28d7ecab36973</property>
@@ -1528,7 +1529,11 @@
  <producer id="73" out="8402" in="0">
   <property name="length">8403</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-sunny.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-sunny.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1538,10 +1543,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1960596</property>
   <property name="kdenlive:file_hash">22e6eacfc0cd7394b3e2b3e58f5ae816</property>
@@ -1549,7 +1550,11 @@
  <producer id="74" out="18460" in="0">
   <property name="length">18461</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-sweet.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-sweet.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1562,10 +1567,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4307626</property>
   <property name="kdenlive:file_hash">5a06acc684f9dd9b76d448832a8ddd9e</property>
@@ -1573,7 +1574,11 @@
  <producer id="75" out="7428" in="0">
   <property name="length">7429</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-tenderness.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-tenderness.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1583,10 +1588,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1733486</property>
   <property name="kdenlive:file_hash">04ff7ff51622432b9c4f8810ec7cfe43</property>
@@ -1594,7 +1595,11 @@
  <producer id="76" out="7098" in="0">
   <property name="length">7099</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-theduel.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-theduel.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1604,10 +1609,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">1656321</property>
   <property name="kdenlive:file_hash">edffdfd256f51bcf44559247a31aff7e</property>
@@ -1615,7 +1616,11 @@
  <producer id="77" out="15288" in="0">
   <property name="length">15289</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-theelevatorbossanova.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-theelevatorbossanova.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1625,10 +1630,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">192000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">6115787</property>
   <property name="kdenlive:file_hash">bb835fb56bd17c534abb298935106500</property>
@@ -1636,7 +1637,11 @@
  <producer id="78" out="9629" in="0">
   <property name="length">9630</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-thejazzpiano.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-thejazzpiano.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1649,10 +1654,6 @@
   <property name="meta.attr.artist.markup">Bensound</property>
   <property name="meta.attr.comment.markup">www.bensound.com</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2247210</property>
   <property name="kdenlive:file_hash">3b055ba7bbce21e97a7fa20cf157a6a5</property>
@@ -1660,7 +1661,11 @@
  <producer id="79" out="15364" in="0">
   <property name="length">15365</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-thelounge.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-thelounge.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1670,10 +1675,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">3585097</property>
   <property name="kdenlive:file_hash">e538a4fe5811f3ef4de9b507cfb507b8</property>
@@ -1681,7 +1682,11 @@
  <producer id="80" out="17688" in="0">
   <property name="length">17689</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-tomorrow.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-tomorrow.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1691,10 +1696,6 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">4127453</property>
   <property name="kdenlive:file_hash">86fdaa5cd6cff82adc66577e38054c6a</property>
@@ -1702,7 +1703,11 @@
  <producer id="81" out="8786" in="0">
   <property name="length">8787</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/musica/bensound-ukulele.mp3</property>
+  <property name="resource">/opt/thunder-guanaco-vlog/musica/bensound-ukulele.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16p</property>
@@ -1712,13 +1717,588 @@
   <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
   <property name="meta.media.0.codec.bit_rate">112000</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="kdenlive:file_size">2050194</property>
   <property name="kdenlive:file_hash">4ea2968f526c64b9b97a77ce79f88b76</property>
+ </producer>
+ <producer id="82" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG_20190413_161540.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">4032</property>
+  <property name="meta.media.height">3024</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">7586216</property>
+  <property name="kdenlive:file_hash">091c9a064cc70d5a86c521678b575b93</property>
+ </producer>
+ <producer id="83" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG_20190413_172824.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">3024</property>
+  <property name="meta.media.height">4032</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">3724848</property>
+  <property name="kdenlive:file_hash">93f3cca246d03b8d35f04de5aef49c3a</property>
+ </producer>
+ <producer id="84" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG_20190413_172825.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">3024</property>
+  <property name="meta.media.height">4032</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">3776295</property>
+  <property name="kdenlive:file_hash">cd1b20e28a33cdcc6a222de05c5547a1</property>
+ </producer>
+ <producer id="85" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG_20190413_172826.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">3024</property>
+  <property name="meta.media.height">4032</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">3878372</property>
+  <property name="kdenlive:file_hash">ed3ab6e5a69ee75213535093dc59842d</property>
+ </producer>
+ <producer id="86" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG_20190413_172828.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">3024</property>
+  <property name="meta.media.height">4032</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">3863291</property>
+  <property name="kdenlive:file_hash">90afc05029ec4d41f62dce044959b5b4</property>
+ </producer>
+ <producer id="87" out="299" in="0">
+  <property name="length">300</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/IMG-20190413-WA0013.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1200</property>
+  <property name="meta.media.height">1600</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:duration">300</property>
+  <property name="kdenlive:file_size">239429</property>
+  <property name="kdenlive:file_hash">5077b854044705b0057b0a8cdd79c5b1</property>
+ </producer>
+ <producer id="88" title="Anonymous Submission" out="2922" in="0">
+  <property name="length">2923</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_074812.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191991</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">29,9666</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22097113</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.location.markup">+51.9799+008.6158/</property>
+  <property name="meta.attr.location-eng.markup">+51.9799+008.6158/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">26280000</property>
+  <property name="meta.media.frame_rate_den">876977</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">135765599</property>
+  <property name="kdenlive:file_hash">647e83957e5c4107b3cb8a5ad47e3843</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="89" title="Anonymous Submission" out="1249" in="0">
+  <property name="length">1250</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_133856.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191960</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T11:38:56.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">29,9639</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22254711</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T11:38:56.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T11:38:56.000000Z</property>
+  <property name="meta.attr.location.markup">+52.2861+008.9253/</property>
+  <property name="meta.attr.location-eng.markup">+52.2861+008.9253/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">18720000</property>
+  <property name="meta.media.frame_rate_den">624751</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">58442658</property>
+  <property name="kdenlive:file_hash">1838aa12f54f4b0df47c6b189be9d127</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="90" title="Anonymous Submission" out="242" in="0">
+  <property name="length">243</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_170832.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">190887</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:08:32.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30,6241</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22923320</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:08:32.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:08:32.000000Z</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">1240000</property>
+  <property name="meta.media.frame_rate_den">40491</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">11701857</property>
+  <property name="kdenlive:file_hash">ad6bfca826c5f5145df7327d37a0690d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="91" title="Anonymous Submission" out="35" in="0">
+  <property name="length">36</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_170842.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">193726</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:08:42.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30,125</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">19698780</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:08:42.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:08:42.000000Z</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">101250</property>
+  <property name="meta.media.frame_rate_den">3361</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.variable_frame_rate">1</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">1488345</property>
+  <property name="kdenlive:file_hash">a0a2a34fc2cb9401fbb6a0ff63f4aaa8</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="92" title="Anonymous Submission" out="8185" in="0">
+  <property name="length">8186</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171105.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">192005</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">46,883</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">28181595</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">287820000</property>
+  <property name="meta.media.frame_rate_den">6139111</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">483919399</property>
+  <property name="kdenlive:file_hash">e83ceecca4caa46b0598943f7aba26a4</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="93" title="Anonymous Submission" out="2797" in="0">
+  <property name="length">2798</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171239.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191814</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">52,605</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">30343685</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.location.markup">+52.2817+008.9268/</property>
+  <property name="meta.attr.location-eng.markup">+52.2817+008.9268/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">220770000</property>
+  <property name="meta.media.frame_rate_den">4196749</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.variable_frame_rate">1</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">178011361</property>
+  <property name="kdenlive:file_hash">efbda82da7c1fa9dd1185b4fb48b0836</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="94" title="Anonymous Submission" out="10906" in="0">
+  <property name="length">10907</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171621.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">192010</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:16:21.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">53,8808</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">30757241</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:16:21.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:16:21.000000Z</property>
+  <property name="meta.attr.location.markup">+52.2860+008.9227/</property>
+  <property name="meta.attr.location-eng.markup">+52.2860+008.9227/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">440730000</property>
+  <property name="meta.media.frame_rate_den">8179727</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">703301586</property>
+  <property name="kdenlive:file_hash">4d496656e893671db4f7228e6f9c3f5d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="95" title="Anonymous Submission" out="5682" in="0">
+  <property name="length">5683</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_172603.mp4</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">192039</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:26:03.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30,1206</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22031888</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:26:03.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:26:03.000000Z</property>
+  <property name="meta.attr.location.markup">+52.2860+008.9242/</property>
+  <property name="meta.attr.location-eng.markup">+52.2860+008.9242/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="meta.media.frame_rate_num">256770000</property>
+  <property name="meta.media.frame_rate_den">8524729</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.variable_frame_rate">1</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">263168593</property>
+  <property name="kdenlive:file_hash">d645aa30d0f2a68ef47e2fb1019f3f78</property>
+  <property name="global_feed">1</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:folder.-1.1">musica</property>
@@ -1733,7 +2313,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">1777</property>
+  <property name="kdenlive:docproperties.position">103</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -1747,7 +2327,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="xml_retain">1</property>
@@ -1832,9 +2412,23 @@
   <entry out="15364" producer="79" in="0"/>
   <entry out="17688" producer="80" in="0"/>
   <entry out="8786" producer="81" in="0"/>
+  <entry out="299" producer="82" in="0"/>
+  <entry out="299" producer="83" in="0"/>
+  <entry out="299" producer="84" in="0"/>
+  <entry out="299" producer="85" in="0"/>
+  <entry out="299" producer="86" in="0"/>
+  <entry out="299" producer="87" in="0"/>
+  <entry out="2922" producer="88" in="0"/>
+  <entry out="1249" producer="89" in="0"/>
+  <entry out="242" producer="90" in="0"/>
+  <entry out="35" producer="91" in="0"/>
+  <entry out="8185" producer="92" in="0"/>
+  <entry out="2797" producer="93" in="0"/>
+  <entry out="10906" producer="94" in="0"/>
+  <entry out="5682" producer="95" in="0"/>
  </playlist>
- <producer id="black" out="500" in="0">
-  <property name="length">15000</property>
+ <producer id="black" out="37128" in="0">
+  <property name="length">37129</property>
   <property name="eof">pause</property>
   <property name="resource">black</property>
   <property name="aspect_ratio">0</property>
@@ -1842,7 +2436,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="1" producer="black" in="0"/>
+  <entry out="31747" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -1852,8 +2446,244 @@
   <property name="kdenlive:track_name">Audio 1</property>
   <property name="kdenlive:audio_track">1</property>
  </playlist>
+ <producer id="88_playlist3" title="Anonymous Submission" out="2922" in="0">
+  <property name="length">2923</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_074812.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">135765599</property>
+  <property name="kdenlive:file_hash">647e83957e5c4107b3cb8a5ad47e3843</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191991</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">29,9666</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22097113</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T05:48:12.000000Z</property>
+  <property name="meta.attr.location.markup">+51.9799+008.6158/</property>
+  <property name="meta.attr.location-eng.markup">+51.9799+008.6158/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">26280000</property>
+  <property name="meta.media.frame_rate_den">876977</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="89_playlist3" title="Anonymous Submission" out="1249" in="0">
+  <property name="length">1250</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_133856.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">58442658</property>
+  <property name="kdenlive:file_hash">1838aa12f54f4b0df47c6b189be9d127</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+ </producer>
+ <producer id="92_playlist3" title="Anonymous Submission" out="8185" in="0">
+  <property name="length">8186</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171105.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">483919399</property>
+  <property name="kdenlive:file_hash">e83ceecca4caa46b0598943f7aba26a4</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">192005</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">46,883</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">28181595</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:11:05.000000Z</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">287820000</property>
+  <property name="meta.media.frame_rate_den">6139111</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="93_playlist3" title="Anonymous Submission" out="2797" in="0">
+  <property name="length">2798</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171239.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">178011361</property>
+  <property name="kdenlive:file_hash">efbda82da7c1fa9dd1185b4fb48b0836</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191814</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">52,605</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">30343685</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2019-04-13T15:12:39.000000Z</property>
+  <property name="meta.attr.location.markup">+52.2817+008.9268/</property>
+  <property name="meta.attr.location-eng.markup">+52.2817+008.9268/</property>
+  <property name="meta.attr.com.android.version.markup">9</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">220770000</property>
+  <property name="meta.media.frame_rate_den">4196749</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.variable_frame_rate">1</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="94_playlist3" title="Anonymous Submission" out="10906" in="0">
+  <property name="length">10907</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_171621.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">703301586</property>
+  <property name="kdenlive:file_hash">4d496656e893671db4f7228e6f9c3f5d</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+ </producer>
+ <producer id="95_playlist3" title="Anonymous Submission" out="5682" in="0">
+  <property name="length">5683</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/VID_20190413_172603.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">263168593</property>
+  <property name="kdenlive:file_hash">d645aa30d0f2a68ef47e2fb1019f3f78</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+ </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
+  <entry out="2922" producer="88_playlist3" in="0"/>
+  <entry out="1249" producer="89_playlist3" in="0"/>
+  <entry out="8185" producer="92_playlist3" in="0"/>
+  <entry out="2797" producer="93_playlist3" in="0"/>
+  <entry out="10906" producer="94_playlist3" in="0"/>
+  <entry out="5682" producer="95_playlist3" in="0"/>
  </playlist>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
@@ -1861,7 +2691,7 @@
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="1" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="31747" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>
@@ -1894,16 +2724,15 @@
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
-   <property name="b_track">3</property>
-   <property name="compositing">0</property>
-   <property name="distort">0</property>
-   <property name="rotate_center">0</property>
-   <property name="mlt_service">qtblend</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">0</property>
-   <property name="b_track">4</property>
+   <property name="b_track">5</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
    <property name="sum">1</property>
@@ -1911,19 +2740,22 @@
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
    <property name="b_track">4</property>
    <property name="compositing">0</property>
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
    <property name="mlt_service">qtblend</property>
-   <property name="internal_added">237</property>
-  </transition>
-  <transition id="transition6">
-   <property name="a_track">0</property>
-   <property name="b_track">5</property>
-   <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
-   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition7">
@@ -1933,6 +2765,7 @@
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
    <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
  </tractor>
