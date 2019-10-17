@@ -5,6 +5,10 @@
   <property name="length">31692</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190722_202325.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -44,10 +48,6 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="meta.media.frame_rate_num">1850578996</property>
   <property name="meta.media.frame_rate_den">60988245</property>
@@ -65,6 +65,10 @@
   <property name="length">2645</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20190722_204113.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -104,10 +108,6 @@
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:folderid">1</property>
   <property name="meta.media.frame_rate_num">1322500</property>
   <property name="meta.media.frame_rate_den">44081</property>
@@ -132,7 +132,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">322</property>
+  <property name="kdenlive:docproperties.position">3537</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -254,7 +254,10 @@
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <entry out="31691" producer="1_playlist4" in="0"/>
+  <blank length="1185"/>
+  <entry out="1736" producer="1_playlist4" in="1586"/>
+  <blank length="401"/>
+  <entry out="31691" producer="1_playlist4" in="1737"/>
   <entry out="2644" producer="2_playlist4" in="0"/>
  </playlist>
  <playlist id="playlist5">
