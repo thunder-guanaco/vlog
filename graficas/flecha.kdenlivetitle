@@ -1,0 +1,11 @@
+<kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ <item z-index="1" type="QGraphicsTextItem">
+  <position x="819" y="506">
+   <transform rotation="64,0,6" zoom="100">0.994522,0.0458223,-9.17476e-5,-0.104528,0.43597,-0.00087292,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="25" gradient="#fffce94f;#ffef2929;73;0;90" box-height="575" shadow="0;#64000000;3;3;3" font="Arial" font-underline="0" font-pixel-size="500" line-spacing="0" box-width="250" font-color="0,0,0,255" alignment="1">↑</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>

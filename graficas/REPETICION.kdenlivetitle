@@ -1,0 +1,11 @@
+<kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ <item z-index="1" type="QGraphicsTextItem">
+  <position x="50" y="920">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="25" box-height="116" shadow="1;#64000000;3;3;3" font="Ubuntu" font-underline="0" font-pixel-size="101" line-spacing="0" box-width="550.984" font-color="243,243,243,255" alignment="1">REPETICIÓN</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>
