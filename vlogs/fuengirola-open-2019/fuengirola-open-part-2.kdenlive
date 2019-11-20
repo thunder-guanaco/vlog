@@ -2184,7 +2184,7 @@ pero no puede haber torneos sin los jugadores.
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">3c313d2440f0b214713ce7788f6810b2</property>
  </producer>
- <producer id="40" out="154" in="0">
+ <producer id="40" title="Anonymous Submission" out="154" in="0">
   <property name="length">155</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -2199,7 +2199,7 @@ pero no puede haber torneos sin los jugadores.
   &lt;position x="58" y="974">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="85" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="70" box-width="1176.34" font-color="255,255,255,255" alignment="1">El es Uli, está en mi equipo en Alemania.&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="85" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="70" box-width="1095.2" font-color="255,255,255,255" alignment="1">El es Uli, está en mi club en Alemania.&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -2211,6 +2211,7 @@ pero no puede haber torneos sin los jugadores.
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="kdenlive:file_hash">8c3ff84cc0acd19cd47427cb9821574b</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="41" out="195" in="0">
   <property name="length">196</property>
@@ -2266,7 +2267,7 @@ pero no puede haber torneos sin los jugadores.
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">8007</property>
+  <property name="kdenlive:docproperties.position">3429</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
