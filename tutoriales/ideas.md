@@ -6,14 +6,14 @@
 1. Los números de los discos: ejemplo práctico
 1. Como tirar de revés
 1. Como tirar de derechas
- 
-## No hecho
 1. Tipos de grip reves
 1. Tipos de grip derechas
-1. Como hacer putts (spin, push, mixed)
 1. Hyzer reves
-1. Hyzer derecha
 1. Anhyzer reves
+ 
+## No hecho
+1. Como hacer putts (spin, push, mixed)
+1. Hyzer derecha
 1. Anhyzer derecha
 1. Como hacer approach (tirar en anhyzer para que caiga plano, no dejar de mirar el objetivo, approach con nose up)
 ---
@@ -21,8 +21,10 @@
 1. shot shapes --> flex
 1. putts desde lejos (step y jump)
 1. Como hacer que tu putt no se vaya a la mierda si hay un precipicio
+1. Como hacer putts con low ceiling
 1. Como marcar el disco (y tu lie)
 1. Todo lo que hay que saber antes de un torneo
+1. Reglas interesantes que poca gente conoce: OB y re-tee/re-throw, OB y modificar tu lie para atras
 1. Porqué mis drivers vuelan tanto como mis mid (nose up)
 1. Factores que afectan el vuelo del disco (tipo de plástico, uso del disco, peso, ...)
 1. Putts en viento
