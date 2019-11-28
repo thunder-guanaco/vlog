@@ -1380,7 +1380,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="8191" producer="black" in="0"/>
+  <entry out="7215" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -1415,16 +1415,17 @@
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:locked_track">0</property>
   <blank length="923"/>
-  <entry out="3830" producer="45_playlist2" in="0">
+  <entry out="2683" producer="45_playlist2" in="0">
    <filter id="volume">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="level">0=-20;181~=-18;186~=-2;1962~=0;1969~=-16;1973~=-34;3397=-46</property>
+    <property name="level">0=-20;181~=-18;186~=-10;986~=-15;995~=-20;1000~=-30;3397=-46</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
+    <property name="disable"/>
    </filter>
   </entry>
  </playlist>
@@ -1489,7 +1490,7 @@
  </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
-  <blank length="7587"/>
+  <blank length="6611"/>
   <entry out="603" producer="33_playlist3" in="0"/>
  </playlist>
  <producer id="27_playlist4" title="Anonymous Submission" out="2085" in="0">
@@ -1674,7 +1675,7 @@
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <blank length="2896"/>
+  <blank length="1920"/>
   <entry out="1686" producer="27_playlist4" in="0"/>
   <blank length="806"/>
   <entry out="1577" producer="30_playlist4" in="179"/>
@@ -2129,44 +2130,8 @@
     <property name="kdenlive_info"/>
    </filter>
   </entry>
-  <entry out="956" producer="24_playlist5" in="590">
-   <filter id="filter1">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="level">590=-20</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-   </filter>
-  </entry>
-  <entry out="1603" producer="24_playlist5" in="1418">
-   <filter id="filter2">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="level">590=-20</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-   </filter>
-  </entry>
   <entry out="667" producer="26_playlist5" in="252">
    <filter id="filter3">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="level">590=-20</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-   </filter>
-  </entry>
-  <entry out="2508" producer="26_playlist5" in="2086">
-   <filter id="filter4">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">590=-20</property>
@@ -2192,7 +2157,7 @@
   <blank length="453"/>
   <entry out="150" producer="44" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="8191" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="7215" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>

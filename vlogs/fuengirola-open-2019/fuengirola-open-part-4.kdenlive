@@ -756,7 +756,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">3920</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -1252,7 +1252,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <track producer="playlist2" hide="video"/>
   <track producer="playlist3"/>
   <track producer="playlist4"/>
-  <track producer="playlist5" hide="video"/>
+  <track producer="playlist5"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>

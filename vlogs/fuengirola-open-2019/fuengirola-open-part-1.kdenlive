@@ -5080,7 +5080,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">4746</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -7094,7 +7094,7 @@
  <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="5444" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
-  <track producer="playlist2" hide="video"/>
+  <track producer="playlist2" hide="both"/>
   <track producer="playlist3"/>
   <track producer="playlist4"/>
   <track producer="playlist5"/>
