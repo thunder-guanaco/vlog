@@ -2109,13 +2109,12 @@ El es el director del torneo, un señor muy importante.&lt;/content>
   <property name="kdenlive:folderid">2</property>
   <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
  &lt;item z-index="0" type="QGraphicsTextItem">
-  &lt;position x="275" y="833">
+  &lt;position x="508" y="833">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="340" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="70" line-spacing="0" box-width="1370.19" font-color="255,255,255,255" alignment="4">Los jugadores son importantes.
-Siempre puede haber torneos sin el mismo TD, 
-pero no puede haber torneos sin jugadores.
-&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="255" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="70" line-spacing="0" box-width="903.469" font-color="255,255,255,255" alignment="4">Los jugadores son importantes.
+Tú puedes organizar un torneo,
+pero si luego no viene nadie...&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -2269,7 +2268,7 @@ pero no puede haber torneos sin jugadores.
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">6180</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -2430,7 +2429,18 @@ pero no puede haber torneos sin jugadores.
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
   <blank length="5983"/>
-  <entry out="744" producer="13_playlist3" in="0"/>
+  <entry out="744" producer="13_playlist3" in="0">
+   <filter id="volume">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=4</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
  </playlist>
  <producer id="7_playlist4" title="Anonymous Submission" out="446" in="0">
   <property name="length">447</property>
@@ -2693,11 +2703,31 @@ pero no puede haber torneos sin jugadores.
     <property name="gain">1,4</property>
     <property name="kdenlive_info"/>
    </filter>
+   <filter id="filter0">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">0=0;7=-2;47=-2;158=-2;173=0;196=-2;210=40;410=32;413=4;-2=2</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+   </filter>
   </entry>
   <entry out="111" producer="5_playlist4" in="0"/>
   <entry out="314" producer="5_playlist4" in="209"/>
   <entry out="481" producer="6_playlist4" in="279"/>
-  <entry out="267" producer="8_playlist4" in="0"/>
+  <entry out="267" producer="8_playlist4" in="0">
+   <filter id="filter1">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
   <blank length="4159"/>
   <entry out="194" producer="41" in="0"/>
  </playlist>
@@ -3084,9 +3114,20 @@ pero no puede haber torneos sin jugadores.
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
-  <entry out="1071" producer="2_playlist5" in="196"/>
+  <entry out="1071" producer="2_playlist5" in="196">
+   <filter id="filter2">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
   <entry out="15" producer="35_playlist5" in="0">
-   <filter id="volume">
+   <filter id="filter3">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">0=-43</property>
@@ -3097,9 +3138,39 @@ pero no puede haber torneos sin jugadores.
     <property name="kdenlive_info"/>
    </filter>
   </entry>
-  <entry out="64" producer="3_playlist5" in="0"/>
-  <entry out="645" producer="3_playlist5" in="438"/>
-  <entry out="982" producer="3_playlist5" in="910"/>
+  <entry out="64" producer="3_playlist5" in="0">
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="645" producer="3_playlist5" in="438">
+   <filter id="filter5">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="982" producer="3_playlist5" in="910">
+   <filter id="filter6">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
   <entry out="177" producer="36" in="0"/>
   <entry out="274" producer="37" in="53"/>
   <entry out="124" producer="38" in="78"/>
@@ -3116,7 +3187,7 @@ pero no puede haber torneos sin jugadores.
   <entry out="1854" producer="11_playlist5" in="1642"/>
   <entry out="2876" producer="11_playlist5" in="2710"/>
   <entry out="15" producer="35_playlist5" in="0">
-   <filter id="filter0">
+   <filter id="filter7">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">0=-43</property>
@@ -3136,6 +3207,15 @@ pero no puede haber torneos sin jugadores.
     <property name="tag">brightness</property>
     <property name="kdenlive_ix">1</property>
     <property name="end">0</property>
+   </filter>
+   <filter id="filter8">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">196=12</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">2</property>
    </filter>
   </entry>
   <blank length="599"/>

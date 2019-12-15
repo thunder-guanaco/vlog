@@ -5080,7 +5080,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">4746</property>
+  <property name="kdenlive:docproperties.position">2517</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -5094,7 +5094,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">music</property>
@@ -5289,7 +5289,7 @@
  <playlist id="playlist2">
   <property name="kdenlive:track_name">Audio 1</property>
   <property name="kdenlive:audio_track">1</property>
-  <property name="kdenlive:locked_track">1</property>
+  <property name="kdenlive:locked_track">0</property>
   <entry out="4886" producer="51_playlist2" in="27">
    <filter id="filter0">
     <property name="window">75</property>
@@ -5303,6 +5303,16 @@
     <property name="disable"/>
    </filter>
   </entry>
+  <filter id="filter1">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="level">0=-10</property>
+   <property name="mlt_service">volume</property>
+   <property name="kdenlive_id">volume</property>
+   <property name="tag">volume</property>
+   <property name="kdenlive_ix">1</property>
+   <property name="kdenlive_info"/>
+  </filter>
  </playlist>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
@@ -6801,8 +6811,9 @@
     <property name="kdenlive_id">gain</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
-    <property name="gain">1,4</property>
+    <property name="gain">3</property>
     <property name="kdenlive_info"/>
+    <property name="disable"/>
    </filter>
   </entry>
   <entry out="2061" producer="1_playlist5" in="1875">
@@ -6825,33 +6836,20 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
    </filter>
-  </entry>
-  <blank length="130"/>
-  <entry out="102" producer="slowmotion:5:3:1:0" in="0">
    <filter id="filter4">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">mute</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="gain">0</property>
-   </filter>
-  </entry>
-  <entry out="1103" producer="7_playlist5" in="683">
-   <filter id="filter1">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">gain</property>
     <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="gain">1,4</property>
     <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">3</property>
     <property name="disable"/>
+    <property name="gain">3</property>
    </filter>
   </entry>
-  <entry out="62" producer="slowmotion:8:10:1:0" in="0">
+  <blank length="130"/>
+  <entry out="102" producer="slowmotion:5:3:1:0" in="0">
    <filter id="filter5">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6862,18 +6860,20 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="555" producer="slowmotion:9:6:1:0" in="402">
+  <entry out="1103" producer="7_playlist5" in="683">
    <filter id="filter6">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">mute</property>
+    <property name="kdenlive_id">gain</property>
     <property name="tag">volume</property>
+    <property name="kdenlive_info"/>
     <property name="kdenlive_ix">1</property>
-    <property name="gain">0</property>
+    <property name="disable"/>
+    <property name="gain">3</property>
    </filter>
   </entry>
-  <entry out="834" producer="slowmotion:13:5:1:0" in="521">
+  <entry out="62" producer="slowmotion:8:10:1:0" in="0">
    <filter id="filter7">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6884,20 +6884,18 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="1292" producer="29_playlist5" in="907">
+  <entry out="555" producer="slowmotion:9:6:1:0" in="402">
    <filter id="filter8">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">gain</property>
+    <property name="kdenlive_id">mute</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
-    <property name="gain">1,4</property>
-    <property name="kdenlive_info"/>
-    <property name="disable"/>
+    <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="57" producer="30_playlist5" in="0">
+  <entry out="834" producer="slowmotion:13:5:1:0" in="521">
    <filter id="filter9">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6908,18 +6906,20 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="140" producer="33_playlist5" in="0">
+  <entry out="1292" producer="29_playlist5" in="907">
    <filter id="filter10">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">mute</property>
+    <property name="kdenlive_id">gain</property>
     <property name="tag">volume</property>
+    <property name="kdenlive_info"/>
     <property name="kdenlive_ix">1</property>
-    <property name="gain">0</property>
+    <property name="disable"/>
+    <property name="gain">3</property>
    </filter>
   </entry>
-  <entry out="134" producer="34_playlist5" in="0">
+  <entry out="57" producer="30_playlist5" in="0">
    <filter id="filter11">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6930,7 +6930,7 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="191" producer="36_playlist5" in="0">
+  <entry out="140" producer="33_playlist5" in="0">
    <filter id="filter12">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6941,7 +6941,7 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="243" producer="37_playlist5" in="0">
+  <entry out="134" producer="34_playlist5" in="0">
    <filter id="filter13">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6952,7 +6952,7 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="428" producer="26_playlist5" in="0">
+  <entry out="191" producer="36_playlist5" in="0">
    <filter id="filter14">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6962,17 +6962,19 @@
     <property name="kdenlive_ix">1</property>
     <property name="gain">0</property>
    </filter>
+  </entry>
+  <entry out="243" producer="37_playlist5" in="0">
    <filter id="filter15">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">mute</property>
     <property name="tag">volume</property>
-    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_ix">1</property>
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="261" producer="23_playlist5" in="0">
+  <entry out="428" producer="26_playlist5" in="0">
    <filter id="filter16">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -6992,8 +6994,28 @@
     <property name="gain">0</property>
    </filter>
   </entry>
-  <entry out="287" producer="22_playlist5" in="0">
+  <entry out="261" producer="23_playlist5" in="0">
    <filter id="filter18">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">mute</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0</property>
+   </filter>
+   <filter id="filter19">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">mute</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="gain">0</property>
+   </filter>
+  </entry>
+  <entry out="287" producer="22_playlist5" in="0">
+   <filter id="filter20">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -7094,7 +7116,7 @@
  <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="5444" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
-  <track producer="playlist2" hide="both"/>
+  <track producer="playlist2" hide="video"/>
   <track producer="playlist3"/>
   <track producer="playlist4"/>
   <track producer="playlist5"/>

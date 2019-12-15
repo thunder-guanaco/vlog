@@ -756,7 +756,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
-  <property name="kdenlive:docproperties.position">3920</property>
+  <property name="kdenlive:docproperties.position">4607</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -770,7 +770,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.2">titles</property>
@@ -1027,11 +1027,61 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <entry out="491" producer="39_playlist4" in="0"/>
   <entry out="1017" producer="39_playlist4" in="627"/>
   <blank length="9"/>
-  <entry out="148" producer="37_playlist4" in="0"/>
-  <entry out="1683" producer="37_playlist4" in="235"/>
-  <entry out="2092" producer="37_playlist4" in="1895"/>
-  <entry out="3049" producer="37_playlist4" in="2314"/>
-  <entry out="3979" producer="37_playlist4" in="3434"/>
+  <entry out="148" producer="37_playlist4" in="0">
+   <filter id="volume">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="1683" producer="37_playlist4" in="235">
+   <filter id="filter0">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="2092" producer="37_playlist4" in="1895">
+   <filter id="filter1">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="3049" producer="37_playlist4" in="2314">
+   <filter id="filter2">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="3979" producer="37_playlist4" in="3434">
+   <filter id="filter3">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
  </playlist>
  <producer id="31_playlist5" title="Anonymous Submission" out="1396" in="0">
   <property name="length">1397</property>
@@ -1171,9 +1221,20 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
   <property name="kdenlive:locked_track">0</property>
-  <entry out="1377" producer="31_playlist5" in="88"/>
+  <entry out="1377" producer="31_playlist5" in="88">
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">88=7</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
   <entry out="124" producer="42_playlist5" in="116">
-   <filter id="volume">
+   <filter id="filter5">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">106=-34</property>
@@ -1188,7 +1249,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <blank length="29"/>
   <entry out="97" producer="41" in="16"/>
   <entry out="124" producer="42_playlist5" in="116">
-   <filter id="filter0">
+   <filter id="filter6">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">106=-34</property>
@@ -1201,19 +1262,20 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
    </filter>
   </entry>
   <entry out="1639" producer="35_playlist5" in="236">
-   <filter id="filter1">
+   <filter id="filter7">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="level">236=0;882=0;884=-14;886=-22;890=-24;894=-18;898=0;1639=0</property>
+    <property name="level">236=7;882=7;884=-14;886=-22;890=-24;894=-18;898=7;1639=7</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="tag">volume</property>
     <property name="kdenlive_ix">1</property>
     <property name="kdenlive_info"/>
+    <property name="disable"/>
    </filter>
   </entry>
   <entry out="124" producer="42_playlist5" in="116">
-   <filter id="filter2">
+   <filter id="filter8">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">106=-34</property>
@@ -1230,7 +1292,7 @@ y una entrada para el año que viene para Tyyni.&lt;/content>
   <entry out="165" producer="44" in="0"/>
   <entry out="390" producer="45" in="0"/>
   <entry out="124" producer="42_playlist5" in="116">
-   <filter id="filter3">
+   <filter id="filter9">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="level">106=-34</property>
