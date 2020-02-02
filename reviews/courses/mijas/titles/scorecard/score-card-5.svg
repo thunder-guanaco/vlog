@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="score-card-1.svg">
+   sodipodi:docname="score-card-5.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="212.46079"
-     inkscape:cy="106.29255"
+     inkscape:cx="330.51858"
+     inkscape:cy="87.162843"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,15 +63,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:35.97968674px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89949214"
-       x="661.38885"
-       y="947.41608"
+       x="645.78882"
+       y="945.48578"
        id="text2486"
        transform="scale(0.96514848,1.03611)"><tspan
          sodipodi:role="line"
          id="tspan2484"
-         x="661.38885"
-         y="947.41608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.89949214">2</tspan></text>
+         x="645.78882"
+         y="945.48578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.89949214">13</tspan></text>
     <rect
        style="opacity:1;fill:#07ff00;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
        id="rect2492"
@@ -81,7 +81,7 @@
        y="1005"
        ry="10.357134" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
+       style="opacity:1;fill:#07ff00;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
        id="rect2492-3"
        width="30"
        height="29.999983"
@@ -89,7 +89,7 @@
        y="1005"
        ry="10.357134" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
+       style="opacity:1;fill:#05ff00;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
        id="rect2492-5"
        width="30"
        height="29.999983"
@@ -97,7 +97,7 @@
        y="1005"
        ry="10.357134" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
+       style="opacity:1;fill:#02ff03;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
        id="rect2492-3-3"
        width="30"
        height="29.999983"
@@ -105,7 +105,7 @@
        y="1005"
        ry="10.357134" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
+       style="opacity:1;fill:#15ff13;fill-opacity:1;stroke:none;stroke-width:1.97059751;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04926106"
        id="rect2492-56"
        width="30"
        height="29.999983"
@@ -455,5 +455,53 @@
          x="50.376171"
          y="1082.7134"
          style="stroke-width:0.53901976">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.56079102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53901976"
+       x="82.71804"
+       y="1082.5607"
+       id="text1166-3"
+       transform="scale(1.0536395,0.94909123)"><tspan
+         sodipodi:role="line"
+         id="tspan1164-6"
+         x="82.71804"
+         y="1082.5607"
+         style="stroke-width:0.53901976">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.56079102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53901976"
+       x="115.3073"
+       y="1082.5607"
+       id="text1166-3-7"
+       transform="scale(1.0536395,0.94909123)"><tspan
+         sodipodi:role="line"
+         id="tspan1164-6-5"
+         x="115.3073"
+         y="1082.5607"
+         style="stroke-width:0.53901976">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.56079102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53901976"
+       x="148.14397"
+       y="1082.7134"
+       id="text1166-9"
+       transform="scale(1.0536395,0.94909123)"><tspan
+         sodipodi:role="line"
+         id="tspan1164-1"
+         x="148.14397"
+         y="1082.7134"
+         style="stroke-width:0.53901976">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.56079102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53901976"
+       x="180.48582"
+       y="1082.5607"
+       id="text1166-3-7-2"
+       transform="scale(1.0536395,0.94909123)"><tspan
+         sodipodi:role="line"
+         id="tspan1164-6-5-7"
+         x="180.48582"
+         y="1082.5607"
+         style="stroke-width:0.53901976">3</tspan></text>
   </g>
 </svg>
