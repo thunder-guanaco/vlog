@@ -6614,6 +6614,654 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer9" in="00:00:00,000" out="00:00:19,531">
+  <property name="length">617</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-0.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">110</property>
+  <property name="kdenlive:file_size">22806</property>
+  <property name="kdenlive:file_hash">bceeeb5e29d02f55f237b6e3bc16ad25</property>
+ </producer>
+ <producer id="producer32" in="00:00:00,000" out="00:00:23,685">
+  <property name="length">748</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-1.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">111</property>
+  <property name="kdenlive:file_size">23342</property>
+  <property name="kdenlive:file_hash">81ce2c2c5521b5dae40341a4b2a0bf19</property>
+ </producer>
+ <producer id="producer34" in="00:00:00,000" out="00:00:20,641">
+  <property name="length">652</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-2.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">112</property>
+  <property name="kdenlive:file_size">23870</property>
+  <property name="kdenlive:file_hash">ce2a99502138d9e19f43b1cc8d53b971</property>
+ </producer>
+ <producer id="producer79" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-3.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">113</property>
+  <property name="kdenlive:file_size">23877</property>
+  <property name="kdenlive:file_hash">2048bc42f7f51f5ac6c10a19c8eefe7e</property>
+ </producer>
+ <producer id="producer82" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-4.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">114</property>
+  <property name="kdenlive:file_size">24410</property>
+  <property name="kdenlive:file_hash">04ca08952a9fc0f67bfe45cb21953219</property>
+ </producer>
+ <producer id="producer83" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-5.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">115</property>
+  <property name="kdenlive:file_size">24951</property>
+  <property name="kdenlive:file_hash">e79a47e2730a190602d9854384b93d57</property>
+ </producer>
+ <producer id="producer102" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-6.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">116</property>
+  <property name="kdenlive:file_size">25488</property>
+  <property name="kdenlive:file_hash">2faa12b1b00e541f382bc490d66a348d</property>
+ </producer>
+ <producer id="producer113" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-7.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">117</property>
+  <property name="kdenlive:file_size">25495</property>
+  <property name="kdenlive:file_hash">293c6aa9b513da90fe87d7597deaf19c</property>
+ </producer>
+ <producer id="producer114" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-8.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">118</property>
+  <property name="kdenlive:file_size">26036</property>
+  <property name="kdenlive:file_hash">d6dced246b1469ae02c8248e34fe9b08</property>
+ </producer>
+ <producer id="producer115" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-9.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">119</property>
+  <property name="kdenlive:file_size">26580</property>
+  <property name="kdenlive:file_hash">3272dc8ffe57c2bf6de34d283d3cc2ef</property>
+ </producer>
+ <producer id="producer116" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-10.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">120</property>
+  <property name="kdenlive:file_size">27130</property>
+  <property name="kdenlive:file_hash">8d65c0d1a456b2a3b8cee23efc5fae04</property>
+ </producer>
+ <producer id="producer117" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-11.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">121</property>
+  <property name="kdenlive:file_size">27683</property>
+  <property name="kdenlive:file_hash">2872493a40d13856986c01f32bc506ad</property>
+ </producer>
+ <producer id="producer118" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-12.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">122</property>
+  <property name="kdenlive:file_size">27681</property>
+  <property name="kdenlive:file_hash">4377e1969775d29b7e003f8bcd827d76</property>
+ </producer>
+ <producer id="producer119" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-13.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">123</property>
+  <property name="kdenlive:file_size">28235</property>
+  <property name="kdenlive:file_hash">a05906b42c32bb57dfa380058f7d91de</property>
+ </producer>
+ <producer id="producer120" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-14.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">124</property>
+  <property name="kdenlive:file_size">28252</property>
+  <property name="kdenlive:file_hash">d162d7accc5d99f3f875d9706dadb18b</property>
+ </producer>
+ <producer id="producer121" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-15.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">125</property>
+  <property name="kdenlive:file_size">28833</property>
+  <property name="kdenlive:file_hash">fe120ee03716c1c7396e7c3d7ccad8c0</property>
+ </producer>
+ <producer id="producer122" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-16.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">126</property>
+  <property name="kdenlive:file_size">28840</property>
+  <property name="kdenlive:file_hash">8f70707760b734a7746b1c900d8780f6</property>
+ </producer>
+ <producer id="producer123" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-17.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">127</property>
+  <property name="kdenlive:file_size">28847</property>
+  <property name="kdenlive:file_hash">3eb4746af0f92f4a5110b2d7482fe2bd</property>
+ </producer>
+ <producer id="producer124" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/scorecard/score-card-18.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">109</property>
+  <property name="kdenlive:id">128</property>
+  <property name="kdenlive:file_size">29435</property>
+  <property name="kdenlive:file_hash">05b7513e3b0fa36b6097bc4c726e190d</property>
+ </producer>
+ <producer id="producer125" in="00:00:00,000" out="00:00:25,492">
+  <property name="length">805</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-1.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">130</property>
+  <property name="kdenlive:file_size">71110</property>
+  <property name="kdenlive:file_hash">7b4d1478df79a8edecf4e0ac622c4dfc</property>
+ </producer>
+ <producer id="producer126" in="00:00:00,000" out="00:00:19,341">
+  <property name="length">611</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">142</property>
+  <property name="kdenlive:file_size">77743</property>
+  <property name="kdenlive:file_hash">0dc6b0626ee7c2335805fda494910dfc</property>
+ </producer>
+ <producer id="producer127" in="00:00:00,000" out="00:00:23,241">
+  <property name="length">734</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-3.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">152</property>
+  <property name="kdenlive:file_size">82983</property>
+  <property name="kdenlive:file_hash">673b8060795b784fa1eb8d9e8dd82b2b</property>
+ </producer>
+ <producer id="producer128" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-4.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">153</property>
+  <property name="kdenlive:file_size">87821</property>
+  <property name="kdenlive:file_hash">ff6dbcfa698485cb576f6d59da458160</property>
+ </producer>
+ <producer id="producer129" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-5.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">154</property>
+  <property name="kdenlive:file_size">57333</property>
+  <property name="kdenlive:file_hash">72e657b315d76d0fe1669874da96a0c9</property>
+ </producer>
+ <producer id="producer130" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-6.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">155</property>
+  <property name="kdenlive:file_size">97525</property>
+  <property name="kdenlive:file_hash">f163175aaf4a543ee26ea23d0ef68c48</property>
+ </producer>
+ <producer id="producer131" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-7.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">156</property>
+  <property name="kdenlive:file_size">100817</property>
+  <property name="kdenlive:file_hash">d90abb57a8f9aa390cdb2ee574ae5584</property>
+ </producer>
+ <producer id="producer132" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-8.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">157</property>
+  <property name="kdenlive:file_size">98135</property>
+  <property name="kdenlive:file_hash">a963a189cea1bb44b861caabd66824ee</property>
+ </producer>
+ <producer id="producer133" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-9.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">158</property>
+  <property name="kdenlive:file_size">90071</property>
+  <property name="kdenlive:file_hash">15b9cfff0b7172cb1949241e2fcf6183</property>
+ </producer>
+ <producer id="producer134" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-10.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">159</property>
+  <property name="kdenlive:file_size">102154</property>
+  <property name="kdenlive:file_hash">5caa96243f6f4b9cfcf9c0f6023aa946</property>
+ </producer>
+ <producer id="producer135" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-11.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">160</property>
+  <property name="kdenlive:file_size">73279</property>
+  <property name="kdenlive:file_hash">6c054f30d45dae03f747f610c5758c87</property>
+ </producer>
+ <producer id="producer136" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-12.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">161</property>
+  <property name="kdenlive:file_size">94645</property>
+  <property name="kdenlive:file_hash">a8d546da50876a01a276d2b8ded03824</property>
+ </producer>
+ <producer id="producer137" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-13.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">162</property>
+  <property name="kdenlive:file_size">76130</property>
+  <property name="kdenlive:file_hash">078eb2e9edbf1566746521a9c6ef2881</property>
+ </producer>
+ <producer id="producer138" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-14.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">163</property>
+  <property name="kdenlive:file_size">80240</property>
+  <property name="kdenlive:file_hash">0917d90511b5345391612e12fdaf845f</property>
+ </producer>
+ <producer id="producer139" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-15.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">164</property>
+  <property name="kdenlive:file_size">56364</property>
+  <property name="kdenlive:file_hash">fbf4e4aa3597a60c59882ab3466e6e83</property>
+ </producer>
+ <producer id="producer140" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-16.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">165</property>
+  <property name="kdenlive:file_size">76957</property>
+  <property name="kdenlive:file_hash">2d0954ea33f79d3fb5651d9ebf5c9bf9</property>
+ </producer>
+ <producer id="producer141" in="00:00:00,000" out="00:00:04,946">
+  <property name="length">00:00:04,978</property>
+  <property name="eof">pause</property>
+  <property name="resource">graphics/teepads/Bahn-17.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">420</property>
+  <property name="meta.media.height">595</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:04,978</property>
+  <property name="kdenlive:folderid">129</property>
+  <property name="kdenlive:id">166</property>
+  <property name="kdenlive:file_size">101376</property>
+  <property name="kdenlive:file_hash">1d4a32fb625843d81fe3b89e98749c55</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.2">videos</property>
   <property name="kdenlive:folder.2.131">hoyo1</property>
@@ -6636,7 +7284,7 @@
   <property name="kdenlive:folder.2.145">hoyo13</property>
   <property name="kdenlive:folder.2.144">hoyo12</property>
   <property name="kdenlive:folder.2.151">outro</property>
-  <property name="kdenlive:docproperties.activeTrack">1</property>
+  <property name="kdenlive:docproperties.activeTrack">4</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.decimalPoint">,</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -7881,7 +8529,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.04.2</property>
-  <property name="kdenlive:docproperties.position">29907</property>
+  <property name="kdenlive:docproperties.position">2738</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/federico/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile2</property>
@@ -7911,15 +8559,17 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">wischlingen.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">122534</property>
+  <property name="kdenlive:docproperties.scrollPos">960</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
   <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:folder.-1.109">scorecards</property>
+  <property name="kdenlive:folder.-1.129">teepads</property>
   <property name="xml_retain">1</property>
   <entry producer="producer4" in="00:00:00,000" out="00:01:30,026"/>
   <entry producer="producer0" in="00:00:00,000" out="00:01:29,424"/>
@@ -8027,6 +8677,42 @@
   <entry producer="producer6" in="00:00:00,000" out="00:00:12,175"/>
   <entry producer="producer5" in="00:00:00,000" out="00:01:43,882"/>
   <entry producer="producer8" in="00:00:00,000" out="00:00:04,724"/>
+  <entry producer="producer9" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer32" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer34" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer79" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer82" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer83" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer102" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer113" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer114" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer115" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer116" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer117" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer118" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer119" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer120" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer121" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer122" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer123" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer124" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer125" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer126" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer127" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer128" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer129" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer130" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer131" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer132" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer133" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer134" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer135" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer136" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer137" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer138" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer139" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer140" in="00:00:00,000" out="00:00:04,946"/>
+  <entry producer="producer141" in="00:00:00,000" out="00:00:04,946"/>
  </playlist>
  <producer id="black_track" in="00:00:00,000" out="00:31:39,475">
   <property name="length">2147483647</property>
@@ -8070,7 +8756,7 @@
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer113" in="00:00:00,000" out="00:01:30,026">
+ <producer id="producer142" in="00:00:00,000" out="00:01:30,026">
   <property name="length">2840</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_100553.mp4</property>
@@ -8137,7 +8823,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer114" in="00:00:00,000" out="00:01:29,424">
+ <producer id="producer143" in="00:00:00,000" out="00:01:29,424">
   <property name="length">2821</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_100824.mp4</property>
@@ -8205,7 +8891,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer115" in="00:00:00,000" out="00:04:41,695">
+ <producer id="producer144" in="00:00:00,000" out="00:04:41,695">
   <property name="length">8885</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_101613.mp4</property>
@@ -8272,7 +8958,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer116" in="00:00:00,000" out="00:00:14,014">
+ <producer id="producer145" in="00:00:00,000" out="00:00:14,014">
   <property name="length">443</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_101432.mp4</property>
@@ -8335,7 +9021,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer117" in="00:00:00,000" out="00:00:09,988">
+ <producer id="producer146" in="00:00:00,000" out="00:00:09,988">
   <property name="length">316</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_103207.mp4</property>
@@ -8400,7 +9086,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer118" in="00:00:00,000" out="00:01:38,429">
+ <producer id="producer147" in="00:00:00,000" out="00:01:38,429">
   <property name="length">3105</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_103931.mp4</property>
@@ -8467,7 +9153,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer119" in="00:00:00,000" out="00:01:28,283">
+ <producer id="producer148" in="00:00:00,000" out="00:01:28,283">
   <property name="length">2785</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_105108.mp4</property>
@@ -8534,7 +9220,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer120" in="00:00:00,000" out="00:01:13,951">
+ <producer id="producer149" in="00:00:00,000" out="00:01:13,951">
   <property name="length">2333</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_105058.mp4</property>
@@ -8599,7 +9285,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer121" in="00:00:00,000" out="00:00:18,453">
+ <producer id="producer150" in="00:00:00,000" out="00:00:18,453">
   <property name="length">583</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_110346.mp4</property>
@@ -8667,7 +9353,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer122" in="00:00:00,000" out="00:00:23,368">
+ <producer id="producer151" in="00:00:00,000" out="00:00:23,368">
   <property name="length">738</property>
   <property name="eof">pause</property>
   <property name="resource">0,600000:videos/VID_20200515_110342.mp4</property>
@@ -8727,7 +9413,7 @@
   <property name="meta.media.color_range">full</property>
   <property name="kdenlive:id">15</property>
  </producer>
- <producer id="producer102" in="00:00:00,000" out="00:02:30,153">
+ <producer id="producer152" in="00:00:00,000" out="00:02:30,153">
   <property name="length">4736</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_110918.mp4</property>
@@ -8794,7 +9480,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer123" in="00:00:00,000" out="00:00:33,514">
+ <producer id="producer153" in="00:00:00,000" out="00:00:33,514">
   <property name="length">1058</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111217.mp4</property>
@@ -8859,7 +9545,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer124" in="00:00:00,000" out="00:00:28,283">
+ <producer id="producer154" in="00:00:00,000" out="00:00:28,283">
   <property name="length">893</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111156.mp4</property>
@@ -8924,7 +9610,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer125" in="00:00:00,000" out="00:00:10,622">
+ <producer id="producer155" in="00:00:00,000" out="00:00:10,622">
   <property name="length">336</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111703.mp4</property>
@@ -8989,7 +9675,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer126" in="00:00:00,000" out="00:02:22,924">
+ <producer id="producer156" in="00:00:00,000" out="00:02:22,924">
   <property name="length">4508</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_112152.mp4</property>
@@ -9057,7 +9743,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer127" in="00:00:00,000" out="00:01:17,185">
+ <producer id="producer157" in="00:00:00,000" out="00:01:17,185">
   <property name="length">2435</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_113156.mp4</property>
@@ -9125,7 +9811,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer128" in="00:00:00,000" out="00:01:27,141">
+ <producer id="producer158" in="00:00:00,000" out="00:01:27,141">
   <property name="length">2749</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_113153.mp4</property>
@@ -9190,7 +9876,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer129" in="00:00:00,000" out="00:01:38,334">
+ <producer id="producer159" in="00:00:00,000" out="00:01:38,334">
   <property name="length">3102</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_114512.mp4</property>
@@ -9256,7 +9942,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer79" in="00:00:00,000" out="00:02:23,970">
+ <producer id="producer160" in="00:00:00,000" out="00:02:23,970">
   <property name="length">4541</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_115056.mp4</property>
@@ -9323,7 +10009,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer82" in="00:00:00,000" out="00:23:51,048">
+ <producer id="producer161" in="00:00:00,000" out="00:23:51,048">
   <property name="length">45134</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_121516.mp4</property>
@@ -9390,7 +10076,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer83" in="00:00:00,000" out="00:02:05,612">
+ <producer id="producer162" in="00:00:00,000" out="00:02:05,612">
   <property name="length">3962</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_121523.mp4</property>
@@ -9455,7 +10141,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer130" in="00:00:00,000" out="00:00:09,924">
+ <producer id="producer163" in="00:00:00,000" out="00:00:09,924">
   <property name="length">314</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_122722.mp4</property>
@@ -9520,7 +10206,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer131" in="00:00:00,000" out="00:01:05,644">
+ <producer id="producer164" in="00:00:00,000" out="00:01:05,644">
   <property name="length">2071</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_164756.mp4</property>
@@ -9588,7 +10274,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer132" in="00:00:00,000" out="00:02:08,402">
+ <producer id="producer165" in="00:00:00,000" out="00:02:08,402">
   <property name="length">4050</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165133.mp4</property>
@@ -9656,7 +10342,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer133" in="00:00:00,000" out="00:01:07,736">
+ <producer id="producer166" in="00:00:00,000" out="00:01:07,736">
   <property name="length">2137</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165034.mp4</property>
@@ -9721,7 +10407,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer134" in="00:00:00,000" out="00:00:21,180">
+ <producer id="producer167" in="00:00:00,000" out="00:00:21,180">
   <property name="length">669</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165326.mp4</property>
@@ -9787,7 +10473,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer135" in="00:00:00,000" out="00:00:27,712">
+ <producer id="producer168" in="00:00:00,000" out="00:00:27,712">
   <property name="length">875</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_123937.mp4</property>
@@ -9854,7 +10540,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer136" in="00:00:00,000" out="00:02:30,375">
+ <producer id="producer169" in="00:00:00,000" out="00:02:30,375">
   <property name="length">4743</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124336.mp4</property>
@@ -9922,7 +10608,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer137" in="00:00:00,000" out="00:01:41,631">
+ <producer id="producer170" in="00:00:00,000" out="00:01:41,631">
   <property name="length">3206</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124300.mp4</property>
@@ -9987,7 +10673,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer138" in="00:00:00,000" out="00:00:19,880">
+ <producer id="producer171" in="00:00:00,000" out="00:00:19,880">
   <property name="length">628</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124525.mp4</property>
@@ -10052,7 +10738,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer139" in="00:00:00,000" out="00:00:40,331">
+ <producer id="producer172" in="00:00:00,000" out="00:00:40,331">
   <property name="length">1273</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124853.mp4</property>
@@ -10120,7 +10806,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer140" in="00:00:00,000" out="00:00:42,804">
+ <producer id="producer173" in="00:00:00,000" out="00:00:42,804">
   <property name="length">1351</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125029.mp4</property>
@@ -10188,7 +10874,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer141" in="00:00:00,000" out="00:01:48,258">
+ <producer id="producer174" in="00:00:00,000" out="00:01:48,258">
   <property name="length">3415</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125142.mp4</property>
@@ -10253,7 +10939,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer142" in="00:00:00,000" out="00:00:43,407">
+ <producer id="producer175" in="00:00:00,000" out="00:00:43,407">
   <property name="length">1370</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125227.mp4</property>
@@ -10319,7 +11005,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer143" in="00:00:00,000" out="00:02:24,985">
+ <producer id="producer176" in="00:00:00,000" out="00:02:24,985">
   <property name="length">4573</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125554.mp4</property>
@@ -10387,7 +11073,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer144" in="00:00:00,000" out="00:00:23,590">
+ <producer id="producer177" in="00:00:00,000" out="00:00:23,590">
   <property name="length">745</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130035.mp4</property>
@@ -10454,7 +11140,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer145" in="00:00:00,000" out="00:00:12,397">
+ <producer id="producer178" in="00:00:00,000" out="00:00:12,397">
   <property name="length">392</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130023.mp4</property>
@@ -10519,7 +11205,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer146" in="00:00:00,000" out="00:00:09,385">
+ <producer id="producer179" in="00:00:00,000" out="00:00:09,385">
   <property name="length">297</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130154.mp4</property>
@@ -10584,7 +11270,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer147" in="00:00:00,000" out="00:00:36,241">
+ <producer id="producer180" in="00:00:00,000" out="00:00:36,241">
   <property name="length">1144</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130457.mp4</property>
@@ -10652,7 +11338,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer148" in="00:00:00,000" out="00:01:42,297">
+ <producer id="producer181" in="00:00:00,000" out="00:01:42,297">
   <property name="length">3227</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_131849.mp4</property>
@@ -10719,7 +11405,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer149" in="00:00:00,000" out="00:01:23,273">
+ <producer id="producer182" in="00:00:00,000" out="00:01:23,273">
   <property name="length">2627</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_131843.mp4</property>
@@ -10784,7 +11470,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer150" in="00:00:00,000" out="00:00:52,380">
+ <producer id="producer183" in="00:00:00,000" out="00:00:52,380">
   <property name="length">1653</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_132632.mp4</property>
@@ -10849,7 +11535,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer9" in="00:00:00,000" out="00:02:02,093">
+ <producer id="producer184" in="00:00:00,000" out="00:02:02,093">
   <property name="length">3851</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_134858.mp4</property>
@@ -10914,7 +11600,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer32" in="00:00:00,000" out="00:02:52,982">
+ <producer id="producer185" in="00:00:00,000" out="00:02:52,982">
   <property name="length">5456</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_135455.mp4</property>
@@ -10981,7 +11667,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer34" in="00:00:00,000" out="00:01:58,246">
+ <producer id="producer186" in="00:00:00,000" out="00:01:58,246">
   <property name="length">3730</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_135431.mp4</property>
@@ -11046,7 +11732,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer151" in="00:00:00,000" out="00:00:32,690">
+ <producer id="producer187" in="00:00:00,000" out="00:00:32,690">
   <property name="length">1032</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_140753.mp4</property>
@@ -11111,7 +11797,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer152" in="00:00:00,000" out="00:00:12,493">
+ <producer id="producer188" in="00:00:00,000" out="00:00:12,493">
   <property name="length">395</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_140956.mp4</property>
@@ -11178,7 +11864,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer153" in="00:00:00,000" out="00:00:23,336">
+ <producer id="producer189" in="00:00:00,000" out="00:00:23,336">
   <property name="length">737</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_141924.mp4</property>
@@ -11245,7 +11931,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer155" in="00:00:00,000" out="00:02:40,268">
+ <producer id="producer190" in="00:00:00,000" out="00:02:40,268">
   <property name="length">5055</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142444.mp4</property>
@@ -11313,7 +11999,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer156" in="00:00:00,000" out="00:00:18,770">
+ <producer id="producer191" in="00:00:00,000" out="00:00:18,770">
   <property name="length">593</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142255.mp4</property>
@@ -11378,7 +12064,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer157" in="00:00:00,000" out="00:00:11,097">
+ <producer id="producer192" in="00:00:00,000" out="00:00:11,097">
   <property name="length">351</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142929.mp4</property>
@@ -11443,7 +12129,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer158" in="00:00:00,000" out="00:00:50,255">
+ <producer id="producer193" in="00:00:00,000" out="00:00:50,255">
   <property name="length">1586</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_143147.mp4</property>
@@ -11511,7 +12197,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer159" in="00:00:00,000" out="00:01:18,010">
+ <producer id="producer194" in="00:00:00,000" out="00:01:18,010">
   <property name="length">2461</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_143537.mp4</property>
@@ -11576,7 +12262,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer160" in="00:00:00,000" out="00:00:08,180">
+ <producer id="producer195" in="00:00:00,000" out="00:00:08,180">
   <property name="length">259</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_144233.mp4</property>
@@ -11642,7 +12328,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer161" in="00:00:00,000" out="00:01:39,792">
+ <producer id="producer196" in="00:00:00,000" out="00:01:39,792">
   <property name="length">3148</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_144627.mp4</property>
@@ -11709,7 +12395,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer162" in="00:00:00,000" out="00:03:10,368">
+ <producer id="producer197" in="00:00:00,000" out="00:03:10,368">
   <property name="length">6004</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145110.mp4</property>
@@ -11777,7 +12463,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer163" in="00:00:00,000" out="00:00:19,785">
+ <producer id="producer198" in="00:00:00,000" out="00:00:19,785">
   <property name="length">625</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145107.mp4</property>
@@ -11842,7 +12528,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer164" in="00:00:00,000" out="00:00:19,817">
+ <producer id="producer199" in="00:00:00,000" out="00:00:19,817">
   <property name="length">626</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145314.mp4</property>
@@ -11907,7 +12593,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer165" in="00:00:00,000" out="00:00:42,931">
+ <producer id="producer200" in="00:00:00,000" out="00:00:42,931">
   <property name="length">1355</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145639.mp4</property>
@@ -11975,7 +12661,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer166" in="00:00:00,000" out="00:01:18,295">
+ <producer id="producer201" in="00:00:00,000" out="00:01:18,295">
   <property name="length">2470</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173248.mp4</property>
@@ -12042,7 +12728,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer167" in="00:00:00,000" out="00:00:31,707">
+ <producer id="producer202" in="00:00:00,000" out="00:00:31,707">
   <property name="length">1001</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173204.mp4</property>
@@ -12107,7 +12793,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer168" in="00:00:00,000" out="00:00:27,236">
+ <producer id="producer203" in="00:00:00,000" out="00:00:27,236">
   <property name="length">860</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173938.mp4</property>
@@ -12172,7 +12858,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer169" in="00:00:00,000" out="00:00:35,956">
+ <producer id="producer204" in="00:00:00,000" out="00:00:35,956">
   <property name="length">1135</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155645.mp4</property>
@@ -12240,7 +12926,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer170" in="00:00:00,000" out="00:00:40,965">
+ <producer id="producer205" in="00:00:00,000" out="00:00:40,965">
   <property name="length">1293</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155847.mp4</property>
@@ -12307,7 +12993,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer171" in="00:00:00,000" out="00:00:40,521">
+ <producer id="producer206" in="00:00:00,000" out="00:00:40,521">
   <property name="length">1279</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155845.mp4</property>
@@ -12372,7 +13058,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer172" in="00:00:00,000" out="00:00:08,497">
+ <producer id="producer207" in="00:00:00,000" out="00:00:08,497">
   <property name="length">269</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160049.mp4</property>
@@ -12437,7 +13123,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer173" in="00:00:00,000" out="00:00:50,192">
+ <producer id="producer208" in="00:00:00,000" out="00:00:50,192">
   <property name="length">1584</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_161026.mp4</property>
@@ -12505,7 +13191,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer174" in="00:00:00,000" out="00:01:34,085">
+ <producer id="producer209" in="00:00:00,000" out="00:01:34,085">
   <property name="length">2968</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162302.mp4</property>
@@ -12572,7 +13258,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer175" in="00:00:00,000" out="00:00:12,144">
+ <producer id="producer210" in="00:00:00,000" out="00:00:12,144">
   <property name="length">384</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162253.mp4</property>
@@ -12637,7 +13323,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer176" in="00:00:00,000" out="00:00:07,768">
+ <producer id="producer211" in="00:00:00,000" out="00:00:07,768">
   <property name="length">246</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162743.mp4</property>
@@ -12702,7 +13388,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer177" in="00:00:00,000" out="00:00:29,773">
+ <producer id="producer212" in="00:00:00,000" out="00:00:29,773">
   <property name="length">940</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160401.mp4</property>
@@ -12769,7 +13455,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer178" in="00:00:00,000" out="00:01:10,654">
+ <producer id="producer213" in="00:00:00,000" out="00:01:10,654">
   <property name="length">2229</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160633.mp4</property>
@@ -12837,7 +13523,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer179" in="00:00:00,000" out="00:00:15,378">
+ <producer id="producer214" in="00:00:00,000" out="00:00:15,378">
   <property name="length">486</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160631.mp4</property>
@@ -12902,7 +13588,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer180" in="00:00:00,000" out="00:00:12,175">
+ <producer id="producer215" in="00:00:00,000" out="00:00:12,175">
   <property name="length">385</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_174407.mp4</property>
@@ -12967,7 +13653,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer181" in="00:00:00,000" out="00:01:43,882">
+ <producer id="producer216" in="00:00:00,000" out="00:01:43,882">
   <property name="length">3277</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_174722.mp4</property>
@@ -13034,256 +13720,256 @@
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer113" in="00:00:52,697" out="00:01:22,131">
+  <entry producer="producer142" in="00:00:52,697" out="00:01:22,131">
    <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer114" in="00:01:00,634" out="00:01:26,126">
+  <entry producer="producer143" in="00:01:00,634" out="00:01:26,126">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer115" in="00:02:49,558" out="00:02:55,646">
+  <entry producer="producer144" in="00:02:49,558" out="00:02:55,646">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="producer116" in="00:00:06,468" out="00:00:14,014">
+  <entry producer="producer145" in="00:00:06,468" out="00:00:14,014">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer117" in="00:00:02,346" out="00:00:08,180">
+  <entry producer="producer146" in="00:00:02,346" out="00:00:08,180">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer118" in="00:00:20,324" out="00:00:39,665">
+  <entry producer="producer147" in="00:00:20,324" out="00:00:39,665">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer119" in="00:01:07,958" out="00:01:12,493">
+  <entry producer="producer148" in="00:01:07,958" out="00:01:12,493">
    <property name="kdenlive:id">12</property>
   </entry>
-  <entry producer="producer120" in="00:01:06,024" out="00:01:11,541">
+  <entry producer="producer149" in="00:01:06,024" out="00:01:11,541">
    <property name="kdenlive:id">11</property>
   </entry>
-  <entry producer="producer121" in="00:00:07,324" out="00:00:12,080">
+  <entry producer="producer150" in="00:00:07,324" out="00:00:12,080">
    <property name="kdenlive:id">16</property>
   </entry>
-  <entry producer="producer122" in="00:00:08,973" out="00:00:17,756">
+  <entry producer="producer151" in="00:00:08,973" out="00:00:17,756">
    <property name="kdenlive:id">15</property>
   </entry>
-  <entry producer="producer102" in="00:00:37,097" out="00:00:45,563">
+  <entry producer="producer152" in="00:00:37,097" out="00:00:45,563">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer102" in="00:01:36,526" out="00:01:51,270">
+  <entry producer="producer152" in="00:01:36,526" out="00:01:51,270">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer123" in="00:00:04,946" out="00:00:10,368">
+  <entry producer="producer153" in="00:00:04,946" out="00:00:10,368">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="producer124" in="00:00:22,068" out="00:00:28,283">
+  <entry producer="producer154" in="00:00:22,068" out="00:00:28,283">
    <property name="kdenlive:id">18</property>
   </entry>
-  <entry producer="producer125" in="00:00:01,680" out="00:00:10,622">
+  <entry producer="producer155" in="00:00:01,680" out="00:00:10,622">
    <property name="kdenlive:id">24</property>
   </entry>
-  <entry producer="producer126" in="00:01:43,026" out="00:02:08,117">
+  <entry producer="producer156" in="00:01:43,026" out="00:02:08,117">
    <property name="kdenlive:id">25</property>
   </entry>
-  <entry producer="producer126" in="00:02:11,954" out="00:02:20,197">
+  <entry producer="producer156" in="00:02:11,954" out="00:02:20,197">
    <property name="kdenlive:id">25</property>
   </entry>
-  <entry producer="producer127" in="00:00:38,080" out="00:00:47,402">
+  <entry producer="producer157" in="00:00:38,080" out="00:00:47,402">
    <property name="kdenlive:id">28</property>
   </entry>
-  <entry producer="producer128" in="00:00:57,865" out="00:01:01,712">
+  <entry producer="producer158" in="00:00:57,865" out="00:01:01,712">
    <property name="kdenlive:id">27</property>
   </entry>
-  <entry producer="producer129" in="00:01:26,761" out="00:01:33,419">
+  <entry producer="producer159" in="00:01:26,761" out="00:01:33,419">
    <property name="kdenlive:id">29</property>
   </entry>
-  <entry producer="producer79" in="00:00:59,165" out="00:01:22,258">
+  <entry producer="producer160" in="00:00:59,165" out="00:01:22,258">
    <property name="kdenlive:id">30</property>
   </entry>
-  <entry producer="producer79" in="00:01:54,821" out="00:02:09,449">
+  <entry producer="producer160" in="00:01:54,821" out="00:02:09,449">
    <property name="kdenlive:id">30</property>
   </entry>
-  <entry producer="producer82" in="00:23:44,992" out="00:23:48,638">
+  <entry producer="producer161" in="00:23:44,992" out="00:23:48,638">
    <property name="kdenlive:id">34</property>
   </entry>
-  <entry producer="producer83" in="00:01:55,202" out="00:02:01,110">
+  <entry producer="producer162" in="00:01:55,202" out="00:02:01,110">
    <property name="kdenlive:id">35</property>
   </entry>
-  <entry producer="producer130" in="00:00:05,612" out="00:00:09,924">
+  <entry producer="producer163" in="00:00:05,612" out="00:00:09,924">
    <property name="kdenlive:id">38</property>
   </entry>
-  <entry producer="producer131" in="00:00:14,871" out="00:00:32,785">
+  <entry producer="producer164" in="00:00:14,871" out="00:00:32,785">
    <property name="kdenlive:id">98</property>
   </entry>
-  <entry producer="producer131" in="00:00:46,197" out="00:01:03,012">
+  <entry producer="producer164" in="00:00:46,197" out="00:01:03,012">
    <property name="kdenlive:id">98</property>
   </entry>
-  <entry producer="producer132" in="00:00:09,512" out="00:00:16,171">
+  <entry producer="producer165" in="00:00:09,512" out="00:00:16,171">
    <property name="kdenlive:id">100</property>
   </entry>
-  <entry producer="producer133" in="00:00:12,334" out="00:00:20,070">
+  <entry producer="producer166" in="00:00:12,334" out="00:00:20,070">
    <property name="kdenlive:id">99</property>
   </entry>
-  <entry producer="producer134" in="00:00:11,193" out="00:00:21,180">
+  <entry producer="producer167" in="00:00:11,193" out="00:00:21,180">
    <property name="kdenlive:id">101</property>
   </entry>
-  <entry producer="producer135" in="00:00:08,117" out="00:00:24,066">
+  <entry producer="producer168" in="00:00:08,117" out="00:00:24,066">
    <property name="kdenlive:id">39</property>
   </entry>
-  <entry producer="producer136" in="00:00:49,209" out="00:00:54,409">
+  <entry producer="producer169" in="00:00:49,209" out="00:00:54,409">
    <property name="kdenlive:id">42</property>
   </entry>
-  <entry producer="producer137" in="00:00:39,253" out="00:00:43,597">
+  <entry producer="producer170" in="00:00:39,253" out="00:00:43,597">
    <property name="kdenlive:id">40</property>
   </entry>
-  <entry producer="producer138" in="00:00:08,878" out="00:00:14,427">
+  <entry producer="producer171" in="00:00:08,878" out="00:00:14,427">
    <property name="kdenlive:id">43</property>
   </entry>
-  <entry producer="producer139" in="00:00:00,000" out="00:00:22,639">
+  <entry producer="producer172" in="00:00:00,000" out="00:00:22,639">
    <property name="kdenlive:id">44</property>
   </entry>
-  <entry producer="producer140" in="00:00:30,312" out="00:00:35,607">
+  <entry producer="producer173" in="00:00:30,312" out="00:00:35,607">
    <property name="kdenlive:id">45</property>
   </entry>
-  <entry producer="producer141" in="00:00:25,936" out="00:00:30,629">
+  <entry producer="producer174" in="00:00:25,936" out="00:00:30,629">
    <property name="kdenlive:id">46</property>
   </entry>
-  <entry producer="producer142" in="00:00:27,395" out="00:00:43,407">
+  <entry producer="producer175" in="00:00:27,395" out="00:00:43,407">
    <property name="kdenlive:id">47</property>
   </entry>
-  <entry producer="producer143" in="00:00:50,636" out="00:01:19,024">
+  <entry producer="producer176" in="00:00:50,636" out="00:01:19,024">
    <property name="kdenlive:id">48</property>
   </entry>
-  <entry producer="producer144" in="00:00:01,966" out="00:00:09,258">
+  <entry producer="producer177" in="00:00:01,966" out="00:00:09,258">
    <property name="kdenlive:id">50</property>
   </entry>
-  <entry producer="producer145" in="00:00:07,705" out="00:00:12,397">
+  <entry producer="producer178" in="00:00:07,705" out="00:00:12,397">
    <property name="kdenlive:id">49</property>
   </entry>
-  <entry producer="producer146" in="00:00:00,666" out="00:00:09,385">
+  <entry producer="producer179" in="00:00:00,666" out="00:00:09,385">
    <property name="kdenlive:id">51</property>
   </entry>
-  <entry producer="producer147" in="00:00:02,061" out="00:00:33,514">
+  <entry producer="producer180" in="00:00:02,061" out="00:00:33,514">
    <property name="kdenlive:id">52</property>
   </entry>
-  <entry producer="producer148" in="00:01:20,451" out="00:01:26,697">
+  <entry producer="producer181" in="00:01:20,451" out="00:01:26,697">
    <property name="kdenlive:id">56</property>
   </entry>
-  <entry producer="producer149" in="00:01:11,763" out="00:01:17,217">
+  <entry producer="producer182" in="00:01:11,763" out="00:01:17,217">
    <property name="kdenlive:id">55</property>
   </entry>
-  <entry producer="producer150" in="00:00:40,997" out="00:00:47,370">
+  <entry producer="producer183" in="00:00:40,997" out="00:00:47,370">
    <property name="kdenlive:id">57</property>
   </entry>
-  <entry producer="producer9" in="00:00:29,329" out="00:00:34,782">
+  <entry producer="producer184" in="00:00:29,329" out="00:00:34,782">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer9" in="00:01:21,941" out="00:01:32,690">
+  <entry producer="producer184" in="00:01:21,941" out="00:01:32,690">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer9" in="00:01:34,370" out="00:01:49,812">
+  <entry producer="producer184" in="00:01:34,370" out="00:01:49,812">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer32" in="00:02:20,070" out="00:02:25,841">
+  <entry producer="producer185" in="00:02:20,070" out="00:02:25,841">
    <property name="kdenlive:id">61</property>
   </entry>
-  <entry producer="producer34" in="00:01:52,951" out="00:01:58,246">
+  <entry producer="producer186" in="00:01:52,951" out="00:01:58,246">
    <property name="kdenlive:id">60</property>
   </entry>
-  <entry producer="producer151" in="00:00:00,000" out="00:00:31,422">
+  <entry producer="producer187" in="00:00:00,000" out="00:00:31,422">
    <property name="kdenlive:id">62</property>
   </entry>
-  <entry producer="producer152" in="00:00:07,388" out="00:00:11,256">
+  <entry producer="producer188" in="00:00:07,388" out="00:00:11,256">
    <property name="kdenlive:id">64</property>
   </entry>
-  <entry producer="producer153" in="00:00:00,000" out="00:00:14,300">
+  <entry producer="producer189" in="00:00:00,000" out="00:00:14,300">
    <property name="kdenlive:id">65</property>
   </entry>
-  <entry producer="producer155" in="00:00:37,129" out="00:00:45,531">
+  <entry producer="producer190" in="00:00:37,129" out="00:00:45,531">
    <property name="kdenlive:id">68</property>
   </entry>
-  <entry producer="producer156" in="00:00:09,861" out="00:00:18,770">
+  <entry producer="producer191" in="00:00:09,861" out="00:00:18,770">
    <property name="kdenlive:id">67</property>
   </entry>
-  <entry producer="producer157" in="00:00:01,173" out="00:00:11,097">
+  <entry producer="producer192" in="00:00:01,173" out="00:00:11,097">
    <property name="kdenlive:id">69</property>
   </entry>
-  <entry producer="producer158" in="00:00:24,858" out="00:00:48,607">
+  <entry producer="producer193" in="00:00:24,858" out="00:00:48,607">
    <property name="kdenlive:id">70</property>
   </entry>
-  <entry producer="producer159" in="00:01:11,827" out="00:01:17,978">
+  <entry producer="producer194" in="00:01:11,827" out="00:01:17,978">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer159" in="00:01:12,175" out="00:01:18,010">
+  <entry producer="producer194" in="00:01:12,175" out="00:01:18,010">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer160" in="00:00:00,000" out="00:00:05,897">
+  <entry producer="producer195" in="00:00:00,000" out="00:00:05,897">
    <property name="kdenlive:id">73</property>
   </entry>
-  <entry producer="producer161" in="00:00:00,000" out="00:00:20,324">
+  <entry producer="producer196" in="00:00:00,000" out="00:00:20,324">
    <property name="kdenlive:id">74</property>
   </entry>
-  <entry producer="producer161" in="00:01:25,175" out="00:01:39,792">
+  <entry producer="producer196" in="00:01:25,175" out="00:01:39,792">
    <property name="kdenlive:id">74</property>
   </entry>
-  <entry producer="producer162" in="00:02:58,277" out="00:03:02,854">
+  <entry producer="producer197" in="00:02:58,277" out="00:03:02,854">
    <property name="kdenlive:id">76</property>
   </entry>
-  <entry producer="producer163" in="00:00:12,810" out="00:00:19,785">
+  <entry producer="producer198" in="00:00:12,810" out="00:00:19,785">
    <property name="kdenlive:id">75</property>
   </entry>
-  <entry producer="producer164" in="00:00:02,949" out="00:00:15,790">
+  <entry producer="producer199" in="00:00:02,949" out="00:00:15,790">
    <property name="kdenlive:id">77</property>
   </entry>
-  <entry producer="producer165" in="00:00:00,983" out="00:00:39,887">
+  <entry producer="producer200" in="00:00:00,983" out="00:00:39,887">
    <property name="kdenlive:id">79</property>
   </entry>
-  <entry producer="producer166" in="00:00:05,834" out="00:00:10,336">
+  <entry producer="producer201" in="00:00:05,834" out="00:00:10,336">
    <property name="kdenlive:id">104</property>
   </entry>
-  <entry producer="producer167" in="00:00:05,802" out="00:00:13,285">
+  <entry producer="producer202" in="00:00:05,802" out="00:00:13,285">
    <property name="kdenlive:id">103</property>
   </entry>
-  <entry producer="producer168" in="00:00:20,641" out="00:00:27,236">
+  <entry producer="producer203" in="00:00:20,641" out="00:00:27,236">
    <property name="kdenlive:id">105</property>
   </entry>
-  <entry producer="producer169" in="00:00:00,793" out="00:00:34,085">
+  <entry producer="producer204" in="00:00:00,793" out="00:00:34,085">
    <property name="kdenlive:id">83</property>
   </entry>
-  <entry producer="producer170" in="00:00:30,692" out="00:00:35,100">
+  <entry producer="producer205" in="00:00:30,692" out="00:00:35,100">
    <property name="kdenlive:id">85</property>
   </entry>
-  <entry producer="producer171" in="00:00:35,004" out="00:00:39,507">
+  <entry producer="producer206" in="00:00:35,004" out="00:00:39,507">
    <property name="kdenlive:id">84</property>
   </entry>
-  <entry producer="producer172" in="00:00:01,363" out="00:00:08,497">
+  <entry producer="producer207" in="00:00:01,363" out="00:00:08,497">
    <property name="kdenlive:id">87</property>
   </entry>
-  <entry producer="producer173" in="00:00:29,456" out="00:00:48,607">
+  <entry producer="producer208" in="00:00:29,456" out="00:00:48,607">
    <property name="kdenlive:id">92</property>
   </entry>
-  <entry producer="producer174" in="00:01:16,519" out="00:01:21,085">
+  <entry producer="producer209" in="00:01:16,519" out="00:01:21,085">
    <property name="kdenlive:id">94</property>
   </entry>
-  <entry producer="producer175" in="00:00:05,929" out="00:00:12,144">
+  <entry producer="producer210" in="00:00:05,929" out="00:00:12,144">
    <property name="kdenlive:id">93</property>
   </entry>
-  <entry producer="producer176" in="00:00:01,046" out="00:00:07,768">
+  <entry producer="producer211" in="00:00:01,046" out="00:00:07,768">
    <property name="kdenlive:id">96</property>
   </entry>
-  <entry producer="producer177" in="00:00:00,000" out="00:00:28,505">
+  <entry producer="producer212" in="00:00:00,000" out="00:00:28,505">
    <property name="kdenlive:id">88</property>
   </entry>
-  <entry producer="producer178" in="00:01:00,761" out="00:01:04,534">
+  <entry producer="producer213" in="00:01:00,761" out="00:01:04,534">
    <property name="kdenlive:id">90</property>
   </entry>
-  <entry producer="producer179" in="00:00:07,927" out="00:00:15,378">
+  <entry producer="producer214" in="00:00:07,927" out="00:00:15,378">
    <property name="kdenlive:id">89</property>
   </entry>
-  <entry producer="producer180" in="00:00:01,363" out="00:00:09,417">
+  <entry producer="producer215" in="00:00:01,363" out="00:00:09,417">
    <property name="kdenlive:id">106</property>
   </entry>
-  <entry producer="producer181" in="00:00:40,014" out="00:01:06,119">
+  <entry producer="producer216" in="00:00:40,014" out="00:01:06,119">
    <property name="kdenlive:id">107</property>
   </entry>
-  <entry producer="producer162" in="00:02:58,277" out="00:03:02,854">
+  <entry producer="producer197" in="00:02:58,277" out="00:03:02,854">
    <property name="kdenlive:id">76</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter3">
@@ -13326,7 +14012,7 @@
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer182" in="00:00:00,000" out="00:01:30,026">
+ <producer id="producer217" in="00:00:00,000" out="00:01:30,026">
   <property name="length">2840</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_100553.mp4</property>
@@ -13393,7 +14079,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer183" in="00:00:00,000" out="00:01:29,424">
+ <producer id="producer218" in="00:00:00,000" out="00:01:29,424">
   <property name="length">2821</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_100824.mp4</property>
@@ -13461,7 +14147,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer184" in="00:00:00,000" out="00:04:41,695">
+ <producer id="producer219" in="00:00:00,000" out="00:04:41,695">
   <property name="length">8885</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_101613.mp4</property>
@@ -13528,7 +14214,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer185" in="00:00:00,000" out="00:00:14,014">
+ <producer id="producer220" in="00:00:00,000" out="00:00:14,014">
   <property name="length">443</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_101432.mp4</property>
@@ -13593,7 +14279,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer186" in="00:00:00,000" out="00:00:09,988">
+ <producer id="producer221" in="00:00:00,000" out="00:00:09,988">
   <property name="length">316</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_103207.mp4</property>
@@ -13658,7 +14344,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer187" in="00:00:00,000" out="00:01:38,429">
+ <producer id="producer222" in="00:00:00,000" out="00:01:38,429">
   <property name="length">3105</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_103931.mp4</property>
@@ -13725,7 +14411,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer188" in="00:00:00,000" out="00:01:28,283">
+ <producer id="producer223" in="00:00:00,000" out="00:01:28,283">
   <property name="length">2785</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_105108.mp4</property>
@@ -13792,7 +14478,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer189" in="00:00:00,000" out="00:01:13,951">
+ <producer id="producer224" in="00:00:00,000" out="00:01:13,951">
   <property name="length">2333</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_105058.mp4</property>
@@ -13857,7 +14543,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer190" in="00:00:00,000" out="00:00:18,453">
+ <producer id="producer225" in="00:00:00,000" out="00:00:18,453">
   <property name="length">583</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_110346.mp4</property>
@@ -13925,7 +14611,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer191" in="00:00:00,000" out="00:00:23,368">
+ <producer id="producer226" in="00:00:00,000" out="00:00:23,368">
   <property name="length">738</property>
   <property name="eof">pause</property>
   <property name="resource">0,600000:videos/VID_20200515_110342.mp4</property>
@@ -13987,7 +14673,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:id">15</property>
  </producer>
- <producer id="producer192" in="00:00:00,000" out="00:02:30,153">
+ <producer id="producer227" in="00:00:00,000" out="00:02:30,153">
   <property name="length">4736</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_110918.mp4</property>
@@ -14054,7 +14740,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer193" in="00:00:00,000" out="00:00:33,514">
+ <producer id="producer228" in="00:00:00,000" out="00:00:33,514">
   <property name="length">1058</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111217.mp4</property>
@@ -14119,7 +14805,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer194" in="00:00:00,000" out="00:00:28,283">
+ <producer id="producer229" in="00:00:00,000" out="00:00:28,283">
   <property name="length">893</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111156.mp4</property>
@@ -14184,7 +14870,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer195" in="00:00:00,000" out="00:00:10,622">
+ <producer id="producer230" in="00:00:00,000" out="00:00:10,622">
   <property name="length">336</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_111703.mp4</property>
@@ -14249,7 +14935,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer196" in="00:00:00,000" out="00:02:22,924">
+ <producer id="producer231" in="00:00:00,000" out="00:02:22,924">
   <property name="length">4508</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_112152.mp4</property>
@@ -14317,7 +15003,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer197" in="00:00:00,000" out="00:01:17,185">
+ <producer id="producer232" in="00:00:00,000" out="00:01:17,185">
   <property name="length">2435</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_113156.mp4</property>
@@ -14385,7 +15071,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer198" in="00:00:00,000" out="00:01:27,141">
+ <producer id="producer233" in="00:00:00,000" out="00:01:27,141">
   <property name="length">2749</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_113153.mp4</property>
@@ -14450,7 +15136,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer199" in="00:00:00,000" out="00:01:38,334">
+ <producer id="producer234" in="00:00:00,000" out="00:01:38,334">
   <property name="length">3102</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_114512.mp4</property>
@@ -14516,7 +15202,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer200" in="00:00:00,000" out="00:02:23,970">
+ <producer id="producer235" in="00:00:00,000" out="00:02:23,970">
   <property name="length">4541</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_115056.mp4</property>
@@ -14583,7 +15269,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer201" in="00:00:00,000" out="00:23:51,048">
+ <producer id="producer236" in="00:00:00,000" out="00:23:51,048">
   <property name="length">45134</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_121516.mp4</property>
@@ -14650,7 +15336,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer202" in="00:00:00,000" out="00:02:05,612">
+ <producer id="producer237" in="00:00:00,000" out="00:02:05,612">
   <property name="length">3962</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_121523.mp4</property>
@@ -14715,7 +15401,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer203" in="00:00:00,000" out="00:00:09,924">
+ <producer id="producer238" in="00:00:00,000" out="00:00:09,924">
   <property name="length">314</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_122722.mp4</property>
@@ -14780,7 +15466,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer204" in="00:00:00,000" out="00:01:05,644">
+ <producer id="producer239" in="00:00:00,000" out="00:01:05,644">
   <property name="length">2071</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_164756.mp4</property>
@@ -14848,7 +15534,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer205" in="00:00:00,000" out="00:02:08,402">
+ <producer id="producer240" in="00:00:00,000" out="00:02:08,402">
   <property name="length">4050</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165133.mp4</property>
@@ -14916,7 +15602,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer206" in="00:00:00,000" out="00:01:07,736">
+ <producer id="producer241" in="00:00:00,000" out="00:01:07,736">
   <property name="length">2137</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165034.mp4</property>
@@ -14981,7 +15667,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer207" in="00:00:00,000" out="00:00:21,180">
+ <producer id="producer242" in="00:00:00,000" out="00:00:21,180">
   <property name="length">669</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_165326.mp4</property>
@@ -15047,7 +15733,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer208" in="00:00:00,000" out="00:00:27,712">
+ <producer id="producer243" in="00:00:00,000" out="00:00:27,712">
   <property name="length">875</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_123937.mp4</property>
@@ -15114,7 +15800,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer209" in="00:00:00,000" out="00:02:30,375">
+ <producer id="producer244" in="00:00:00,000" out="00:02:30,375">
   <property name="length">4743</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124336.mp4</property>
@@ -15182,7 +15868,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer210" in="00:00:00,000" out="00:01:41,631">
+ <producer id="producer245" in="00:00:00,000" out="00:01:41,631">
   <property name="length">3206</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124300.mp4</property>
@@ -15247,7 +15933,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer211" in="00:00:00,000" out="00:00:19,880">
+ <producer id="producer246" in="00:00:00,000" out="00:00:19,880">
   <property name="length">628</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124525.mp4</property>
@@ -15312,7 +15998,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer212" in="00:00:00,000" out="00:00:40,331">
+ <producer id="producer247" in="00:00:00,000" out="00:00:40,331">
   <property name="length">1273</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_124853.mp4</property>
@@ -15380,7 +16066,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer213" in="00:00:00,000" out="00:00:42,804">
+ <producer id="producer248" in="00:00:00,000" out="00:00:42,804">
   <property name="length">1351</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125029.mp4</property>
@@ -15448,7 +16134,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer214" in="00:00:00,000" out="00:01:48,258">
+ <producer id="producer249" in="00:00:00,000" out="00:01:48,258">
   <property name="length">3415</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125142.mp4</property>
@@ -15513,7 +16199,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer215" in="00:00:00,000" out="00:00:43,407">
+ <producer id="producer250" in="00:00:00,000" out="00:00:43,407">
   <property name="length">1370</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125227.mp4</property>
@@ -15579,7 +16265,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer216" in="00:00:00,000" out="00:02:24,985">
+ <producer id="producer251" in="00:00:00,000" out="00:02:24,985">
   <property name="length">4573</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_125554.mp4</property>
@@ -15647,7 +16333,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer217" in="00:00:00,000" out="00:00:23,590">
+ <producer id="producer252" in="00:00:00,000" out="00:00:23,590">
   <property name="length">745</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130035.mp4</property>
@@ -15714,7 +16400,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer218" in="00:00:00,000" out="00:00:12,397">
+ <producer id="producer253" in="00:00:00,000" out="00:00:12,397">
   <property name="length">392</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130023.mp4</property>
@@ -15779,7 +16465,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer219" in="00:00:00,000" out="00:00:09,385">
+ <producer id="producer254" in="00:00:00,000" out="00:00:09,385">
   <property name="length">297</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130154.mp4</property>
@@ -15844,7 +16530,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer220" in="00:00:00,000" out="00:00:36,241">
+ <producer id="producer255" in="00:00:00,000" out="00:00:36,241">
   <property name="length">1144</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_130457.mp4</property>
@@ -15912,7 +16598,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer221" in="00:00:00,000" out="00:01:42,297">
+ <producer id="producer256" in="00:00:00,000" out="00:01:42,297">
   <property name="length">3227</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_131849.mp4</property>
@@ -15979,7 +16665,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer222" in="00:00:00,000" out="00:01:23,273">
+ <producer id="producer257" in="00:00:00,000" out="00:01:23,273">
   <property name="length">2627</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_131843.mp4</property>
@@ -16044,7 +16730,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer223" in="00:00:00,000" out="00:00:52,380">
+ <producer id="producer258" in="00:00:00,000" out="00:00:52,380">
   <property name="length">1653</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_132632.mp4</property>
@@ -16109,7 +16795,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer224" in="00:00:00,000" out="00:02:02,093">
+ <producer id="producer259" in="00:00:00,000" out="00:02:02,093">
   <property name="length">3851</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_134858.mp4</property>
@@ -16174,7 +16860,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer225" in="00:00:00,000" out="00:02:52,982">
+ <producer id="producer260" in="00:00:00,000" out="00:02:52,982">
   <property name="length">5456</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_135455.mp4</property>
@@ -16241,7 +16927,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer226" in="00:00:00,000" out="00:01:58,246">
+ <producer id="producer261" in="00:00:00,000" out="00:01:58,246">
   <property name="length">3730</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_135431.mp4</property>
@@ -16306,7 +16992,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer227" in="00:00:00,000" out="00:00:32,690">
+ <producer id="producer262" in="00:00:00,000" out="00:00:32,690">
   <property name="length">1032</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_140753.mp4</property>
@@ -16371,7 +17057,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer228" in="00:00:00,000" out="00:00:12,493">
+ <producer id="producer263" in="00:00:00,000" out="00:00:12,493">
   <property name="length">395</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_140956.mp4</property>
@@ -16438,7 +17124,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer229" in="00:00:00,000" out="00:00:23,336">
+ <producer id="producer264" in="00:00:00,000" out="00:00:23,336">
   <property name="length">737</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_141924.mp4</property>
@@ -16505,7 +17191,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer231" in="00:00:00,000" out="00:02:40,268">
+ <producer id="producer265" in="00:00:00,000" out="00:02:40,268">
   <property name="length">5055</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142444.mp4</property>
@@ -16573,7 +17259,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer232" in="00:00:00,000" out="00:00:18,770">
+ <producer id="producer266" in="00:00:00,000" out="00:00:18,770">
   <property name="length">593</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142255.mp4</property>
@@ -16638,7 +17324,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer233" in="00:00:00,000" out="00:00:11,097">
+ <producer id="producer267" in="00:00:00,000" out="00:00:11,097">
   <property name="length">351</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_142929.mp4</property>
@@ -16703,7 +17389,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer234" in="00:00:00,000" out="00:00:50,255">
+ <producer id="producer268" in="00:00:00,000" out="00:00:50,255">
   <property name="length">1586</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_143147.mp4</property>
@@ -16771,7 +17457,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer235" in="00:00:00,000" out="00:02:31,326">
+ <producer id="producer269" in="00:00:00,000" out="00:02:31,326">
   <property name="length">4773</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_143557.mp4</property>
@@ -16838,7 +17524,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer236" in="00:00:00,000" out="00:01:18,010">
+ <producer id="producer270" in="00:00:00,000" out="00:01:18,010">
   <property name="length">2461</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_143537.mp4</property>
@@ -16903,7 +17589,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer237" in="00:00:00,000" out="00:00:08,180">
+ <producer id="producer271" in="00:00:00,000" out="00:00:08,180">
   <property name="length">259</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_144233.mp4</property>
@@ -16969,7 +17655,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer238" in="00:00:00,000" out="00:01:39,792">
+ <producer id="producer272" in="00:00:00,000" out="00:01:39,792">
   <property name="length">3148</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_144627.mp4</property>
@@ -17036,7 +17722,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer239" in="00:00:00,000" out="00:03:10,368">
+ <producer id="producer273" in="00:00:00,000" out="00:03:10,368">
   <property name="length">6004</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145110.mp4</property>
@@ -17104,7 +17790,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer240" in="00:00:00,000" out="00:00:19,785">
+ <producer id="producer274" in="00:00:00,000" out="00:00:19,785">
   <property name="length">625</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145107.mp4</property>
@@ -17169,7 +17855,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer241" in="00:00:00,000" out="00:00:19,817">
+ <producer id="producer275" in="00:00:00,000" out="00:00:19,817">
   <property name="length">626</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145314.mp4</property>
@@ -17234,7 +17920,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer242" in="00:00:00,000" out="00:00:42,931">
+ <producer id="producer276" in="00:00:00,000" out="00:00:42,931">
   <property name="length">1355</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_145639.mp4</property>
@@ -17302,7 +17988,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer243" in="00:00:00,000" out="00:01:18,295">
+ <producer id="producer277" in="00:00:00,000" out="00:01:18,295">
   <property name="length">2470</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173248.mp4</property>
@@ -17369,7 +18055,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer244" in="00:00:00,000" out="00:00:31,707">
+ <producer id="producer278" in="00:00:00,000" out="00:00:31,707">
   <property name="length">1001</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173204.mp4</property>
@@ -17434,7 +18120,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer245" in="00:00:00,000" out="00:00:27,236">
+ <producer id="producer279" in="00:00:00,000" out="00:00:27,236">
   <property name="length">860</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_173938.mp4</property>
@@ -17499,7 +18185,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer246" in="00:00:00,000" out="00:00:35,956">
+ <producer id="producer280" in="00:00:00,000" out="00:00:35,956">
   <property name="length">1135</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155645.mp4</property>
@@ -17567,7 +18253,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer247" in="00:00:00,000" out="00:00:40,965">
+ <producer id="producer281" in="00:00:00,000" out="00:00:40,965">
   <property name="length">1293</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155847.mp4</property>
@@ -17634,7 +18320,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer248" in="00:00:00,000" out="00:00:40,521">
+ <producer id="producer282" in="00:00:00,000" out="00:00:40,521">
   <property name="length">1279</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_155845.mp4</property>
@@ -17699,7 +18385,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer249" in="00:00:00,000" out="00:00:08,497">
+ <producer id="producer283" in="00:00:00,000" out="00:00:08,497">
   <property name="length">269</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160049.mp4</property>
@@ -17764,7 +18450,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer250" in="00:00:00,000" out="00:00:50,192">
+ <producer id="producer284" in="00:00:00,000" out="00:00:50,192">
   <property name="length">1584</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_161026.mp4</property>
@@ -17832,7 +18518,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer251" in="00:00:00,000" out="00:01:34,085">
+ <producer id="producer285" in="00:00:00,000" out="00:01:34,085">
   <property name="length">2968</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162302.mp4</property>
@@ -17899,7 +18585,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer252" in="00:00:00,000" out="00:00:12,144">
+ <producer id="producer286" in="00:00:00,000" out="00:00:12,144">
   <property name="length">384</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162253.mp4</property>
@@ -17964,7 +18650,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer253" in="00:00:00,000" out="00:00:07,768">
+ <producer id="producer287" in="00:00:00,000" out="00:00:07,768">
   <property name="length">246</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_162743.mp4</property>
@@ -18029,7 +18715,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer254" in="00:00:00,000" out="00:00:29,773">
+ <producer id="producer288" in="00:00:00,000" out="00:00:29,773">
   <property name="length">940</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160401.mp4</property>
@@ -18096,7 +18782,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer255" in="00:00:00,000" out="00:01:10,654">
+ <producer id="producer289" in="00:00:00,000" out="00:01:10,654">
   <property name="length">2229</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160633.mp4</property>
@@ -18164,7 +18850,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer256" in="00:00:00,000" out="00:00:15,378">
+ <producer id="producer290" in="00:00:00,000" out="00:00:15,378">
   <property name="length">486</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_160631.mp4</property>
@@ -18229,7 +18915,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer257" in="00:00:00,000" out="00:00:12,175">
+ <producer id="producer291" in="00:00:00,000" out="00:00:12,175">
   <property name="length">385</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_174407.mp4</property>
@@ -18294,7 +18980,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer258" in="00:00:00,000" out="00:01:43,882">
+ <producer id="producer292" in="00:00:00,000" out="00:01:43,882">
   <property name="length">3277</property>
   <property name="eof">pause</property>
   <property name="resource">videos/VID_20200515_174722.mp4</property>
@@ -18360,256 +19046,256 @@
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist4">
-  <entry producer="producer182" in="00:00:52,697" out="00:01:22,131">
+  <entry producer="producer217" in="00:00:52,697" out="00:01:22,131">
    <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer183" in="00:01:00,634" out="00:01:26,126">
+  <entry producer="producer218" in="00:01:00,634" out="00:01:26,126">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer184" in="00:02:49,558" out="00:02:55,646">
+  <entry producer="producer219" in="00:02:49,558" out="00:02:55,646">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="producer185" in="00:00:06,468" out="00:00:14,014">
+  <entry producer="producer220" in="00:00:06,468" out="00:00:14,014">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer186" in="00:00:02,346" out="00:00:08,180">
+  <entry producer="producer221" in="00:00:02,346" out="00:00:08,180">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer187" in="00:00:20,324" out="00:00:39,665">
+  <entry producer="producer222" in="00:00:20,324" out="00:00:39,665">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer188" in="00:01:07,958" out="00:01:12,493">
+  <entry producer="producer223" in="00:01:07,958" out="00:01:12,493">
    <property name="kdenlive:id">12</property>
   </entry>
-  <entry producer="producer189" in="00:01:06,024" out="00:01:11,541">
+  <entry producer="producer224" in="00:01:06,024" out="00:01:11,541">
    <property name="kdenlive:id">11</property>
   </entry>
-  <entry producer="producer190" in="00:00:07,324" out="00:00:12,080">
+  <entry producer="producer225" in="00:00:07,324" out="00:00:12,080">
    <property name="kdenlive:id">16</property>
   </entry>
-  <entry producer="producer191" in="00:00:08,973" out="00:00:17,756">
+  <entry producer="producer226" in="00:00:08,973" out="00:00:17,756">
    <property name="kdenlive:id">15</property>
   </entry>
-  <entry producer="producer192" in="00:00:37,097" out="00:00:45,563">
+  <entry producer="producer227" in="00:00:37,097" out="00:00:45,563">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer192" in="00:01:36,526" out="00:01:51,270">
+  <entry producer="producer227" in="00:01:36,526" out="00:01:51,270">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer193" in="00:00:04,946" out="00:00:10,368">
+  <entry producer="producer228" in="00:00:04,946" out="00:00:10,368">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="producer194" in="00:00:22,068" out="00:00:28,283">
+  <entry producer="producer229" in="00:00:22,068" out="00:00:28,283">
    <property name="kdenlive:id">18</property>
   </entry>
-  <entry producer="producer195" in="00:00:01,680" out="00:00:10,622">
+  <entry producer="producer230" in="00:00:01,680" out="00:00:10,622">
    <property name="kdenlive:id">24</property>
   </entry>
-  <entry producer="producer196" in="00:01:43,026" out="00:02:08,117">
+  <entry producer="producer231" in="00:01:43,026" out="00:02:08,117">
    <property name="kdenlive:id">25</property>
   </entry>
-  <entry producer="producer196" in="00:02:11,954" out="00:02:20,197">
+  <entry producer="producer231" in="00:02:11,954" out="00:02:20,197">
    <property name="kdenlive:id">25</property>
   </entry>
-  <entry producer="producer197" in="00:00:38,080" out="00:00:47,402">
+  <entry producer="producer232" in="00:00:38,080" out="00:00:47,402">
    <property name="kdenlive:id">28</property>
   </entry>
-  <entry producer="producer198" in="00:00:57,865" out="00:01:01,712">
+  <entry producer="producer233" in="00:00:57,865" out="00:01:01,712">
    <property name="kdenlive:id">27</property>
   </entry>
-  <entry producer="producer199" in="00:01:26,761" out="00:01:33,419">
+  <entry producer="producer234" in="00:01:26,761" out="00:01:33,419">
    <property name="kdenlive:id">29</property>
   </entry>
-  <entry producer="producer200" in="00:00:59,165" out="00:01:22,258">
+  <entry producer="producer235" in="00:00:59,165" out="00:01:22,258">
    <property name="kdenlive:id">30</property>
   </entry>
-  <entry producer="producer200" in="00:01:54,821" out="00:02:09,449">
+  <entry producer="producer235" in="00:01:54,821" out="00:02:09,449">
    <property name="kdenlive:id">30</property>
   </entry>
-  <entry producer="producer201" in="00:23:44,992" out="00:23:48,638">
+  <entry producer="producer236" in="00:23:44,992" out="00:23:48,638">
    <property name="kdenlive:id">34</property>
   </entry>
-  <entry producer="producer202" in="00:01:55,202" out="00:02:01,110">
+  <entry producer="producer237" in="00:01:55,202" out="00:02:01,110">
    <property name="kdenlive:id">35</property>
   </entry>
-  <entry producer="producer203" in="00:00:05,612" out="00:00:09,924">
+  <entry producer="producer238" in="00:00:05,612" out="00:00:09,924">
    <property name="kdenlive:id">38</property>
   </entry>
-  <entry producer="producer204" in="00:00:14,871" out="00:00:32,785">
+  <entry producer="producer239" in="00:00:14,871" out="00:00:32,785">
    <property name="kdenlive:id">98</property>
   </entry>
-  <entry producer="producer204" in="00:00:46,197" out="00:01:03,012">
+  <entry producer="producer239" in="00:00:46,197" out="00:01:03,012">
    <property name="kdenlive:id">98</property>
   </entry>
-  <entry producer="producer205" in="00:00:09,512" out="00:00:16,171">
+  <entry producer="producer240" in="00:00:09,512" out="00:00:16,171">
    <property name="kdenlive:id">100</property>
   </entry>
-  <entry producer="producer206" in="00:00:12,334" out="00:00:20,070">
+  <entry producer="producer241" in="00:00:12,334" out="00:00:20,070">
    <property name="kdenlive:id">99</property>
   </entry>
-  <entry producer="producer207" in="00:00:11,193" out="00:00:21,180">
+  <entry producer="producer242" in="00:00:11,193" out="00:00:21,180">
    <property name="kdenlive:id">101</property>
   </entry>
-  <entry producer="producer208" in="00:00:08,117" out="00:00:24,066">
+  <entry producer="producer243" in="00:00:08,117" out="00:00:24,066">
    <property name="kdenlive:id">39</property>
   </entry>
-  <entry producer="producer209" in="00:00:49,209" out="00:00:54,409">
+  <entry producer="producer244" in="00:00:49,209" out="00:00:54,409">
    <property name="kdenlive:id">42</property>
   </entry>
-  <entry producer="producer210" in="00:00:39,253" out="00:00:43,597">
+  <entry producer="producer245" in="00:00:39,253" out="00:00:43,597">
    <property name="kdenlive:id">40</property>
   </entry>
-  <entry producer="producer211" in="00:00:08,878" out="00:00:14,427">
+  <entry producer="producer246" in="00:00:08,878" out="00:00:14,427">
    <property name="kdenlive:id">43</property>
   </entry>
-  <entry producer="producer212" in="00:00:00,000" out="00:00:22,639">
+  <entry producer="producer247" in="00:00:00,000" out="00:00:22,639">
    <property name="kdenlive:id">44</property>
   </entry>
-  <entry producer="producer213" in="00:00:30,312" out="00:00:35,607">
+  <entry producer="producer248" in="00:00:30,312" out="00:00:35,607">
    <property name="kdenlive:id">45</property>
   </entry>
-  <entry producer="producer214" in="00:00:25,936" out="00:00:30,629">
+  <entry producer="producer249" in="00:00:25,936" out="00:00:30,629">
    <property name="kdenlive:id">46</property>
   </entry>
-  <entry producer="producer215" in="00:00:27,395" out="00:00:43,407">
+  <entry producer="producer250" in="00:00:27,395" out="00:00:43,407">
    <property name="kdenlive:id">47</property>
   </entry>
-  <entry producer="producer216" in="00:00:50,636" out="00:01:19,024">
+  <entry producer="producer251" in="00:00:50,636" out="00:01:19,024">
    <property name="kdenlive:id">48</property>
   </entry>
-  <entry producer="producer217" in="00:00:01,966" out="00:00:09,258">
+  <entry producer="producer252" in="00:00:01,966" out="00:00:09,258">
    <property name="kdenlive:id">50</property>
   </entry>
-  <entry producer="producer218" in="00:00:07,705" out="00:00:12,397">
+  <entry producer="producer253" in="00:00:07,705" out="00:00:12,397">
    <property name="kdenlive:id">49</property>
   </entry>
-  <entry producer="producer219" in="00:00:00,666" out="00:00:09,385">
+  <entry producer="producer254" in="00:00:00,666" out="00:00:09,385">
    <property name="kdenlive:id">51</property>
   </entry>
-  <entry producer="producer220" in="00:00:02,061" out="00:00:33,514">
+  <entry producer="producer255" in="00:00:02,061" out="00:00:33,514">
    <property name="kdenlive:id">52</property>
   </entry>
-  <entry producer="producer221" in="00:01:20,451" out="00:01:26,697">
+  <entry producer="producer256" in="00:01:20,451" out="00:01:26,697">
    <property name="kdenlive:id">56</property>
   </entry>
-  <entry producer="producer222" in="00:01:11,763" out="00:01:17,217">
+  <entry producer="producer257" in="00:01:11,763" out="00:01:17,217">
    <property name="kdenlive:id">55</property>
   </entry>
-  <entry producer="producer223" in="00:00:40,997" out="00:00:47,370">
+  <entry producer="producer258" in="00:00:40,997" out="00:00:47,370">
    <property name="kdenlive:id">57</property>
   </entry>
-  <entry producer="producer224" in="00:00:29,329" out="00:00:34,782">
+  <entry producer="producer259" in="00:00:29,329" out="00:00:34,782">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer224" in="00:01:21,941" out="00:01:32,690">
+  <entry producer="producer259" in="00:01:21,941" out="00:01:32,690">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer224" in="00:01:34,370" out="00:01:49,812">
+  <entry producer="producer259" in="00:01:34,370" out="00:01:49,812">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer225" in="00:02:20,070" out="00:02:25,841">
+  <entry producer="producer260" in="00:02:20,070" out="00:02:25,841">
    <property name="kdenlive:id">61</property>
   </entry>
-  <entry producer="producer226" in="00:01:52,951" out="00:01:58,246">
+  <entry producer="producer261" in="00:01:52,951" out="00:01:58,246">
    <property name="kdenlive:id">60</property>
   </entry>
-  <entry producer="producer227" in="00:00:00,000" out="00:00:31,422">
+  <entry producer="producer262" in="00:00:00,000" out="00:00:31,422">
    <property name="kdenlive:id">62</property>
   </entry>
-  <entry producer="producer228" in="00:00:07,388" out="00:00:11,256">
+  <entry producer="producer263" in="00:00:07,388" out="00:00:11,256">
    <property name="kdenlive:id">64</property>
   </entry>
-  <entry producer="producer229" in="00:00:00,000" out="00:00:14,300">
+  <entry producer="producer264" in="00:00:00,000" out="00:00:14,300">
    <property name="kdenlive:id">65</property>
   </entry>
-  <entry producer="producer231" in="00:00:37,129" out="00:00:45,531">
+  <entry producer="producer265" in="00:00:37,129" out="00:00:45,531">
    <property name="kdenlive:id">68</property>
   </entry>
-  <entry producer="producer232" in="00:00:09,861" out="00:00:18,770">
+  <entry producer="producer266" in="00:00:09,861" out="00:00:18,770">
    <property name="kdenlive:id">67</property>
   </entry>
-  <entry producer="producer233" in="00:00:01,173" out="00:00:11,097">
+  <entry producer="producer267" in="00:00:01,173" out="00:00:11,097">
    <property name="kdenlive:id">69</property>
   </entry>
-  <entry producer="producer234" in="00:00:24,858" out="00:00:48,607">
+  <entry producer="producer268" in="00:00:24,858" out="00:00:48,607">
    <property name="kdenlive:id">70</property>
   </entry>
-  <entry producer="producer235" in="00:02:00,222" out="00:02:06,373">
+  <entry producer="producer269" in="00:02:00,222" out="00:02:06,373">
    <property name="kdenlive:id">72</property>
   </entry>
-  <entry producer="producer236" in="00:01:12,175" out="00:01:18,010">
+  <entry producer="producer270" in="00:01:12,175" out="00:01:18,010">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer237" in="00:00:00,000" out="00:00:05,897">
+  <entry producer="producer271" in="00:00:00,000" out="00:00:05,897">
    <property name="kdenlive:id">73</property>
   </entry>
-  <entry producer="producer238" in="00:00:00,000" out="00:00:20,324">
+  <entry producer="producer272" in="00:00:00,000" out="00:00:20,324">
    <property name="kdenlive:id">74</property>
   </entry>
-  <entry producer="producer238" in="00:01:25,175" out="00:01:39,792">
+  <entry producer="producer272" in="00:01:25,175" out="00:01:39,792">
    <property name="kdenlive:id">74</property>
   </entry>
-  <entry producer="producer239" in="00:02:58,277" out="00:03:02,854">
+  <entry producer="producer273" in="00:02:58,277" out="00:03:02,854">
    <property name="kdenlive:id">76</property>
   </entry>
-  <entry producer="producer240" in="00:00:12,810" out="00:00:19,785">
+  <entry producer="producer274" in="00:00:12,810" out="00:00:19,785">
    <property name="kdenlive:id">75</property>
   </entry>
-  <entry producer="producer241" in="00:00:02,949" out="00:00:15,790">
+  <entry producer="producer275" in="00:00:02,949" out="00:00:15,790">
    <property name="kdenlive:id">77</property>
   </entry>
-  <entry producer="producer242" in="00:00:00,983" out="00:00:39,887">
+  <entry producer="producer276" in="00:00:00,983" out="00:00:39,887">
    <property name="kdenlive:id">79</property>
   </entry>
-  <entry producer="producer243" in="00:00:05,834" out="00:00:10,336">
+  <entry producer="producer277" in="00:00:05,834" out="00:00:10,336">
    <property name="kdenlive:id">104</property>
   </entry>
-  <entry producer="producer244" in="00:00:05,802" out="00:00:13,285">
+  <entry producer="producer278" in="00:00:05,802" out="00:00:13,285">
    <property name="kdenlive:id">103</property>
   </entry>
-  <entry producer="producer245" in="00:00:20,641" out="00:00:27,236">
+  <entry producer="producer279" in="00:00:20,641" out="00:00:27,236">
    <property name="kdenlive:id">105</property>
   </entry>
-  <entry producer="producer246" in="00:00:00,793" out="00:00:34,085">
+  <entry producer="producer280" in="00:00:00,793" out="00:00:34,085">
    <property name="kdenlive:id">83</property>
   </entry>
-  <entry producer="producer247" in="00:00:30,692" out="00:00:35,100">
+  <entry producer="producer281" in="00:00:30,692" out="00:00:35,100">
    <property name="kdenlive:id">85</property>
   </entry>
-  <entry producer="producer248" in="00:00:35,004" out="00:00:39,507">
+  <entry producer="producer282" in="00:00:35,004" out="00:00:39,507">
    <property name="kdenlive:id">84</property>
   </entry>
-  <entry producer="producer249" in="00:00:01,363" out="00:00:08,497">
+  <entry producer="producer283" in="00:00:01,363" out="00:00:08,497">
    <property name="kdenlive:id">87</property>
   </entry>
-  <entry producer="producer250" in="00:00:29,456" out="00:00:48,607">
+  <entry producer="producer284" in="00:00:29,456" out="00:00:48,607">
    <property name="kdenlive:id">92</property>
   </entry>
-  <entry producer="producer251" in="00:01:16,519" out="00:01:21,085">
+  <entry producer="producer285" in="00:01:16,519" out="00:01:21,085">
    <property name="kdenlive:id">94</property>
   </entry>
-  <entry producer="producer252" in="00:00:05,929" out="00:00:12,144">
+  <entry producer="producer286" in="00:00:05,929" out="00:00:12,144">
    <property name="kdenlive:id">93</property>
   </entry>
-  <entry producer="producer253" in="00:00:01,046" out="00:00:07,768">
+  <entry producer="producer287" in="00:00:01,046" out="00:00:07,768">
    <property name="kdenlive:id">96</property>
   </entry>
-  <entry producer="producer254" in="00:00:00,000" out="00:00:28,505">
+  <entry producer="producer288" in="00:00:00,000" out="00:00:28,505">
    <property name="kdenlive:id">88</property>
   </entry>
-  <entry producer="producer255" in="00:01:00,761" out="00:01:04,534">
+  <entry producer="producer289" in="00:01:00,761" out="00:01:04,534">
    <property name="kdenlive:id">90</property>
   </entry>
-  <entry producer="producer256" in="00:00:07,927" out="00:00:15,378">
+  <entry producer="producer290" in="00:00:07,927" out="00:00:15,378">
    <property name="kdenlive:id">89</property>
   </entry>
-  <entry producer="producer257" in="00:00:01,363" out="00:00:09,417">
+  <entry producer="producer291" in="00:00:01,363" out="00:00:09,417">
    <property name="kdenlive:id">106</property>
   </entry>
-  <entry producer="producer258" in="00:00:40,014" out="00:01:06,119">
+  <entry producer="producer292" in="00:00:40,014" out="00:01:06,119">
    <property name="kdenlive:id">107</property>
   </entry>
-  <entry producer="producer239" in="00:02:58,277" out="00:03:02,854">
+  <entry producer="producer273" in="00:02:58,277" out="00:03:02,854">
    <property name="kdenlive:id">76</property>
   </entry>
  </playlist>
@@ -18624,7 +19310,52 @@
   <track hide="both" producer="playlist5"/>
  </tractor>
  <playlist id="playlist6">
-  <blank length="00:15:43,692"/>
+  <blank length="00:00:29,456"/>
+  <entry producer="producer125" in="00:00:00,000" out="00:00:25,492">
+   <property name="kdenlive:id">130</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter7">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">0=-2 401 489 683 1</property>
+    <property name="rotation">00:00:00,000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:19,563"/>
+  <entry producer="producer126" in="00:00:00,000" out="00:00:19,341">
+   <property name="kdenlive:id">142</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter8">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00,000=-7 401 494 681 1</property>
+    <property name="rotation">00:00:00,000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:23,717"/>
+  <entry producer="producer127" in="00:00:00,000" out="00:00:23,241">
+   <property name="kdenlive:id">152</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter9">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00,000=0 401 482 679 1</property>
+    <property name="rotation">00:00:00,000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:13:22,766"/>
   <entry producer="producer8" in="00:00:00,000" out="00:00:04,566">
    <property name="kdenlive:id">108</property>
   </entry>
@@ -18640,9 +19371,22 @@
   <track hide="audio" producer="playlist6"/>
   <track hide="both" producer="playlist7"/>
  </tractor>
- <playlist id="playlist8"/>
+ <playlist id="playlist8">
+  <blank length="00:00:54,980"/>
+  <entry producer="producer9" in="00:00:00,000" out="00:00:19,531">
+   <property name="kdenlive:id">110</property>
+  </entry>
+  <blank length="00:00:19,373"/>
+  <entry producer="producer32" in="00:00:00,000" out="00:00:23,685">
+   <property name="kdenlive:id">111</property>
+  </entry>
+  <blank length="00:00:23,273"/>
+  <entry producer="producer34" in="00:00:00,000" out="00:00:20,641">
+   <property name="kdenlive:id">112</property>
+  </entry>
+ </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00,000">
+ <tractor id="tractor4" in="00:00:00,000" out="00:02:41,568">
   <property name="kdenlive:track_name">teepads</property>
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -18707,21 +19451,21 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter7">
+  <filter id="filter10">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter8">
+  <filter id="filter11">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0,5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter9">
+  <filter id="filter12">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
