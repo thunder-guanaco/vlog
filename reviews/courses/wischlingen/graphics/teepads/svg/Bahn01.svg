@@ -18,7 +18,7 @@
    id="svg221"
    sodipodi:docname="Bahn01.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/opt/vlog/reviews/courses/wischlingen/graphics/teepads/png/Bahn01.png"
+   inkscape:export-filename="/opt/vlog/reviews/courses/wischlingen/graphics/teepads/Bahn01.png"
    inkscape:export-xdpi="121"
    inkscape:export-ydpi="121"><metadata
    id="metadata225"><rdf:RDF><cc:Work
@@ -33,16 +33,16 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview223"
    showgrid="false"
-   inkscape:zoom="0.41819022"
-   inkscape:cx="-452.71008"
-   inkscape:cy="-34.080944"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:zoom="0.85285735"
+   inkscape:cx="598.21318"
+   inkscape:cy="276.73423"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg221" />
+   inkscape:current-layer="g1108" />
     <g
    id="B-1"
    transform="matrix(-5.14783,0,0,-5.14783,1241.18,1762.89)">
@@ -591,6 +591,8 @@
 
 
 
+
+
                 </g>
             </g></g><g
      transform="translate(694.6205,41.386194)"
@@ -606,7 +608,9 @@
    id="text202"
    style="font-weight:700;font-size:150.00152588px;font-family:Arial-BoldMT, Arial, sans-serif;stroke-width:4.82676983"
    y="3120.989"
-   x="176.84499">95 METER</text>
+   x="176.84499">97 METER</text>
+
+
 
 
 
@@ -630,6 +634,8 @@
 
 
 
+
+
             </g></g><g
      transform="translate(694.6205,34.809733)"
      id="g1113"><path
@@ -645,6 +651,8 @@
    y="2898.8625 2898.8625"
    x="417.20728 525.56799"
    style="stroke-width:4.82676983">AR</tspan> 3</text>
+
+
 
 
 
