@@ -18,12 +18,12 @@
    id="svg668"
    sodipodi:docname="Bahn10.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/opt/vlog/reviews/courses/wischlingen/graphics/teepads/png/Bahn10.png"
+   inkscape:export-filename="/opt/vlog/reviews/courses/wischlingen/graphics/teepads/Bahn10-.png"
    inkscape:export-xdpi="121"
    inkscape:export-ydpi="121"><metadata
    id="metadata672"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,19 +33,21 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1016"
+   inkscape:window-height="1043"
    id="namedview670"
    showgrid="false"
-   inkscape:zoom="0.52591262"
-   inkscape:cx="580.27901"
-   inkscape:cy="380.39869"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:zoom="0.15547673"
+   inkscape:cx="67.339975"
+   inkscape:cy="1776.3918"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg668" />
+   inkscape:current-layer="svg668"
+   inkscape:showpageshadow="true"
+   borderlayer="true" />
     <g
    id="B9"
-   transform="matrix(-4.21724,0,0,-4.21724,1568.46,1343.57)">
+   transform="matrix(-5.1028604,0,0,-5.1028604,1751.3253,1414.4253)">
         <g
    transform="translate(-380,-525)"
    id="g417">
@@ -1314,6 +1316,7 @@
 
 
 
+
                 </g>
             </g></g><g
      transform="translate(694.6205,41.386184)"
@@ -1333,6 +1336,7 @@
    style="font-weight:700;font-size:31.07699966px;font-family:Arial-BoldMT, Arial, sans-serif"
    y="286.10501"
    x="1769.51">101 METER</text>
+
 
 
 
@@ -1359,6 +1363,7 @@
 
 
 
+
                 </g></g><g
      transform="translate(694.6205,34.809707)"
      id="g2585"><path
@@ -1376,6 +1381,7 @@
    id="tspan655"
    y="286.10501 286.10501"
    x="1781.51 1803.96">AR</tspan> 3</text>
+
 
 
 
