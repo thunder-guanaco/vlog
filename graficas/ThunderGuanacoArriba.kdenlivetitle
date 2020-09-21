@@ -1,0 +1,11 @@
+<kdenlivetitle duration="148" LC_NUMERIC="C" width="1920" height="1080" out="148">
+ <item type="QGraphicsTextItem" z-index="2">
+  <position x="216" y="50">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content line-spacing="0" shadow="1;#ff000000;99;0;0" font-underline="0" box-height="176" font-outline-color="0,0,0,255" font="Carlito" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="4" font-weight="75" font-outline="2.1" box-width="1488.98" font-color="255,255,255,255">Thunder Guanaco</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>
