@@ -17,6 +17,7 @@
 - [ ] Anhyzer de derechas
 - [ ] Como hacer approach
 - [ ] Como hacer putts
+- [ ] Como tirar recto
 
 - [ ] Shot shapes
 - [ ] Como jugar con viento
