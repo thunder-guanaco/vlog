@@ -361,70 +361,6 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.color_range">full</property>
  </producer>
- <producer id="producer6" in="00:00:00.000" out="00:00:46.267">
-  <property name="length">1389</property>
-  <property name="eof">pause</property>
-  <property name="resource">videos/PXL_20201222_113714265.mp4</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">11</property>
-  <property name="kdenlive:file_size">128688667</property>
-  <property name="kdenlive:file_hash">b94e8390127610963689dd73a92078bb</property>
-  <property name="kdenlive:audio_max">1</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">aac</property>
-  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">191979</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
-  <property name="meta.attr.0.stream.language.markup">eng</property>
-  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">30.0871</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.width">1920</property>
-  <property name="meta.media.1.codec.height">1080</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.frame_rate">90000</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.color_trc">6</property>
-  <property name="meta.media.1.codec.name">h264</property>
-  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.1.codec.bit_rate">22040939</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
-  <property name="meta.attr.1.stream.language.markup">eng</property>
-  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
-  <property name="meta.attr.location.markup">+36.7220-4.4358/</property>
-  <property name="meta.attr.location-eng.markup">+36.7220-4.4358/</property>
-  <property name="meta.attr.com.android.capture.fps.markup">30.000000</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">31342500</property>
-  <property name="meta.media.frame_rate_den">1041727</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">6</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
  <producer id="producer7" in="00:00:00.000" out="00:00:15.667">
   <property name="length">471</property>
   <property name="eof">pause</property>
@@ -611,6 +547,70 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.color_range">full</property>
  </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:00:46.267">
+  <property name="length">1389</property>
+  <property name="eof">pause</property>
+  <property name="resource">videos/PXL_20201222_113714265.mp4</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">128688667</property>
+  <property name="kdenlive:file_hash">b94e8390127610963689dd73a92078bb</property>
+  <property name="kdenlive:audio_max">1</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">191979</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">30.0871</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.width">1920</property>
+  <property name="meta.media.1.codec.height">1080</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.color_trc">6</property>
+  <property name="meta.media.1.codec.name">h264</property>
+  <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.1.codec.bit_rate">22040939</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-12-22T11:38:01.000000Z</property>
+  <property name="meta.attr.location.markup">+36.7220-4.4358/</property>
+  <property name="meta.attr.location-eng.markup">+36.7220-4.4358/</property>
+  <property name="meta.attr.com.android.capture.fps.markup">30.000000</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">31342500</property>
+  <property name="meta.media.frame_rate_den">1041727</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">6</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
  <producer id="producer10" in="00:00:00.000" out="00:00:04.967">
   <property name="length">150</property>
   <property name="eof">pause</property>
@@ -622,7 +622,7 @@
   <property name="kdenlive:duration">150</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:id">12</property>
   <property name="kdenlive:file_hash">5b23d34e1e02b6ee0d48862a10f343dd</property>
   <property name="force_reload">0</property>
   <property name="meta.media.width">1920</property>
@@ -640,36 +640,16 @@
   <property name="kdenlive:docproperties.externalproxyparams"/>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
-  <property name="kdenlive:docproperties.kdenliveversion">20.12.0</property>
-  <property name="kdenlive:docproperties.position">10990</property>
-  <property name="kdenlive:docproperties.previewextension"/>
-  <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/federico/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile0</property>
-  <property name="kdenlive:docproperties.proxyextension"/>
-  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
-  <property name="kdenlive:docproperties.proxyimagesize">800</property>
-  <property name="kdenlive:docproperties.proxyminsize">1000</property>
-  <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">5143</property>
-  <property name="kdenlive:docproperties.seekOffset">30000</property>
-  <property name="kdenlive:docproperties.version">1</property>
-  <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
-  <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">8</property>
-  <property name="kdenlive:expandedFolders"/>
-  <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:docproperties.groups">[
     {
         "children": [
             {
-                "data": "2:6472",
+                "data": "2:9873",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:6472",
+                "data": "1:9873",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -679,12 +659,12 @@
     {
         "children": [
             {
-                "data": "2:2933",
+                "data": "1:10498",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:2933",
+                "data": "2:10498",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -694,12 +674,12 @@
     {
         "children": [
             {
-                "data": "0:0",
+                "data": "1:2346",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:0",
+                "data": "2:2346",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -709,12 +689,12 @@
     {
         "children": [
             {
-                "data": "1:2455",
+                "data": "2:5288",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:2455",
+                "data": "1:5288",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -724,12 +704,12 @@
     {
         "children": [
             {
-                "data": "2:9393",
+                "data": "2:6553",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:9393",
+                "data": "1:6553",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -739,12 +719,12 @@
     {
         "children": [
             {
-                "data": "2:10271",
+                "data": "2:8673",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:10271",
+                "data": "1:8673",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -769,12 +749,12 @@
     {
         "children": [
             {
-                "data": "2:8775",
+                "data": "2:10169",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:8775",
+                "data": "1:10169",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -784,12 +764,12 @@
     {
         "children": [
             {
-                "data": "2:6655",
+                "data": "2:9291",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:6655",
+                "data": "1:9291",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -799,12 +779,12 @@
     {
         "children": [
             {
-                "data": "2:5390",
+                "data": "2:6713",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:5390",
+                "data": "1:6713",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -813,165 +793,15 @@
     },
     {
         "children": [
-            {
-                "data": "1:2393",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:2393",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:10600",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:10600",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "2:9975",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:9975",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:9423",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:9423",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "2:9246",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:9246",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:8253",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:8253",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:7026",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:7026",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:4715",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:4715",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "2:3187",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:3187",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:3382",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:3382",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "2:967",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
             {
                 "data": "1:967",
                 "leaf": "clip",
                 "type": "Leaf"
+            },
+            {
+                "data": "2:967",
+                "leaf": "clip",
+                "type": "Leaf"
             }
         ],
         "type": "AVSplit"
@@ -979,12 +809,162 @@
     {
         "children": [
             {
-                "data": "2:6815",
+                "data": "1:3280",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:6815",
+                "data": "2:3280",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:3085",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3085",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:4613",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:4613",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:6924",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:6924",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:2408",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2408",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:8151",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:8151",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:9144",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:9144",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:2886",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:2886",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:9321",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:9321",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "2:6370",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:6370",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -993,6 +973,16 @@
     }
 ]
 </property>
+  <property name="kdenlive:docproperties.kdenliveversion">20.12.0</property>
+  <property name="kdenlive:docproperties.position">10813</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">/home/federico/.var/app/org.kde.kdenlive/data/kdenlive/profiles/customprofile0</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.renderaudioquality">192</property>
   <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
@@ -1014,6 +1004,16 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">espuma.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:docproperties.scrollPos">678</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:01:34.367"/>
   <entry producer="producer1" in="00:00:00.000" out="00:00:00.000"/>
@@ -1021,13 +1021,13 @@
   <entry producer="producer3" in="00:00:00.000" out="00:03:24.933"/>
   <entry producer="producer4" in="00:00:00.000" out="00:01:51.867"/>
   <entry producer="producer5" in="00:00:00.000" out="00:01:23.400"/>
-  <entry producer="producer6" in="00:00:00.000" out="00:00:46.267"/>
   <entry producer="producer7" in="00:00:00.000" out="00:00:15.667"/>
   <entry producer="producer8" in="00:00:00.000" out="00:01:20.167"/>
   <entry producer="producer9" in="00:00:00.000" out="00:00:11.000"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:46.267"/>
   <entry producer="producer10" in="00:00:00.000" out="00:00:04.967"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:22:48.367">
+ <producer id="black_track" in="00:00:00.000" out="00:22:44.967">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -1973,7 +1973,7 @@
   <entry producer="producer12" in="00:00:37.467" out="00:00:49.933">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer13" in="00:00:00.000" out="00:00:47.500">
+  <entry producer="producer13" in="00:00:01.567" out="00:00:47.500">
    <property name="kdenlive:id">4</property>
   </entry>
   <entry producer="producer14" in="00:00:15.833" out="00:00:17.867">
@@ -1982,7 +1982,7 @@
   <entry producer="producer13" in="00:00:53.733" out="00:01:09.633">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer12" in="00:00:49.967" out="00:00:58.400">
+  <entry producer="producer12" in="00:00:51.800" out="00:00:58.400">
    <property name="kdenlive:id">5</property>
   </entry>
   <entry producer="producer15" in="00:00:19.467" out="00:00:25.933">
@@ -2035,7 +2035,7 @@
   </entry>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000" out="00:06:03.333">
+ <tractor id="tractor1" in="00:00:00.000" out="00:05:59.933">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -2923,7 +2923,7 @@
   <entry producer="producer25" in="00:00:37.467" out="00:00:49.933">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:47.500">
+  <entry producer="producer26" in="00:00:01.567" out="00:00:47.500">
    <property name="kdenlive:id">4</property>
   </entry>
   <entry producer="producer27" in="00:00:15.833" out="00:00:17.867">
@@ -2932,7 +2932,7 @@
   <entry producer="producer26" in="00:00:53.733" out="00:01:09.633">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer25" in="00:00:49.967" out="00:00:58.400">
+  <entry producer="producer25" in="00:00:51.800" out="00:00:58.400">
    <property name="kdenlive:id">5</property>
   </entry>
   <entry producer="producer28" in="00:00:19.467" out="00:00:25.933">
@@ -2985,7 +2985,7 @@
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:06:03.333">
+ <tractor id="tractor2" in="00:00:00.000" out="00:05:59.933">
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3119,17 +3119,17 @@
   <entry producer="producer38" in="00:00:25.367" out="00:00:45.067">
    <property name="kdenlive:id">11</property>
   </entry>
-  <blank length="00:03:08.967"/>
+  <blank length="00:03:05.567"/>
   <entry producer="producer39" in="00:00:00.000" out="00:00:00.000">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:02:34.633"/>
   <entry producer="producer10" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">13</property>
+   <property name="kdenlive:id">12</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:06:08.333">
+ <tractor id="tractor3" in="00:00:00.000" out="00:06:04.933">
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3138,7 +3138,7 @@
   <track hide="audio" producer="playlist6"/>
   <track producer="playlist7"/>
  </tractor>
- <tractor id="tractor4" global_feed="1" in="00:00:00.000" out="00:22:48.367">
+ <tractor id="tractor4" global_feed="1" in="00:00:00.000" out="00:22:44.967">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
