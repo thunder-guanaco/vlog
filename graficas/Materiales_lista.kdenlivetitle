@@ -1,0 +1,12 @@
+<kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="150">
+ <item type="QGraphicsTextItem" z-index="0">
+  <position x="60" y="130">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="116" font-outline-color="0,0,0,255" font="DejaVu Sans" letter-spacing="0" font-pixel-size="50" font-italic="0" alignment="1" font-weight="75" font-outline="2.1" box-width="305.703" font-color="255,255,255,255">▸ iDye Poly
+</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>
