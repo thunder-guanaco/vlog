@@ -533,12 +533,12 @@
     {
         "children": [
             {
-                "data": "0:8644",
+                "data": "1:5096",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:8644",
+                "data": "0:5096",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -548,57 +548,12 @@
     {
         "children": [
             {
-                "data": "1:10355",
+                "data": "1:2638",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:10355",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:6013",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:6013",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:7954",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:7954",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:3405",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:3405",
+                "data": "0:2638",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -614,81 +569,6 @@
             },
             {
                 "data": "1:880",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:3817",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:3817",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:2229",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:2229",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:3543",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:3543",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:2705",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:2705",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:7395",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:7395",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -719,6 +599,321 @@
             },
             {
                 "data": "1:8625",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:7954",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:7954",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:4985",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:4985",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:8644",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:8644",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:3405",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3405",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:3817",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3817",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:6692",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:6692",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:2705",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2705",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:5316",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:5316",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:4018",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:4018",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:7395",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:7395",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:10290",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:10290",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:1737",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1737",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:7845",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:7845",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:3543",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:3543",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:663",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:663",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:7554",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:7554",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:10825",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:10825",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:363",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:363",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:10355",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:10355",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:2229",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:2229",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:6013",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:6013",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -799,201 +994,6 @@
             }
         ],
         "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:2638",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:2638",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:5096",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:5096",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:5316",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:5316",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:10290",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:10290",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:1737",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:1737",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:4018",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:4018",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:6692",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:6692",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:10825",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:10825",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:663",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:663",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:7554",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:7554",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:7845",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:7845",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:4985",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:4985",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:363",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:363",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
     }
 ]
 </property>
@@ -1006,7 +1006,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
-  <property name="kdenlive:docproperties.position">13924</property>
+  <property name="kdenlive:docproperties.position">12562</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/manolo/.local/share/kdenlive/profiles/customprofile18</property>
@@ -1034,9 +1034,9 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/opt/vlog/pintando-discos/-1-limpiar-discos/limpiar.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">limpiar-discos.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">7086</property>
+  <property name="kdenlive:docproperties.scrollPos">3774</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/1612771023506</property>
   <property name="kdenlive:docproperties.version">1</property>
@@ -1044,7 +1044,7 @@
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">10</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
   <property name="kdenlive:expandedFolders">2;20;13</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -1063,7 +1063,7 @@
   <entry producer="producer12" in="00:00:00.000" out="00:00:03.757"/>
   <entry producer="producer13" in="00:00:00.000" out="00:00:23.574"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:18:29.549">
+ <producer id="black_track" in="00:00:00.000" out="00:17:53.123">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -2038,11 +2038,10 @@
   </entry>
   <entry producer="producer1" in="00:07:10.035" out="00:07:17.851">
    <property name="kdenlive:id">4</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
-  <entry producer="producer27" in="00:00:16.640" out="00:01:33.079">
+  <entry producer="producer27" in="00:00:16.640" out="00:00:56.628">
    <property name="kdenlive:id">16</property>
-   <filter id="filter0" in="00:01:29.373" out="00:01:33.079">
+   <filter id="filter0" in="00:00:56.250" out="00:00:56.628">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2067,7 +2066,7 @@
   </filter>
  </playlist>
  <playlist id="playlist1"/>
- <tractor id="tractor0" in="00:00:00.000" out="00:05:49.367">
+ <tractor id="tractor0" in="00:00:00.000" out="00:05:12.934">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">85</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3070,16 +3069,8 @@
   <entry producer="producer29" in="00:07:10.035" out="00:07:17.851">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer41" in="00:00:16.640" out="00:01:33.079">
+  <entry producer="producer41" in="00:00:16.640" out="00:00:56.628">
    <property name="kdenlive:id">16</property>
-   <filter id="filter2" in="00:01:31.768" out="00:01:33.104">
-    <property name="start">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="end">0</property>
-    <property name="alpha">-1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
    <filter id="filter5" in="00:00:16.640" out="00:00:17.447">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -3088,10 +3079,17 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter2" in="00:00:56.250" out="00:00:56.628">
+    <property name="start">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="end">0</property>
+    <property name="alpha">-1</property>
+   </filter>
   </entry>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000" out="00:05:49.367">
+ <tractor id="tractor1" in="00:00:00.000" out="00:05:12.934">
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -3115,10 +3113,9 @@
     <property name="alpha">-1</property>
    </filter>
   </entry>
-  <blank length="00:04:08.093"/>
+  <blank length="00:03:31.642"/>
   <entry producer="producer12" in="00:00:00.000" out="00:00:03.757">
    <property name="kdenlive:id">17</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter7" out="00:00:01.437">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -3130,7 +3127,7 @@
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:05:53.149">
+ <tractor id="tractor2" in="00:00:00.000" out="00:05:16.716">
   <property name="kdenlive:trackheight">65</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -3181,7 +3178,7 @@
   <track hide="audio" producer="playlist6"/>
   <track hide="both" producer="playlist7"/>
  </tractor>
- <tractor id="tractor4" global_feed="1" in="00:00:00.000" out="00:18:29.549">
+ <tractor id="tractor4" global_feed="1" in="00:00:00.000" out="00:17:53.123">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
