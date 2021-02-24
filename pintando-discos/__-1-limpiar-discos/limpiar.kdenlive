@@ -518,7 +518,7 @@
   <property name="kdenlive:folder.-1.20">titles</property>
   <property name="kdenlive:folder.-1.6">titles-right</property>
   <property name="kdenlive:folder.-1.13">titles-left</property>
-  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -533,12 +533,12 @@
     {
         "children": [
             {
-                "data": "1:5096",
+                "data": "1:195",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:5096",
+                "data": "0:195",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -548,12 +548,12 @@
     {
         "children": [
             {
-                "data": "1:2638",
+                "data": "1:0",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:2638",
+                "data": "0:0",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -569,36 +569,6 @@
             },
             {
                 "data": "1:880",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:3350",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:3350",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:8625",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:8625",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -719,6 +689,96 @@
             },
             {
                 "data": "1:5316",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:3350",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3350",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:5453",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:5453",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:5096",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:5096",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:8625",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:8625",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "0:3169",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:3169",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "AVSplit"
+    },
+    {
+        "children": [
+            {
+                "data": "1:2638",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:2638",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -934,66 +994,6 @@
             }
         ],
         "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:195",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:195",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "1:5453",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:5453",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
-    },
-    {
-        "children": [
-            {
-                "data": "0:3169",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:3169",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "AVSplit"
     }
 ]
 </property>
@@ -1006,7 +1006,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
-  <property name="kdenlive:docproperties.position">12562</property>
+  <property name="kdenlive:docproperties.position">12507</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/manolo/.local/share/kdenlive/profiles/customprofile18</property>
@@ -1036,7 +1036,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">limpiar-discos.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">3774</property>
+  <property name="kdenlive:docproperties.scrollPos">4072</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/1612771023506</property>
   <property name="kdenlive:docproperties.version">1</property>
@@ -3071,6 +3071,7 @@
   </entry>
   <entry producer="producer41" in="00:00:16.640" out="00:00:56.628">
    <property name="kdenlive:id">16</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter5" in="00:00:16.640" out="00:00:17.447">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -3085,6 +3086,7 @@
     <property name="kdenlive_id">fade_to_black</property>
     <property name="end">0</property>
     <property name="alpha">-1</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
