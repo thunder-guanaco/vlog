@@ -693,10 +693,10 @@
   &lt;position x="1275" y="130">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="232" font-outline-color="0,0,0,255" font="DejaVu Sans" letter-spacing="0" font-pixel-size="50" font-italic="0" alignment="1" font-weight="75" font-outline="2.1" box-width="563.578" font-color="255,255,255,255">▸ Espuma de afeitar
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="232" font-outline-color="0,0,0,255" font="DejaVu Sans" letter-spacing="0" font-pixel-size="50" font-italic="0" alignment="1" font-weight="75" font-outline="2.1" box-width="592.469" font-color="255,255,255,255">▸ Espuma de afeitar
 ▸ Plato de plástico
 ▸ Cinta de carrocero
-▸ Cuchillo jamonero&lt;/content>
+▸ Cuchillo jamonero *&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -729,7 +729,7 @@
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="290" font-outline-color="0,0,0,255" font="DejaVu Sans" letter-spacing="0" font-pixel-size="50" font-italic="0" alignment="1" font-weight="75" font-outline="2.1" box-width="635.313" font-color="255,255,255,255">▸ Espuma de afeitar
 ▸ Plato de plástico
 ▸ Cinta de carrocero
-▸ Cuchillo jamonero
+▸ Cuchillo jamonero *
 ▸ Jeringuilla (o similar)&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
@@ -763,9 +763,9 @@
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="348" font-outline-color="0,0,0,255" font="DejaVu Sans" letter-spacing="0" font-pixel-size="50" font-italic="0" alignment="1" font-weight="75" font-outline="2.1" box-width="635.313" font-color="255,255,255,255">▸ Espuma de afeitar
 ▸ Plato de plástico
 ▸ Cinta de carrocero
-▸ Cuchillo jamonero
+▸ Cuchillo jamonero *
 ▸ Jeringuilla (o similar)
-▸ Palillo&lt;/content>
+▸ Palillo (o similar)&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -777,7 +777,7 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer16" in="00:00:00.000" out="00:03:30.633">
+ <producer id="producer16" in="00:00:00.000" out="00:00:04.967">
   <property name="length">6320</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -1138,7 +1138,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
-  <property name="kdenlive:docproperties.position">3763</property>
+  <property name="kdenlive:docproperties.position">6392</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/manolo/.local/share/kdenlive/profiles/customprofile0</property>
@@ -1168,14 +1168,14 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">espuma.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">111</property>
+  <property name="kdenlive:docproperties.scrollPos">3000</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">13</property>
+  <property name="kdenlive:docproperties.zoom">10</property>
   <property name="kdenlive:expandedFolders">14</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:folder.-1.13">videos</property>
@@ -3221,7 +3221,19 @@
  </tractor>
  <playlist id="playlist4">
   <blank length="00:00:26.867"/>
-  <entry producer="producer16" in="00:00:00.000" out="00:03:30.633">
+  <entry producer="producer16" in="00:00:00.000" out="00:00:51.300">
+   <property name="kdenlive:id">15</property>
+  </entry>
+  <blank length="00:00:31.133"/>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:08.800">
+   <property name="kdenlive:id">15</property>
+  </entry>
+  <blank length="00:00:58.100"/>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:14.467">
+   <property name="kdenlive:id">15</property>
+  </entry>
+  <blank length="00:00:40.033"/>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:06.700">
    <property name="kdenlive:id">15</property>
   </entry>
   <blank length="00:02:02.333"/>
@@ -3256,13 +3268,25 @@
   <entry producer="producer11" in="00:00:00.000" out="00:00:14.333">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer12" in="00:00:00.000" out="00:01:01.800">
+  <entry producer="producer12" in="00:00:00.000" out="00:00:28.400">
    <property name="kdenlive:id">18</property>
   </entry>
-  <entry producer="producer13" in="00:00:00.000" out="00:01:08.767">
+  <blank length="00:00:31.133"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:02.233">
+   <property name="kdenlive:id">18</property>
+  </entry>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:06.533">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="producer14" in="00:00:00.000" out="00:00:54.433">
+  <blank length="00:00:58.100"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:04.100">
+   <property name="kdenlive:id">19</property>
+  </entry>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:10.333">
+   <property name="kdenlive:id">20</property>
+  </entry>
+  <blank length="00:00:40.033"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:04.033">
    <property name="kdenlive:id">20</property>
   </entry>
   <entry producer="producer15" in="00:00:00.000" out="00:00:02.633">
