@@ -1,3 +1,11 @@
+# Ideas
+
+- In the (Summer) Bag
+- Matchplay Mittwoch
+- Signal Iduna
+- Tremonia Series
+- European Teams Championships
+
 # Tutoriales
 
 ## Hechos
