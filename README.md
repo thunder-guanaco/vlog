@@ -5,6 +5,18 @@
 - Signal Iduna
 - Tremonia Series
 - European Teams Championships
+- Duelos:
+  - Jugar con un balón de fútbol
+  - Jugar con objetos del día a día
+  - Jugar con frisbees en campo corto
+  - Jugar con discos marca la papa SGSPORT: 29€ - 6 discos)
+-  Como entrenar:
+  -  Jyly
+  -  Conos
+  -  Como hacer approach
+  -  Jugar con el peor tiro 
+  -  Pique
+  -  
 
 # Tutoriales
 
