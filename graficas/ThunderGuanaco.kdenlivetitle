@@ -1,9 +1,9 @@
-<kdenlivetitle width="1920" duration="150" out="150" height="1080" LC_NUMERIC="de_DE.UTF-8">
- <item z-index="2" type="QGraphicsTextItem">
+<kdenlivetitle duration="600" LC_NUMERIC="C" width="1920" height="1080" out="600">
+ <item type="QGraphicsTextItem" z-index="2">
   <position x="407" y="105">
    <transform>1,0,0,0,1,0,0,0,1</transform>
   </position>
-  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="183" font-outline-color="0,0,0,255" shadow="1;#ff000000;99;0;0" font="Carlito" font-underline="0" font-outline="2.1" font-pixel-size="150" line-spacing="0" box-width="1106.22" font-color="255,255,255,255" alignment="4">Thunder Guanaco</content>
+  <content line-spacing="0" shadow="1;#ff000000;99;0;0" font-underline="0" box-height="172" font-outline-color="0,0,0,255" font="Ubuntu" letter-spacing="0" font-pixel-size="150" font-italic="0" typewriter="0;2;1;0;0" alignment="4" font-weight="75" font-outline="2.1" box-width="1244.77" font-color="255,255,255,255">Thunder Guanaco</content>
  </item>
  <startviewport rect="0,0,1920,1080"/>
  <endviewport rect="0,0,1920,1080"/>
