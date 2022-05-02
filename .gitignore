@@ -1,6 +1,21 @@
+# VIDEO
+*.mkv
+*.avi
 *.mp4
-*.jpg
+*.mpg
+*.mpeg
+*.webm
+
+# FOTOS
+**/videos/*jpg
+
+# BACKUP
 *_backup0.kdenlive
 *~
+
+# KDENLIVE
 kdenlive/*
+**/videothumbs/
+
+# GIT
 *.orig
