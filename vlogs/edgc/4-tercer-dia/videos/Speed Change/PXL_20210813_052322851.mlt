@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="7.4.0" root="/home/manolo" title="PXL_20210813_052322851.mp4">
+  <profile description="1920x1080 53.44fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="26721" frame_rate_den="500" colorspace="601"/>
+  <producer id="producer0" in="0" out="3212">
+    <property name="length">3213</property>
+    <property name="eof">pause</property>
+    <property name="resource">-1:/opt/vlog/vlogs/edgc/4-tercer-dia/videos/PXL_20210813_052322851.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">48000</property>
+    <property name="meta.media.0.codec.channels">2</property>
+    <property name="meta.media.0.codec.name">aac</property>
+    <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.0.codec.bit_rate">192032</property>
+    <property name="meta.attr.0.stream.rotate.markup">180</property>
+    <property name="meta.attr.0.stream.creation_time.markup">2021-08-13T05:24:24.000000Z</property>
+    <property name="meta.attr.0.stream.language.markup">eng</property>
+    <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+    <property name="meta.media.1.stream.type">video</property>
+    <property name="meta.media.1.stream.frame_rate">60.0492</property>
+    <property name="meta.media.1.stream.sample_aspect_ratio">1</property>
+    <property name="meta.media.1.codec.width">1920</property>
+    <property name="meta.media.1.codec.height">1080</property>
+    <property name="meta.media.1.codec.rotate">180</property>
+    <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+    <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.1.codec.colorspace">601</property>
+    <property name="meta.media.1.codec.color_trc">6</property>
+    <property name="meta.media.1.codec.name">h264</property>
+    <property name="meta.media.1.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.1.codec.bit_rate">16969762</property>
+    <property name="meta.attr.1.stream.rotate.markup">180</property>
+    <property name="meta.attr.1.stream.creation_time.markup">2021-08-13T05:24:24.000000Z</property>
+    <property name="meta.attr.1.stream.language.markup">eng</property>
+    <property name="meta.attr.1.stream.handler_name.markup">VideoHandle</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">isommp42</property>
+    <property name="meta.attr.creation_time.markup">2021-08-13T05:24:24.000000Z</property>
+    <property name="meta.attr.location.markup">+49.7827+14.6586/</property>
+    <property name="meta.attr.location-eng.markup">+49.7827+14.6586/</property>
+    <property name="meta.attr.com.android.capture.fps.markup">30.000000</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">-1</property>
+    <property name="warp_resource">/opt/vlog/vlogs/edgc/4-tercer-dia/videos/PXL_20210813_052322851.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="warp_pitch">1</property>
+  </producer>
+  <playlist id="playlist0">
+    <entry producer="producer0" in="0" out="3212"/>
+  </playlist>
+  <tractor id="tractor0" title="PXL_20210813_052322851.mp4" in="0" out="3212">
+    <track producer="playlist0"/>
+  </tractor>
+</mlt>

@@ -565,7 +565,7 @@
  <producer id="producer7" in="00:00:00.000" out="00:00:00.900">
   <property name="length">28</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/vlogs/edgc/beep.wav</property>
+  <property name="resource">/opt/vlog/sound-effects/beep.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -636,7 +636,7 @@
  <producer id="producer12" in="00:00:00.000" out="00:02:27.200">
   <property name="length">4417</property>
   <property name="eof">pause</property>
-  <property name="resource">Ikson - Shine (Official).wav</property>
+  <property name="resource">/opt/vlog/musica/ikson/Ikson - Shine (Official).wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -660,10 +660,6 @@
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.2">videos</property>
-  <property name="kdenlive:folder.-1.11">titles</property>
-  <property name="kdenlive:folder.-1.13">fotos</property>
-  <property name="kdenlive:folder.-1.18">audio</property>
-  <property name="kdenlive:folder.-1.21">musica</property>
   <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
@@ -829,6 +825,20 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.scrollPos">2185</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:expandedFolders">21;13</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:folder.-1.18">audio</property>
+  <property name="kdenlive:folder.-1.11">titles</property>
+  <property name="kdenlive:folder.-1.13">fotos</property>
+  <property name="kdenlive:folder.-1.21">musica</property>
   <property name="kdenlive:docproperties.renderaudioquality">192</property>
   <property name="kdenlive:docproperties.rendercategory">Custom</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
@@ -850,16 +860,6 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">entrenamiento.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">2185</property>
-  <property name="kdenlive:docproperties.seekOffset">30000</property>
-  <property name="kdenlive:docproperties.version">1.04</property>
-  <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
-  <property name="kdenlive:expandedFolders">13;21</property>
-  <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:01:34.433"/>
   <entry producer="producer3" in="00:00:00.000" out="00:00:10.167"/>
@@ -890,7 +890,7 @@
  <producer id="producer13" in="00:00:00.000" out="00:02:27.200">
   <property name="length">4417</property>
   <property name="eof">pause</property>
-  <property name="resource">Ikson - Shine (Official).wav</property>
+  <property name="resource">/opt/vlog/musica/ikson/Ikson - Shine (Official).wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1377,7 +1377,7 @@
  <producer id="producer23" in="00:00:00.000" out="00:00:00.900">
   <property name="length">28</property>
   <property name="eof">pause</property>
-  <property name="resource">/opt/vlog/vlogs/edgc/beep.wav</property>
+  <property name="resource">/opt/vlog/sound-effects/beep.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
