@@ -6,8 +6,10 @@
 *.mpeg
 *.webm
 
-# FOTOS
-**/videos/*jpg
+
+# ORIGINAL VIDEOS
+**/videos/*
+ALL_VIDEOS/
 
 # BACKUP
 *_backup0.kdenlive
@@ -19,3 +21,4 @@ kdenlive/*
 
 # GIT
 *.orig
+
